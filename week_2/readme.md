@@ -6,9 +6,8 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 
 # Before you begin:
 - [ ] Install <a href="https://gist.github.com/dbc-challenges/b91d17f4267107bcf523" target="_blank">Node.js</a>
-- [ ] Read the [Socrates JavaScript Labs](https://socrates.devbootcamp.com/labs/javascript/) (Through the section on Loops, exercises not required.)
-- [ ] Read through <a href="need link" target="_blank">Reading Material</a>
-- [ ] Read about [JavaScript 'Object' Objects](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/) (Understanding this well will be very beneficial.)
+- [ ] Read through <a href="need link" target="_blank">JavaScript Reading Material</a> (in the folder above)
+- [ ] Read about <a href="http://www.sitepoint.com/back-to-basics-javascript-object-syntax/" target="_blank">JavaScript 'Object' Objects</a> Understanding this well will be very beneficial.
 
 
 ## Resources

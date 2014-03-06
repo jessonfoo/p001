@@ -1,38 +1,31 @@
-# U#.W#: Name
+# U1.W2: JavaScript Variables and Object Types
 
 
 ## Learning Objectives
-1. objective 1
-2. objective 2
-3. objective 3
+1. Define local variables in JavaScript
+2. Create objects of different types in JavaScript
+3. Create and add objects to an array in JavaScript
+4. Use pre-written tests to drive development
 
 
-## Directions
+This challenge requires you to define JavaScript variables. The variables will be assigned different types of objects as values. Before working on this challenge, make sure you read through this week's <a href="" target="_blank">reading material</a>
 
-This is the process you should complete every time you work on a challenge. First read, then create pseudocode, write a solution, make it pass the tests, refactor the code, then reflect. 
+###1) Read the Errors
+You will be dependent upon the provided driver code to guide your development. First run the code and read the error message, then hypothesize about what you could do to fix the problem. This is your first introduction to test-driven development. 
 
-<!--Click the "Start" button above to open the gist AND go the exercise: <a href="http://socrates.devbootcamp.com/exercises/26" target="_blank">EXERCISE: Calculating the Array Total</a>-->
- 
-
-###1) Pseudocode
-List out the steps you need to complete to complete the challenge.  Write these in plain english and save them as comments. 
+###2) Pseudocode
+Pseudocode what you need to do to make each test pass in English. Make sure you write this out. 
 
 *NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
 
 ###2) Initial Solution
-Turn your pseudocode into code by translating each step into code. If your pseudocode is not easy to implement, modify it, and re-attempt to code it. 
+Turn your pseudocode into code by translating each step into code to make the tests pass. If your pseudocode is not easy to implement, modify it, and re-attempt to code it. 
 
 
-Once your code produces your expected output, save your file, add it to your stage, and commit your changes. 
-
-
-<!--###4) Review and Create Tests
-Click on the "See Specs" button in the exercise, and review the rspec tests that you just passed. 
--->
 ###3) Refactored Solution
-Read through your solution. Is the naming clear? Is the code concise (but readable)? Are you repeating yourself? Is everything necessary? 
+When you get to the point that all the error messages are passing, go back and check that you've written each solution concisely. 
 
-Remember: great code is rarely the fewest number of characters or lines, it's about how readable, extendable, and reusable it is.
+Are the names clear? Is the code concise (but readable)? Are you repeating yourself? Is everything you included necessary? 
 
 If you can't figure out how to refactor your initial solution, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank, you need to justify your omission.
 
@@ -47,8 +40,6 @@ Answer the following questions in your reflection:
 * What questions did you have while coding? What resources did you find to help you answer them?  
 * What concepts are you having trouble with, or did you just figure something out? If so, what?  
 * Did you learn any new skills or tricks?
-
-<!--###) Submit the Challenge-->
 
 
 ###5) Review another person's solution and leave a comment!
