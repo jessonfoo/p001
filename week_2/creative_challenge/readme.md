@@ -2,12 +2,48 @@
 
 
 ## Learning Objectives
-1. objective 1
-2. objective 2
-3. objective 3
+1. Define local variables in JavaScript
+2. Define functions in JavaScript
+3. Create, add elements to, access, and iterate over arrays in JavaScript
+4. Create, add properties to, delete properties from, and access values in object literals
 
 
 ## Directions
+
+## Learning Outcomes
+- work with JavaScript object literals
+    - create an object
+    - add properties to an object
+    - access values of object properties
+- use pre-written tests to drive development
+
+
+For this challenge, assume there is a teacher with a list of students and a list of their respective test scores.  The teacher is providing you with this data which looks like ...
+
+```javascript
+var students = ["Joseph", "Susan", "William", "Elizabeth"]
+
+var scores = [ [80, 70, 70, 100],
+               [85, 80, 90, 90],
+               [75, 70, 80, 75],
+               [100, 90, 95, 85] ]
+```
+
+
+You will take this data and transform it into a grade book.  The grade book will be a JavaScript Object object.
+
+The gist provides you with driver code: 9 tests for your code to pass.  The gist also provides 9 steps that direct you through completing the challenge.  You can think of the steps as ready-made pseudocode.
+
+
+
+## Optimize your learning 
+Once you've made all 9 tests pass, take a look at your code.  Is it readable?  Could it be simplified?  Refactor as appropriate.
+
+
+
+## Helpful Resources
+* JavaScript: [Object Syntax](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
+* Socrates JavaScript Labs: [Looping](https://socrates.devbootcamp.com/labs/javascript/loops/looping-basics)
 
 This is the process you should complete every time you work on a challenge. First read, then create pseudocode, write a solution, make it pass the tests, refactor the code, then reflect. 
 
