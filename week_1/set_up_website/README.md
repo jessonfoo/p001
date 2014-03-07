@@ -2,7 +2,7 @@
 
 You'll be using [Github Pages](http://pages.github.com/) to set your website.
 
-[Github Pages](http://pages.github.com/) use a Ruby ["gem"](http://guides.rubygems.org/what-is-a-gem/) (or collection of Ruby files) called [Jekyll](http://jekyllrb.com/docs/quickstart/) to create your website.
+[Github Pages](http://pages.github.com/) use a Ruby ["gem"](http://guides.rubygems.org/what-is-a-gem/) (or collection of Ruby files) called [Jekyll](http://jekyllrb.com/docs/quickstart/) to create your website./Users/becca/DBC/Curriculum/Phase 0/phase_0_unit_1/week_1/set_up_website/README.md
 
 
 
@@ -40,6 +40,6 @@ Download the Github desktop application.
 
 1. Log into [Github](http://www.github.com)
 2. [Create a new repository](https://github.com/new)
-![Create a new repo menu](https://raw.github.com/devbootcamp/phase_0_unit_1/master/week_1/cultural_assignment/readme.md)
+![Create a new repo menu](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/set_up_website/imgs/github-repo-0.jpg)
 
 3. 
