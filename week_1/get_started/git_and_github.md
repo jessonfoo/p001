@@ -40,7 +40,7 @@ Download the Github desktop application.
 
 Go through the following resources to learn more about git and Github.
 
-a. Read: [Version Control](http://skillcrush.com/2013/02/11/version-control/) 
+* Read: [Version Control](http://skillcrush.com/2013/02/11/version-control/) 
 * Slides: [Intro to Git and Github](http://girldevelopit.com/assets/github/index.html#/) from GirlDevelopIt.  Use your arrow keys to navigate the slides.
 * Read: Skillcrush's Git Series: [Git](http://skillcrush.com/2013/02/18/git/), [Getting Started with Git](http://skillcrush.com/2013/02/20/get-started-working-with-git/),
 * Video: [Git 3 Minute Primer](http://www.youtube.com/watch?v=_Jmkvv_nKTE)
