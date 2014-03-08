@@ -1,4 +1,4 @@
-:arrow_backward:  [Back](../)
+[Back](../)
 
 # Get Started
 

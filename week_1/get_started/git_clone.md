@@ -1,4 +1,4 @@
-:arrow_backward:  [Back](set_up_website.md)
+[Back](set_up_website.md)
 
 # Clone a Git repository
 

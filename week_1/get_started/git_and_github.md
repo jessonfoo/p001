@@ -1,4 +1,4 @@
-:arrow_backward:  [Back](README.md)
+[Back](README.md)
 
 # Git and Github 
 

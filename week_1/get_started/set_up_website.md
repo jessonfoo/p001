@@ -1,17 +1,21 @@
-:arrow_backward:  [Back](README.md)
+[Back](README.md)
 
 # Set up your website
 
 You'll be using [Github Pages](http://pages.github.com/) to set up your website.
+
+* [Create a website repository](#create-a-website-repository)
+* [Download the repository](#download-the-repository)
 
 
 ## Create a website repository
 
 
 1. **Log into [Github](http://www.github.com)**
-2. **[Start a new repository](https://github.com/new)**<br /><br />This will take you to the new repository form.<br /><br />![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/set_up_website/imgs/github-repo-1.jpg)
-3. **Fill out the new repository form.** <ul><li>You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.  </li><li>Check "Initialize this project with a README" and add an MIT license. You can read more about [Open Source licensing here.](http://www.slideshare.net/CodeMontage/writespeakcode-open-source-licenses)</li></ul>![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/set_up_website/imgs/github-repo-2.jpg)<br /><br />I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**.
-4. **Do a celebration dance!** :dancers: :tada: :dancer: <br /><br />![You have a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/set_up_website/imgs/github-repo-3.jpg)
+2. **[Start a new repository](https://github.com/new)**<br /><br />This will take you to the new repository form.<br /><br />![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-repo-1.jpg)
+3. **Fill out the new repository form.** <ul><li>You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.  </li><li>Check "Initialize this project with a README" and add an MIT license. You can read more about [Open Source licensing here.](http://www.slideshare.net/CodeMontage/writespeakcode-open-source-licenses)</li></ul>![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-repo-2.jpg)<br /><br />I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**.
+4. Click on the **"Create Repository" button**
+4. **Do a celebration dance!** <br />:dancers: :tada: :dancer: <br /><br />![You have a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-repo3.jpg)
 
 
 
@@ -33,14 +37,14 @@ If you are working on Linux and/or want to challenge yourself further, skip to t
 3. In the search bar, start searching for "github".  Your "[USERNAME].github.io" repository should come up in the list.
 4. Click on the "Clone to this computer" button.
 
-![Clone a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/set_up_website/imgs/github-app-1_clone.jpg)
+![Clone a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-app-1_clone.jpg)
 
 
 ### Cloning a repository with the command line
 
 This section is for Linux users or those who want to challenge themselves.  Later in DBC and in your life as a professional developer, you will use git and access Github using the command line (aka "terminal").
 
-Use [this tutorial](git_clone.md) to clone your repository on the command line.
+[Use this tutorial to clone your repository on the command line](git_clone.md).
 
 
 ### Bonus info: Github Pages
