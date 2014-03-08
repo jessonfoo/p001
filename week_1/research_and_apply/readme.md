@@ -1,55 +1,65 @@
-# U#.W#: Name
+# U1.W1: Intermediate HTML & CSS
+
 
 
 ## Learning Objectives
-1. objective 1
-2. objective 2
-3. objective 3
+1. Understand web standards
+2. Understand responsive design
 
 
 ## Directions
 
-This is the process you should complete every time you work on a challenge. First read, then create pseudocode, write a solution, make it pass the tests, refactor the code, then reflect. 
-
-<!--Click the "Start" button above to open the gist AND go the exercise: <a href="http://socrates.devbootcamp.com/exercises/26" target="_blank">EXERCISE: Calculating the Array Total</a>-->
- 
-
-###1) Pseudocode
-List out the steps you need to complete to complete the challenge.  Write these in plain english and save them as comments. 
-
-*NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
-
-###2) Initial Solution
-Turn your pseudocode into code by translating each step into code. If your pseudocode is not easy to implement, modify it, and re-attempt to code it. 
+Everything in this challenge is within the context of the `unit1_week` folder in your website repository.
 
 
-Once your code produces your expected output, save your file, add it to your stage, and commit your changes. 
+### 1) Web Standards & HTML5
+
+#### a) Research
+
+Do some research into standard practices of web design, reset css, and HTML5.
+
+* Slides: [Structure standards and HTML5](http://girldevelopit.com/assets/intermediate-html-css/class1.html#/17)
 
 
-<!--###4) Review and Create Tests
-Click on the "See Specs" button in the exercise, and review the rspec tests that you just passed. 
--->
-###3) Refactored Solution
-Read through your solution. Is the naming clear? Is the code concise (but readable)? Are you repeating yourself? Is everything necessary? 
+#### b) Apply
+Download the [practice files](http://girldevelopit.com/assets/intermediate-html-css/class1.zip).  Unzip the folder into your `unit1_week1` folder.
 
-Remember: great code is rarely the fewest number of characters or lines, it's about how readable, extendable, and reusable it is.
+* Add reset.css to your index.html file. What happens?
+* Update the header links to jump to sections
+* Make links change color on hover
+* Change the font (@fontface) for elements on the site.
+* Change some elements to semantic HTML5 elements (i.e. header, section, etc)
 
-If you can't figure out how to refactor your initial solution, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank, you need to justify your omission.
+#### c) Reflect
 
-###4) Reflection
-When writing your reflection, write it for an audience. Tell a story of what you tried and what you learned. It will make it easier for you to go back and re-teach yourself or know what you were thinking. 
-
-Also, your reflections aren't just for teachers, they are for your fellow cohort mates as well, so be generous! You could end up helping a fellow student learn something new.
-
-Answer the following questions in your reflection:
-
-* What parts of your strategy worked? What problems did you face?    
-* What questions did you have while coding? What resources did you find to help you answer them?  
-* What concepts are you having trouble with, or did you just figure something out? If so, what?  
-* Did you learn any new skills or tricks?
-
-<!--###) Submit the Challenge-->
+??
 
 
-###5) Review another person's solution and leave a comment!
 
+### 2) Responsive Web Design
+
+#### a) Research
+
+Look into responsive web design.  What is it? Why is it used?
+
+* Slides: [Introduction to Responsive Web Design and Compatability](http://girldevelopit.com/assets/intermediate-html-css/class4.html#/4/2)
+* Read: [Beginners guide to responsive web design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)
+* Make: [Treehouse: Build a Responsive Website](http://teamtreehouse.com/library/build-a-responsive-website)
+* Slides: [Web Accessibility](http://girldevelopit.com/assets/web-accessibility/index.html)
+* Read: [Change your browsers user agent](http://osxdaily.com/2013/01/16/change-user-agent-chrome-safari-firefox/)
+
+
+#### b) Apply
+
+Using either a new html page in the `unit1_week1` folder or [practice files](http://girldevelopit.com/assets/intermediate-html-css/class4.zip) unzipped into the `unit1_week1` folder, try to make your page more responsive.  
+
+How does it look when
+* on your phone 
+* on a tablet
+* on really wide screen
+* resized really small
+* the user agent is changed in your browser
+
+#### c) Reflect
+
+??

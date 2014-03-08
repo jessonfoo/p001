@@ -20,5 +20,7 @@ Writing reflections is an essential part of your learning process.  It will help
 
 ### 2) Edit the reflections file
 
+(Can edit from github web or go use Github app to clone, add, commit, and push)
+
 
 

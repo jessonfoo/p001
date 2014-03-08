@@ -8,24 +8,9 @@ Each section will have a list of **challenges and exercises** for you to complet
 
 ## 1) [Get Started](get_started/)
 
+## 2) [Beginning HTML & CSS](experiment_to_learn/)
 
-
-----
-
-1. Research and Apply
-	* intro to web concepts
-	* html 1
-	* html 2
-	* css 1
-	* css 2
-2. experiment to learn
-	* chrome web tools
-3. creative
-	* play around with your site (css 2? design stuff?)
-	* css-tricks
-	* take screenshots along the way if want
-4. blog
-	* what did
-	* productivity/fear?
-
-
+## 3) [Intermediate HTML & CSS](research_and_apply/)
+## 4) [Your website](creative_challenge/)
+## 5) [Comparing websites](technical_blog/)
+## 6) [Get to know your group](group_challenge/)

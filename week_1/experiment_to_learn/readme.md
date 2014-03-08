@@ -1,55 +1,139 @@
-# U#.W#: Name
+# U1.W1: Beginning HTML & CSS
+
 
 
 ## Learning Objectives
-1. objective 1
-2. objective 2
-3. objective 3
+1. Create a simple website from the ground up using HTML and CSS
+2. Modify and improve the design of a simple website using CSS
+3. Use and manipulate CSS using Chrome Web Tools
 
 
 ## Directions
 
-This is the process you should complete every time you work on a challenge. First read, then create pseudocode, write a solution, make it pass the tests, refactor the code, then reflect. 
+Everything in this challenge is within the context of the [website](../get_started/set_up_repo.md) you set up in the [get started](../get_started/) section.
 
-<!--Click the "Start" button above to open the gist AND go the exercise: <a href="http://socrates.devbootcamp.com/exercises/26" target="_blank">EXERCISE: Calculating the Array Total</a>-->
- 
+### 1) Set up folders
 
-###1) Pseudocode
-List out the steps you need to complete to complete the challenge.  Write these in plain english and save them as comments. 
+* create a `unit1_week1` folder
+* within the unit1_week1 folder create an `images` folder
+* within the unit1_week1 folder, create a `stylesheets` folder
 
-*NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
+From this point forward, all work will happen within the `unit1_week` folder.  All images should go in the `unit1_week1/images` folder and all css files should go in the `unit1_week/stylesheets` folder.
 
-###2) Initial Solution
-Turn your pseudocode into code by translating each step into code. If your pseudocode is not easy to implement, modify it, and re-attempt to code it. 
+### 2) Intro to HTML
 
+#### a) Learn
 
-Once your code produces your expected output, save your file, add it to your stage, and commit your changes. 
+* Slides: [Intro to HTML](http://girldevelopit.com/assets/html-css/class1.html)
 
+**Optional resources**
 
-<!--###4) Review and Create Tests
-Click on the "See Specs" button in the exercise, and review the rspec tests that you just passed. 
--->
-###3) Refactored Solution
-Read through your solution. Is the naming clear? Is the code concise (but readable)? Are you repeating yourself? Is everything necessary? 
+* [Build a simple website](http://teamtreehouse.com/library/build-a-simple-website)
+* [Beginners guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [HTML tag cheatsheet](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
 
-Remember: great code is rarely the fewest number of characters or lines, it's about how readable, extendable, and reusable it is.
-
-If you can't figure out how to refactor your initial solution, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank, you need to justify your omission.
-
-###4) Reflection
-When writing your reflection, write it for an audience. Tell a story of what you tried and what you learned. It will make it easier for you to go back and re-teach yourself or know what you were thinking. 
-
-Also, your reflections aren't just for teachers, they are for your fellow cohort mates as well, so be generous! You could end up helping a fellow student learn something new.
-
-Answer the following questions in your reflection:
-
-* What parts of your strategy worked? What problems did you face?    
-* What questions did you have while coding? What resources did you find to help you answer them?  
-* What concepts are you having trouble with, or did you just figure something out? If so, what?  
-* Did you learn any new skills or tricks?
-
-<!--###) Submit the Challenge-->
+What else can you find?
 
 
-###5) Review another person's solution and leave a comment!
+#### b) Experiment
+Create a new html page in your repository called `dbc1.html`
 
+Add the following to `dbc1.html`
+
+* doctype, head, title, and body
+* Add one heading of each level (h1-h6) 
+* 2-3 short paragraphs
+* Some italic and bold text
+* Links that open in the same window, a new window and link to an e-mail address.
+* Images and an image that's also a link
+* Line break
+* Unordered list and an ordered list
+
+### 2) Intro to CSS
+
+#### a) Learn
+
+* Slides: [Intro to CSS](http://girldevelopit.com/assets/html-css/class2.html)
+
+**Optional resources**
+
+* [CSS Basics (styling)](http://www.cssbasics.com/introduction-to-css/) * [Mozilla's CSS - Getting Started](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started) (sections 1-6 if you're unfamiliar with CSS, sections 3-5 if you're familiar with CSS)
+* [Hexidecimal color](http://skillcrush.com/2012/05/07/hexadecimal/)
+* [Classes vs IDs](http://skillcrush.com/2013/01/28/understanding-css-classes-vs-ids/)
+
+
+#### b) Experiment
+Create a new css file in your repository called `dbc1.css` and save it to the `stylesheets/` directory.
+
+* Link the `dbc1.css` file to your html file using the "external" method
+* Add colors, background colors or fonts of different parts of the page
+* Use ids and classes to change specific elements
+
+
+### 3) More HTML
+
+#### a) Learn
+
+* Slides: [Intro to CSS](http://girldevelopit.com/assets/html-css/class3.html)
+
+**Optional resources**
+
+* [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)
+
+#### b) Experiment
+Create a new html page in your repository called `dbc2.html`
+
+Add the following to `dbc2.html`
+
+* header, content area, sidebar, and a footer using divs
+* spans
+* Add padding, borders, and margins
+* center your document in the browser
+* add width and height to divs and give ids
+
+
+### 4) More CSS
+
+#### a) Learn
+
+* Slides: [More CSS](http://girldevelopit.com/assets/intermediate-html-css/class1.html#/17)
+
+**Optional resources**
+
+- [Downloading CSS from a website](http://www.cssbasics.com/download-css-styles-from-a-website/)
+-  [Decoupling HTML from CSS](http://coding.smashingmagazine.com/2012/04/20/decoupling-html-from-css/)
+
+
+#### b) Experiment
+Create a new css file in your repository called `dbc2.css` and save it to the `stylesheets/` directory.
+
+Link the `dbc2.css` file to your `dbc2.html` file
+
+Add the following to `dbc2.css`:
+
+* psuedo-classes for links
+* positioning
+* a div that contains an image and a caption, and position the caption absolutely overtop the image.
+* float side bar and content area
+
+Structure and Standards
+http://girldevelopit.com/assets/intermediate-html-css/class1.html
+
+
+### 5) Chrome Web Tools
+
+#### a) Learn
+
+* [What's the DOM?](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Introduction)
+* [DOM](http://skillcrush.com/2012/10/17/dom-document-object-model/)
+* [Chrome Web Tools Challenge](https://socrates.devbootcamp.com/challenges/463)
+
+
+#### b) Experiment
+
+Play with changing the CSS of your web page using Chrome Web Tools.
+
+Visit any blog on [wordpress.com](http://www.wordpress.com) or create your own.  Use the Chrome Web Tools to take a peek into the site.  How does it differ from your html and css?
+
+
+### 6) Reflect 

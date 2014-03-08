@@ -1,4 +1,4 @@
-[Back](set_up_website.md)
+[Back](set_up_repo.md)
 
 # Clone a Git repository
 
@@ -10,7 +10,7 @@ The SSH ("Secure Shell") url is what you will use to clone your repository with 
 
 You can find it at the bottom of the left sidebar on your repository page on Github.
 
-![Clone a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/set_up_website/imgs/github-command-1.jpg)
+![Clone a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-command.jpg)
 
 ### Clone it!
 

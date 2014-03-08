@@ -23,3 +23,6 @@ Also, your reflections aren't just for teachers, they are for your fellow cohort
 * What new thing did you learn about the web?
 * How did you feel when you saw your web page live?
 * Did you have an "aha" moments or were any concepts solidified?
+
+## 3) HTML & CSS
+

@@ -1,40 +1,37 @@
-# U#.W#: Name
+# U1.W1: Your website
 
 
 ## Learning Objectives
-1. objective 1
-2. objective 2
-3. objective 3
+1. Understand wireframing a website
+2. Personalize your website
+3. Learn about web design
 
 
 ## Directions
-
-This is the process you should complete every time you work on a challenge. First read, then create pseudocode, write a solution, make it pass the tests, refactor the code, then reflect. 
-
-<!--Click the "Start" button above to open the gist AND go the exercise: <a href="http://socrates.devbootcamp.com/exercises/26" target="_blank">EXERCISE: Calculating the Array Total</a>-->
  
+ We're going to make your [USERNAME].github.io website truly yours.  This challenge is a chance for you to customize and make the site reflect you.  You will work on the `index.html` page through this challenge.
+ 
+### 1) Delve into Design
+ 
+* List of links: [Design resources for developers](https://gist.github.com/jenmyers/7354863)
+* Slides: [Straight up Design](https://speakerdeck.com/jenmyers/straight-up-design)
+* List of tutorials: [10 tutorials for beginning web designers](http://code.tutsplus.com/articles/10-hand-picked-tutorials-for-beginning-web-designers--net-9341)
+* Read: Food for thought -- [Design for performance](https://speakerdeck.com/lara/design-for-performance)
 
-###1) Pseudocode
-List out the steps you need to complete to complete the challenge.  Write these in plain english and save them as comments. 
+### 2) Wireframing
 
-*NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
+#### Learn
 
-###2) Initial Solution
-Turn your pseudocode into code by translating each step into code. If your pseudocode is not easy to implement, modify it, and re-attempt to code it. 
+* Read: [A Beginners Guide to Wireframing](http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-wireframing--webdesign-7399)
 
+#### Apply
 
-Once your code produces your expected output, save your file, add it to your stage, and commit your changes. 
+* Create a wireframe of your website.  You can use pen and paper or a wireframing tool.  
+* Take a screenshot, photo, or save the file.  Add, commit, and push the file to Github.
 
+### 3) Code it up
 
-<!--###4) Review and Create Tests
-Click on the "See Specs" button in the exercise, and review the rspec tests that you just passed. 
--->
-###3) Refactored Solution
-Read through your solution. Is the naming clear? Is the code concise (but readable)? Are you repeating yourself? Is everything necessary? 
-
-Remember: great code is rarely the fewest number of characters or lines, it's about how readable, extendable, and reusable it is.
-
-If you can't figure out how to refactor your initial solution, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank, you need to justify your omission.
+Use the wireframe as a guide to make the [USERNAME].github.io `index.html` reflect you and your current skills.
 
 ###4) Reflection
 When writing your reflection, write it for an audience. Tell a story of what you tried and what you learned. It will make it easier for you to go back and re-teach yourself or know what you were thinking. 
