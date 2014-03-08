@@ -12,5 +12,5 @@ Each section will have a list of **challenges and exercises** for you to complet
 
 ## 3) [Intermediate HTML & CSS](research_and_apply/)
 ## 4) [Your website](creative_challenge/)
-## 5) [Comparing websites](technical_blog/)
+## 5) [Comparing websites](technical_blog_assignment/)
 ## 6) [Get to know your group](group_challenge/)
