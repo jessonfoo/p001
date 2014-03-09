@@ -1,29 +1,31 @@
 # Week 1: Introduction to HTML and CSS
 
-You should go through **each section** in this guide.  
+Welcome to Phase 0! We hope you are excited to further your knowledge and begin integrating into the developer and DBC community. Please make sure you've read through the <a href="https://github.com/devbootcamp/phase_0_handbook" target="_blank"> *Phase 0 Handbook*</a> **before** getting started with the weekly challenges. 
 
-Each section will have a list of **challenges and exercises** for you to complete.
+Once you feel comfortable with the expecations for Phase 0, you can get started with the week's challenges. You should go through each directory (folder) listed below and complete the challenges and exercises in each.  
 
-**Write a reflection** for each challenge.  Then **send a link** to your reflection to your accountability group (which should be assigned by the end of the week). **Comment** on each other's reflections.
+## 1) <a href="get_started/" target="_blank">1. Get Started</a>
+## 2) <a href="experiment_to_learn/" target="_blank">2. Beginning HTML & CSS</a>
+## 3) <a href="research_and_apply/" target="_blank">3. Intermediate HTML & CSS</a>
+## 4) <a href="creative_challenge/" target="_blank">4. Your website</a>
+## 5) <a href="technical_blog_assignment/" target="_blank">5. Comparing websites</a>
+## 6) <a href="group_challenge/" target="_blank">6. Get to know your group</a>
+## 7) <a href="" target="_blank">7. Cultural Awareness</a>
 
-## 1) [Get Started](get_started/)
+**Submitting your work**
+You need to submit your work through <a href="https://docs.google.com/a/devbootcamp.com/forms/d/1ZnjWLxOqcIg92upyYGlD-7kmJzAdpTbjezHB1YQ34fY/viewform" target="_blank"> this form</a> by Sunday at 11:59pm. Expect to submit your links for each of the following:
 
-## 2) [Beginning HTML & CSS](experiment_to_learn/)
-
-## 3) [Intermediate HTML & CSS](research_and_apply/)
-## 4) [Your website](creative_challenge/)
-## 5) [Comparing websites](technical_blog_assignment/)
-## 6) [Get to know your group](group_challenge/)
-
-
-Expect to submit:
-
-* Link to your new website
-* Link to each html page created in `unit1_week1` folder
-* Link to reflection file
-* Link to website plan document
-* Link to website wireframe
-* Link to blog post
-* Copy of text you wrote to your group
+* Your new website
+* Each html page created in `unit1_week1` folder
+* Your reflection file
+* Website plan document
+* Website wireframe
+* Blog post
 * Links to comments you wrote on your groups reflection
+
+You should also copy and paste your response to each of the following
+* Copy of text you wrote to your group
 * Copy of your response to email questions (You'll get these this week)
+
+
+<!-- <a href="" target="_blank"></a> -->
