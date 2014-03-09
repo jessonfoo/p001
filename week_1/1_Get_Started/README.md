@@ -27,9 +27,9 @@ Moreover, the web is fun. You get to combine your knowledge of languages and see
 
 Complete the following challenges in order to get everything set up to dig into HTML & CSS this week.
 
-1. <a href="https://github.com/Devbootcamp/phase_0_unit_1/blob/master/week_1/1_Get_Started/1_git_and_github.md" target="_blank">Git and Github</a>
-2. <a href="https://github.com/Devbootcamp/phase_0_unit_1/blob/master/week_1/1_Get_Started/2_set_up_repo.md" target="_blank">Set up your website repository</a>
-3. <a href="https://github.com/Devbootcamp/phase_0_unit_1/blob/master/week_1/1_Get_Started/3_web_basics.md" target="_blank">Basics of the Web
+1. [Git and Github](git_and_github.md)
+2. [Set up your website repository](set_up_repo.md)
+3. [Basics of the Web](web_basics.md)
 
 #### Navigating online slide decks
 
