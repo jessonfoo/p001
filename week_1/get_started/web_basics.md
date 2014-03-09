@@ -19,6 +19,7 @@
 * Read: Web concepts -- [Internet vs Web](http://skillcrush.com/2012/08/19/the-internet-vs-the-web/), [Web Browser](http://skillcrush.com/2012/10/01/web-browsers/), [Web Server](http://skillcrush.com/2012/07/03/web-server-2/)
 * Read: [Web site vs Web App](http://skillcrush.com/2013/03/28/websites-vs-web-applications/)
 * Read: Domain concepts -- [What's a domain](http://skillcrush.com/2012/11/01/domain-2/), [DNS](http://skillcrush.com/2012/04/24/dns/), [IP Address](http://skillcrush.com/2012/07/03/ip-address-2/)
+* Read: [Introduction to DNS](http://coding.smashingmagazine.com/2011/05/25/introduction-to-dns-explaining-the-dreaded-dns-delay/)
 * Read: [What's HTML?](http://skillcrush.com/2012/04/02/html/)
 
 #### More about Git
