@@ -7,6 +7,11 @@
 2. Understand responsive design
 
 
+## Purpose
+
+We think of the web and websites as mostly static. They look the way they look.  But it's really more complicated than that.  Browsers and operating systems make things look differently. Mobile came in and made everything crazy.  Web designers and developers spend a lot of time thinking about how to make web pages usabile in all the possible scenarios people use them and still keep them maintainable (i.e. not take a billion years to make a small change). The WC3 makes changes to HTML and CSS every bunch of years, so they think about how the language itself makes things easier or harder.  You should think about these things too.
+
+
 ## Directions
 
 Everything in this challenge is within the context of the `unit1_week` folder in your website repository.
