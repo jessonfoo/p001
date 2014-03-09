@@ -74,7 +74,10 @@ You can also see the new index.html file in your Github repository!
 
 ### 6) Reflection
 
-[Fill out your reflection here.](reflection.md)
+Answer the following questions in your [reflection](reflection.md):
+* What new thing did you learn about the web?
+* How did you feel when you saw your web page live?
+* Did you have an "aha" moments or were any concepts solidified?
 
 
 
