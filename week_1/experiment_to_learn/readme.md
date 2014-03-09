@@ -137,3 +137,9 @@ Visit any blog on [wordpress.com](http://www.wordpress.com) or create your own. 
 
 
 ### 6) Reflect 
+
+Answer the following questions in your [reflection](../reflection.md):
+* What makes sense to your about HTML? What doesn't? What seems good and bad about it?
+* What's the Document Object Model? What about it makes sense to you? What doesn't? What seems good and bad about it?
+* How did using Chrome Web Tools to look at your site and a wordpress.com site compare?
+* Did you have an "aha" moments or were any concepts solidified?
