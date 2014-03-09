@@ -14,3 +14,15 @@ Each section will have a list of **challenges and exercises** for you to complet
 ## 4) [Your website](creative_challenge/)
 ## 5) [Comparing websites](technical_blog_assignment/)
 ## 6) [Get to know your group](group_challenge/)
+
+
+Expect to submit:
+
+* Link to your new website
+* Link to each html page created in `unit1_week1` folder
+* Link to reflection file
+* Link to website plan document
+* Link to website wireframe
+* Link to blog post
+* Text you wrote to your group
+* Links to comments you wrote on your groups reflection
