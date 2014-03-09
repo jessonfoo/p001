@@ -20,12 +20,18 @@ Research time management, productivity, and mindfulness. You can try some of the
 * [The Power of Meditation](http://blog.bufferapp.com/how-meditation-affects-your-brain)
 * [How Mindfulness can improve productivity, focus, and work life balance](http://www.productivityninja.co.uk/getting-things-done-and-the-mindful-productivity-ninja/)
 * [Habits & Growth Mindset](http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset)
+
 * [Intro to Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/intro.html)
 * [Pomodoro Technique](http://pomodorotechnique.com/) - focus on one thing for 25 minutes then take a 5 minute break
+
 * [Make it big by starting small](http://blog.bufferapp.com/make-it-big-by-starting-small)
 * [Create a Habit](http://www.youtube.com/watch?v=C8XG02das-A)
 * [Tiny Habits](http://www.youtube.com/watch?v=AdKUJxjn-R8)
 * [Fogg Method](http://www.foggmethod.com/)
+
+* [Counterintuitive productivity](http://paidtoexist.com/counterintuitive-productivity/)
+* [Tricks for Getting into the Zone](http://www.themuse.com/advice/the-best-tricks-for-getting-in-the-zone-at-work)
+* [Flow](http://en.wikipedia.org/wiki/Flow_(psychology)
 
 
 ### 2)  Email + Reflection
