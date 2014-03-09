@@ -3,7 +3,7 @@
 
 
 ## Learning Objectives
-1. Understand web standards
+1. Understand web standards, semantic mark up, and HTML5
 2. Understand responsive design
 
 
@@ -24,6 +24,7 @@ Everything in this challenge is within the context of the `unit1_week` folder in
 Do some research into standard practices of web design, reset css, and HTML5.
 
 * Slides: [Structure standards and HTML5](http://girldevelopit.com/assets/intermediate-html-css/class1.html#/17)
+* Read: [HTML5 and the document outlining algorithm](http://coding.smashingmagazine.com/2011/08/16/html5-and-the-document-outlining-algorithm/)
 
 
 #### b) Apply
