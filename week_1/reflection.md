@@ -13,16 +13,23 @@ Also, your reflections aren't just for teachers, they are for your fellow cohort
 **Email your accoutability group a link to this file and comment on each other's reflections.**
 
 ## 1) Git and Github
-* Why do developers use version control (git)? Does that make sense to you? Why or why not?
-* What struggles did you have setting up git and Github? What did you learn in the process?
-* What doesn't make sense? What does?
-
 
 ## 2)  Web Basics
 
-* What new thing did you learn about the web?
-* How did you feel when you saw your web page live?
-* Did you have an "aha" moments or were any concepts solidified?
+## 3) Open Source
 
-## 3) HTML & CSS
+## 4) Beginning HTML & CSS
+
+## 5) Web Standards
+
+## 6) Responsive Web Design
+
+## 7) Design, User Experience, and the process of creating your website
+
+## 8) Favorite Websites
+
+Link to your blog post: 
+
+## 9) Getting to know your group
+
 
