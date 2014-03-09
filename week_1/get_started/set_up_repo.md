@@ -8,6 +8,7 @@ We are going to create a repository to host your very own website. You'll be usi
 
 * Create a repository on github
 * Clone the repository to your local computer
+* Learn about Open Source
 
 
 ## Directions
@@ -18,7 +19,7 @@ We are going to create a repository to host your very own website. You'll be usi
 
 1. **Log into [Github](http://www.github.com)**
 2. **[Start a new repository](https://github.com/new)**<br /><br />This will take you to the new repository form.<br /><br />![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-repo-1.jpg)
-3. **Fill out the new repository form.** <ul><li>You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.  </li><li>Check "Initialize this project with a README" and add an MIT license. You can read more about [Open Source](http://skillcrush.com/2012/08/29/open-source-software/) and [Open Source licensing here.](http://www.slideshare.net/CodeMontage/writespeakcode-open-source-licenses)</li></ul>![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-repo-2.jpg)<br /><br />I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**.
+3. **Fill out the new repository form.** <ul><li>You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.  </li><li>Check "Initialize this project with a README" and add an MIT license. </li></ul>![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-repo-2.jpg)<br /><br />I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**.
 4. Click on the **"Create Repository" button**
 4. **Do a celebration dance!** <br />:dancers: :tada: :dancer: <br /><br />![You have a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-repo3.jpg)
 
@@ -51,3 +52,15 @@ This section is for Linux users or those who want to challenge themselves.  Late
 
 [Use this tutorial to clone your repository on the command line](git_clone.md).
 
+### 3) Open Source
+
+You added an MIT License to your repository.  Why?  Read these articles to understand:
+* [Open Source](http://skillcrush.com/2012/08/29/open-source-software/) 
+* [Open Source licensing here.](http://www.slideshare.net/CodeMontage/writespeakcode-open-source-licenses)
+* [A short guide to Open Source](http://coding.smashingmagazine.com/2011/05/25/introduction-to-dns-explaining-the-dreaded-dns-delay/)
+
+### 4) Reflect
+
+Answer the follow queestions in your [reflection](../reflection.md):
+* What do you think about Open Source? Does it make you nervous or protective? Does it feel the utopia?
+* What concepts were solidified in the challenge? Did you have any "aha" moments? What did you struggle with?
