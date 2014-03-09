@@ -2,15 +2,10 @@
 
 # Get Started
 
-Welcome to Phase 0 Week 1! Wooohoooo! We are starting with web basics (HTML & CSS) and introducing you to Phase 0 process.
+Welcome to Phase 0 Week 1! We are starting with web basics (HTML & CSS) and introducing you to Phase 0 process.
 
 ## Learning Objectives
-
-* Set up Git and Github
-* Write your first reflections
-* Create your Github pages website
-* Understand basic web concepts
-* Push to a Github repository
+Each challenge has learning objectives that describe what you should be able to do by the end of the lesson. Use these objectives to assess your understanding. You will reflect on the learning objectives and material in each challenge. 
 
 ## Purpose
 
@@ -18,7 +13,7 @@ Welcome to Phase 0 Week 1! Wooohoooo! We are starting with web basics (HTML & CS
 
 You'll be using Github every day at DBC ... and in your life as a professional developer.  It's how you will know what's going each day, find challenges to work, and collaborate with your team for your Phase 3 project.
 
-In fact, many [people](https://twitter.com/jeresig/status/33968704983138304) in the tech industry see your [Github profile as your new resume](http://code.dblock.org/github-is-your-new-resume).
+In fact, many <a href="https://twitter.com/jeresig/status/33968704983138304" target="_blank">people</a> in the tech industry see your <a href="http://code.dblock.org/github-is-your-new-resume" target="_blank">Github profile as your new resume</a>.
 
 We want you to get comfortable with git and Github as soon as possible.  We are using the desktop apps for now to ease you into things, but later, we'll transition to the command line interface.
 
