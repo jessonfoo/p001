@@ -15,21 +15,21 @@ You'll be using Github every day at DBC ... and in your life as a professional d
 
 In fact, many <a href="https://twitter.com/jeresig/status/33968704983138304" target="_blank">people</a> in the tech industry see your <a href="http://code.dblock.org/github-is-your-new-resume" target="_blank">Github profile as your new resume</a>.
 
-We want you to get comfortable with git and Github as soon as possible.  We are using the desktop apps for now to ease you into things, but later, we'll transition to the command line interface.
+We want you to get comfortable with git and Github as soon as possible.  We are using the desktop app to ease you into things, but later, we'll transition to the command-line interface.
 
-### Why the web, HTML, & CSS?
+### Why start with the web, HTML, & CSS?
 
-More and more [software is build on the web](http://skillcrush.com/2012/08/08/saas/).  Even desktop software often syncs with [the cloud](http://skillcrush.com/2012/04/19/the-cloud/).
+You decided to attend DBC to become a Web application developer, right? As you probably know, more and more <a href="http://skillcrush.com/2012/08/08/saas/" target="_blank">software is build on the web</a>. Even desktop software ofte syncs with <a href="http://skillcrush.com/2012/04/19/the-cloud/" target="_blank">the cloud</a>. So it's important to get a feel of web development. 
 
-Also, as a developer you'll have to switch between languages -- HTML, CSS, Javascript, Ruby, etc -- all the time.  **We're getting you comfortable with that confusion** :smiley_cat:
+Moreover, the web is fun. You get to combine your knowledge of languages and see a result, but it's also confusing. As a developer you'll have to switch between languages -- HTML, CSS, Javascript, Ruby, etc -- all the time. **We want to get you comfortable with switching between different technologies** :smiley_cat:
 
 ## Directions
 
-Complete the challenges in the following documents in order to get everything set up to dig into HTML & CSS this week.
+Complete the following challenges in order to get everything set up to dig into HTML & CSS this week.
 
-1. [Git and Github](git_and_github.md)
-2. [Set up your website repository](set_up_repo.md)
-3. [Basics of the Web](web_basics.md)
+1. <a href="git_and_github.md" target="_blank">Git and Github</a>
+2. <a href="set_up_repo.md" target="_blank">Set up your website repository</a>
+3. <a href="web_basics.md" target="_blank">Basics of the Web
 
 #### Navigating online slide decks
 
