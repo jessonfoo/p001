@@ -12,7 +12,7 @@ Also, your reflections aren't just for teachers, they are for your fellow cohort
 
 **Email your accoutability group a link to this file and comment on each other's reflections.**
 
-*Not sure how to edit this file?* [Follow this tutorial](add_a_reflection.md)
+*Not sure how to edit this file?* [Follow this tutorial](get_started/add_a_reflection.md)
 
 ## 1) Git and Github
 
