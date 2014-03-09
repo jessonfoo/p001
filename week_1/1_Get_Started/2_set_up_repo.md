@@ -18,10 +18,10 @@ We are going to create a repository to host your very own website! You'll be usi
 
 
 1. **Log into GitHub**
-2. **Create a <a href="https://github.com/new" target="_blank"> new repository</a>**<br /><br />This will take you to the new repository form.<br /><br />![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-repo-1.jpg)
-3. **Fill out the new repository form.** <ul><li>You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.  </li><li>Check "Initialize this project with a README" and add an MIT license. </li></ul>![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-repo-2.jpg)<br /><br />I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**.
+2. **Create a <a href="https://github.com/new" target="_blank"> new repository</a>**<br /><br />This will take you to the new repository form.<br /><br />![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-repo-1.jpg)
+3. **Fill out the new repository form.** <ul><li>You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.  </li><li>Check "Initialize this project with a README" and add an MIT license. </li></ul>![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-repo-2.jpg)<br /><br />I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**.
 4. Click on the **"Create Repository" button**
-4. **Do a celebration dance!** <br />:dancers: :tada: :dancer: <br /><br />![You have a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-repo3.jpg)
+4. **Do a celebration dance!** <br />:dancers: :tada: :dancer: <br /><br />![You have a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-repo3.jpg)
 
 
 
@@ -42,7 +42,7 @@ If you are working on Linux and/or want to challenge yourself further, skip to t
 3. In the search bar, start searching for "github".  Your "[USERNAME].github.io" repository should come up in the list.
 4. Click on the "Clone to this computer" button.
 
-![Clone a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/get_started/imgs/github-app-1_clone.jpg)
+![Clone a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-app-1_clone.jpg)
 
 
 #### Cloning a repository with the command line
