@@ -56,11 +56,11 @@ Confused about the difference between git and github? Try one of these articles:
 
 #### A) How to write a reflection
 
-[Follow this tutorial to learn how to write a reflection](add_a_reflection.md)
+[Follow this tutorial to learn how to write a reflection](../add_a_reflection.md)
 
 #### B) Write a reflection
 
-[Fill out your reflection here.](reflection.md)
+[Fill out your reflection here.](../reflection.md)
 
 
 
