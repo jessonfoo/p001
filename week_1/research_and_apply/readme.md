@@ -32,7 +32,12 @@ Download the [practice files](http://girldevelopit.com/assets/intermediate-html-
 
 #### c) Reflect
 
-??
+Answer the following questions in your [reflection](../reflection.md):
+* What do you think about web standards? Are they good or bad?
+* Does the standard structure make sense to you? Why or why not?
+* Do you like the new HTML5 elements, such as `<header>`, `footer`, and `nav`? Why or why not?
+* Why is reset.css necessary? 
+* What browsers have you used? Did you ever notice that sites looked different in different browsers? Do you think it's good or bad that they do?
 
 
 
@@ -62,4 +67,9 @@ How does it look when
 
 #### c) Reflect
 
-??
+Answer the following questions in your [reflection](../reflection.md):
+* Do you like responsive web design?  Do you think it's a good practice? Why or why not?
+* How do you think smartphones and tablets have changed web design? How do you think new technology will change web design in the future?
+* How do you think visually impaired people use the web? Can they? Should we design and development for them?
+* What ideas and concepts have really resonated with you when learning about the web and design? What seems stupid or doesn't make sense?
+
