@@ -30,7 +30,7 @@ Research time management, productivity, and mindfulness. You can try some of the
 
 ### 2)  Email + Reflection
 
-Once you've receive your accountability group, send everyone in your group and email **and** copy it into your [reflection(../reflection.md) with your:
+Once you've receive your accountability group, send everyone in your group and email **and** copy it into your [reflection](../reflection.md) with your:
 
 * name
 * location
