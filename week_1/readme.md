@@ -24,5 +24,6 @@ Expect to submit:
 * Link to website plan document
 * Link to website wireframe
 * Link to blog post
-* Text you wrote to your group
+* Copy of text you wrote to your group
 * Links to comments you wrote on your groups reflection
+* Copy of your response to email questions (You'll get these this week)
