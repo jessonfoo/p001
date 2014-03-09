@@ -27,10 +27,10 @@ Moreover, the web is fun. You get to combine your knowledge of languages and see
 
 Complete the following challenges in order to get everything set up to dig into HTML & CSS this week.
 
-1. <a href="git_and_github.md" target="_blank">Git and Github</a>
-2. <a href="set_up_repo.md" target="_blank">Set up your website repository</a>
-3. <a href="web_basics.md" target="_blank">Basics of the Web
+1. <a href="https://github.com/Devbootcamp/phase_0_unit_1/blob/master/week_1/1_Get_Started/1_git_and_github.md" target="_blank">Git and Github</a>
+2. <a href="https://github.com/Devbootcamp/phase_0_unit_1/blob/master/week_1/1_Get_Started/2_set_up_repo.md" target="_blank">Set up your website repository</a>
+3. <a href="https://github.com/Devbootcamp/phase_0_unit_1/blob/master/week_1/1_Get_Started/3_web_basics.md" target="_blank">Basics of the Web
 
 #### Navigating online slide decks
 
-A few of the resources are online slide decks from [Girl Develop It](http://www.girldevelopit.com).  **Navigate using the arrow keys on your keyboard.** Look at the **arrow images in the bottom right** to tell you which ways you can navigate.  You may be able to go *down* as well as *left*. You can also click on links in the slides.
+A few of the resources are online slide decks from <a href="http://www.girldevelopit.com" target="_blank">Girl Develop It</a>.  **Navigate using the arrow keys on your keyboard.** Look at the **arrow images in the bottom right** to tell you which ways you can navigate.  You may be able to go *down* as well as *left*. You can also click on links in the slides.
