@@ -60,7 +60,11 @@ Confused about the difference between git and github? Try one of these articles:
 
 #### B) Write a reflection
 
-[Fill out your reflection here.](../reflection.md)
+Write in your [reflection](../reflection.md) answers to:
+
+* Why do developers use version control (git)? Does that make sense to you? Why or why not?
+* What struggles did you have setting up git and Github? What did you learn in the process?
+* What doesn't make sense? What does?
 
 
 
