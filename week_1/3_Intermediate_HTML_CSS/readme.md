@@ -64,6 +64,5 @@ How does it look when
 * the user agent is changed in your browser
 
 #### c. Reflect
-
-Answer the questions in your <a href="../reflection.md" target="_blank">6_responsive_web_design</a> reflection.
+Reflect on your learning by answering the questions in the `6_responsive_web_design.md` file in your <a href="https://gist.github.com" target="_blank">reflection gist</a>.
 

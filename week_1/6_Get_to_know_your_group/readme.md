@@ -13,30 +13,30 @@ Despite popular belief, most software engineers work in teams and there is a str
 
 ## Directions
 
-### 1) Learn
+### 1. Learn
 
 Research time management, productivity, and mindfulness. You can try some of the articles below or find your own.  Try to read a bit outside your comfort zone though. Can you apply any of this to your situation?
 
-* [The Power of Meditation](http://blog.bufferapp.com/how-meditation-affects-your-brain)
-* [How Mindfulness can improve productivity, focus, and work life balance](http://www.productivityninja.co.uk/getting-things-done-and-the-mindful-productivity-ninja/)
-* [Habits & Growth Mindset](http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset)
+* <a href="http://blog.bufferapp.com/how-meditation-affects-your-brain" target="_blank">The Power of Meditation</a>
+* <a href="http://www.productivityninja.co.uk/getting-things-done-and-the-mindful-productivity-ninja/" target="_blank">How Mindfulness can improve productivity, focus, and work life balance</a>
+* <a href="http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset" target="_blank">Habits & Growth Mindset</a>
 
-* [Intro to Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/intro.html)
-* [Pomodoro Technique](http://pomodorotechnique.com/) - focus on one thing for 25 minutes then take a 5 minute break
+* <a href="http://ruby.learncodethehardway.org/book/intro.html" target="_blank">Intro to Learn Ruby The Hard Way</a>
+* <a href="http://pomodorotechnique.com/" target="_blank">Pomodoro Technique</a> - focus on one thing for 25 minutes then take a 5 minute break
 
-* [Make it big by starting small](http://blog.bufferapp.com/make-it-big-by-starting-small)
-* [Create a Habit](http://www.youtube.com/watch?v=C8XG02das-A)
-* [Tiny Habits](http://www.youtube.com/watch?v=AdKUJxjn-R8)
-* [Fogg Method](http://www.foggmethod.com/)
+* <a href="http://blog.bufferapp.com/make-it-big-by-starting-small" target="_blank">Make it big by starting small</a>
+* <a href="http://www.youtube.com/watch?v=C8XG02das-A" target="_blank">Create a Habit</a>
+* <a href="http://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank">Tiny Habits</a>
+* <a href="http://www.foggmethod.com/" target="_blank">Fogg Method</a>
 
-* [Counterintuitive productivity](http://paidtoexist.com/counterintuitive-productivity/)
-* [Tricks for Getting into the Zone](http://www.themuse.com/advice/the-best-tricks-for-getting-in-the-zone-at-work)
-* [Flow](http://en.wikipedia.org/wiki/Flow_(psychology)
+* <a href="http://paidtoexist.com/counterintuitive-productivity/" target="_blank">Counterintuitive productivity</a>
+* <a href="http://www.themuse.com/advice/the-best-tricks-for-getting-in-the-zone-at-work" target="_blank">Tricks for Getting into the Zone</a>
+* <a href="http://en.wikipedia.org/wiki/Flow_(psychology" target="_blank">Flow</a>
 
 
-### 2)  Email + Reflection
+### 2.  Email + Reflection
 
-Once you've receive your accountability group, send everyone in your group and email **and** copy it into your [reflection](../reflection.md) with your:
+Once you've know who is in your accountability group, send everyone in your group and email **and** copy it into your <a href="../reflection.md" target="_blank">reflection</a> with your:
 
 * name
 * location
@@ -48,4 +48,4 @@ Once you've completed the week's work, send them:
 * link to your reflection file
 * link to your [USERNAME].github.io site
 
-Once you receive someone's reflection, take a look at it and comment on it.
+Once you receive someone's reflection, take a look at it and write a comment. Make sure to take a look at your reflection gist to see other people's comments!
