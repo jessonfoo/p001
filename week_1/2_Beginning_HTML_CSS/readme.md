@@ -1,7 +1,5 @@
 # U1.W1: Beginning HTML & CSS
 
-
-
 ## Learning Objectives
 1. Create a simple website from the ground up using HTML and CSS
 2. Modify and improve the design of a simple website using CSS
@@ -10,7 +8,7 @@
 
 ## Directions
 
-Everything in this challenge is within the context of the [website](../get_started/set_up_repo.md) you set up in the [get started](../get_started/) section.
+Everything in this challenge is within the context of the [website](../1_Get_Started/set_up_repo.md) you set up in the [get started](../1_Get_Started/) section.
 
 ### 1) Set up folders
 
