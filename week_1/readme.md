@@ -13,7 +13,8 @@ Once you feel comfortable with the expecations for Phase 0, you can get started 
 <!-- #### 7. <a href="7_Cultural_Awareness" target="_blank">Cultural Awareness</a> -->
 
 **Submitting your work**
-You need to submit your work through a google form (to be released) by Sunday at 11:59pm. Expect to submit your links for each of the following: <!--a href="https://docs.google.com/a/devbootcamp.com/forms/d/1ZnjWLxOqcIg92upyYGlD-7kmJzAdpTbjezHB1YQ34fY/viewform" target="_blank"> this form</a>--> 
+You need to submit your work through a google form (to be released) by Sunday at 11:59pm. Expect to submit your links for each of the following:
+<!--a href="https://docs.google.com/a/devbootcamp.com/forms/d/1ZnjWLxOqcIg92upyYGlD-7kmJzAdpTbjezHB1YQ34fY/viewform" target="_blank"> this form</a>--> 
 
 * Your new website
 * Each html page created in `unit1_week1` folder
