@@ -10,7 +10,7 @@ Once you feel comfortable with the expecations for Phase 0, you can get started 
 #### 4. <a href="4_Your_Own_Website" target="_blank">Your website</a>
 #### 5. <a href="5_Comparing_Websites" target="_blank">Comparing websites</a>
 #### 6. <a href="6_Get_to_know_your_group" target="_blank">Get to know your group</a>
-#### 7. <a href="7_Cultural_Awareness" target="_blank">Cultural Awareness</a>
+<!-- #### 7. <a href="7_Cultural_Awareness" target="_blank">Cultural Awareness</a> -->
 
 **Submitting your work**
 You need to submit your work through <a href="https://docs.google.com/a/devbootcamp.com/forms/d/1ZnjWLxOqcIg92upyYGlD-7kmJzAdpTbjezHB1YQ34fY/viewform" target="_blank"> this form</a> by Sunday at 11:59pm. Expect to submit your links for each of the following:
