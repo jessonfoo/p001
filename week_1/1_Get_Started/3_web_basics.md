@@ -74,4 +74,4 @@ You can also see the new index.html file in your GitHub repository!
 
 ### 6) Reflection
 
-Reflect on your learning in the `3_web_basics.md` file in your <a href="https://github.com/Devbootcamp/phase_0_unit_1/blob/master/week_1/1_Get_Started/add_a_reflection.md" target="_blank">reflection gist</a>.
+Reflect on your learning in the `3_web_basics.md` file in your <a href="https://gist.github.com" target="_blank">reflection gist</a>.
