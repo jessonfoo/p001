@@ -14,7 +14,8 @@ Reflecting is essential for solidifying your learning. You will be expected to c
 ### 1. Fork <a href="https://gist.github.com/dbc-challenges/83e529e4c416967a0dde/" target="_blank"> this gist</a>
 You will complete your reflections for week 1 using one gist that contains multiple files.(One for each reflection). 
 
-In the top right of the page, you should have a button that says "fork." Click it. Now you should see the exact same file, but at the top it should say [USERNAME]/0_week_1_reflections.md. This is your reflection file, and it is located in your github account under "gists."
+* In the top right of the page, you should have a button that says "fork." Click it. 
+* Now you should see the exact same file, but at the top it should say [USERNAME]/0_week_1_reflections.md. This is your reflection file, and it is located in your github account under "gists."
 
 ### 2. Edit the reflections file
 
