@@ -28,7 +28,7 @@ In the same way that professors and graduate students are required to contribute
 3. Create a new html page in the `unit1_week1` folder and write a blog post analyzing the 3 sites in terms of user experience and design.  Add a link to the `index.html` file for your new blog post!
 
 
-4. Reflect on the process of writing a blog post on `8_favorite_websites.md`.
+4. Reflect on the process of writing a blog post on `8_favorite_websites.md` in your <a href="../reflection.md" target="_blank">reflection gist</a>.
 
 **Bonus**
 * Get more technical. Take a look at the websites' HTML and CSS by opening the devloper tools. Does the HTML and CSS look clean? Does it follow good practices? Are you able to change the look of the site using the tools? How easy was it?

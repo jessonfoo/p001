@@ -27,7 +27,7 @@ From this point forward, all work will happen within the `unit1_week` folder.  A
 **Optional resources**
 
 * <a href="http://teamtreehouse.com/library/build-a-simple-website" target="_blank">Build a simple website</a>
-* <a href="http://learn.shayhowe.com/html-css/" target="_blank"><Beginners guide to HTML and CSS</a>
+* <a href="http://learn.shayhowe.com/html-css/" target="_blank">Beginners guide to HTML and CSS</a>
 * <a href="http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf" target="_blank">HTML tag cheatsheat</a>
 
 What other resources can you find? Share them in the resources spreadsheet in your google+ community (located in the links on the right)
