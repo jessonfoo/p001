@@ -1,7 +1,7 @@
 # U1.W1: Intermediate HTML & CSS
 
 ## Learning Objectives
-1. Identify and use web standardsm, semantic mark up, and HTML5
+1. Identify and use web standards, semantic mark up, and HTML5
 2. Describe responsive design
 3. Determine whether responsive design is good or bad practice
 
