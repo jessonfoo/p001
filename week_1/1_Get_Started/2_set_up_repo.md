@@ -56,7 +56,7 @@ Use <a href="git_clone.md" target="_blank">this tutorial</a> to clone your repos
 You added an MIT License to your repository.  Read these articles to explain why:
 * <a href = "http://skillcrush.com/2012/08/29/open-source-software/" target="_blank">Open Source</a> 
 * <a href="http://www.slideshare.net/CodeMontage/writespeakcode-open-source-licenses" target="_blank">Open Source licensing 
-* <a href=http://www.smashingmagazine.com/2010/03/24/a-short-guide-to-open-source-and-similar-licenses/">A short guide to Open Source</a>
+* <a href="http://www.smashingmagazine.com/2010/03/24/a-short-guide-to-open-source-and-similar-licenses/">A short guide to Open Source</a>
 
 ### 4. Reflect
 
