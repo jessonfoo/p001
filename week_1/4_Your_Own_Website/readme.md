@@ -3,9 +3,8 @@
 
 ## Learning Objectives
 1. Wireframe a website 
-2. Apply your knowledge by personalizing your website
-3. Illustrate your understanding of web design and user experience in your website
-4. Describe and practice process of building a website
+2. Illustrate your understanding of web design and user experience in your website
+3. Describe and practice process of building a website
 
 
 ## Purpose
