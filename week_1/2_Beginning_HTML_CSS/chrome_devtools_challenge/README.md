@@ -18,7 +18,7 @@ Focus on chapters 1,2, and 5.  Follow along with the video, and take the quizzes
 
 Take the time to skim the other chapters.  You'll be diving into JavaScript next week, and although the material covering JS (chapters 3 and 4) is a bit advanced, it provides great exposure to JavaScript in the context of the the DevTools console.
 
-####2) Fork the <a href="https://gist.github.com/dbc-challenges/0c009b8918f8b2299572" target="_blank" Quiz (like you did with your reflection) and complete it. Take a screenshot of your code school points (They appear on the right of the profile page), upload it to a public image sharing site (like min.us), and include the image in your gist.  
+####2) Fork the <a href="https://gist.github.com/dbc-challenges/0c009b8918f8b2299572" target="_blank"> Quiz</a> (like you did with your reflection) and complete it. Take a screenshot of your code school points (They appear on the right of the profile page), upload it to a public image sharing site (like min.us), and include the image in your gist.  
 
 ####3) Review and Reflect
 
