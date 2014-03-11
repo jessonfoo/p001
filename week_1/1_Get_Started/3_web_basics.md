@@ -6,8 +6,8 @@
 
 * Describe the following: web server, browser, HTML, CSS, domain, DNS
 * Create an HTML file
-* **Commit and push a file to GitHub**
-* **View your live website!**
+* Commit and push a file to GitHub
+
 
 ## Directions
 
