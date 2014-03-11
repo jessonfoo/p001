@@ -52,5 +52,5 @@ Confused about the difference between git and GitHub? Try one of these articles:
 * <a href="http://stephaniehoh.github.io/blog/2013/10/07/git-vs-github-for-dummies/" target="_blank">Git vs. GitHub for Dummies</a>
 * <a href="http://www.jahya.net/blog/?2013-05-git-vs-github" target="_blank">Is Git the same as GitHub?</a>
 
-### 3) Reflect
+### 3. Reflect
 Reflect on your learning by editing the `1_git_github.md` file. Go to <a href="https://github.com/Devbootcamp/phase_0_unit_1/blob/master/week_1/1_Get_Started/add_a_reflection.md" target=_"blank"> this file</a> for instructions. **Reflecting is not optional.**
