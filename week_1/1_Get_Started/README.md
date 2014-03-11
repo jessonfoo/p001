@@ -19,7 +19,7 @@ We want you to get comfortable with git and Github as soon as possible.  We are 
 
 ### Why start with the web, HTML, & CSS?
 
-You decided to attend DBC to become a Web application developer, right? As you probably know, more and more <a href="http://skillcrush.com/2012/08/08/saas/" target="_blank">software is build on the web</a>. Even desktop software ofte syncs with <a href="http://skillcrush.com/2012/04/19/the-cloud/" target="_blank">the cloud</a>. So it's important to get a feel of web development. 
+You decided to attend DBC to become a Web application developer, right? As you probably know, more and more <a href="http://skillcrush.com/2012/08/08/saas/" target="_blank">software is build on the web</a>. Even desktop software often syncs with <a href="http://skillcrush.com/2012/04/19/the-cloud/" target="_blank">the cloud</a>. So it's important to get a feel of web development. 
 
 Moreover, the web is fun. You get to combine your knowledge of languages and see a result, but it's also confusing. As a developer you'll have to switch between languages -- HTML, CSS, Javascript, Ruby, etc -- all the time. **We want to get you comfortable with switching between different technologies** :smiley_cat:
 
