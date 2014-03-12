@@ -1,4 +1,4 @@
-# U1.W1: Your website
+# U1.W1: Your website (Solo Challenge)
 
 
 ## Learning Objectives
