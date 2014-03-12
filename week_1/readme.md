@@ -7,7 +7,7 @@ Once you feel comfortable with the expecations for Phase 0, you can get started 
 #### 1. <a href="1_Get_Started/" target="_blank">Get Started</a>
 #### 2. <a href="2_Beginning_HTML_CSS/" target="_blank">Beginning HTML & CSS</a>
 #### 3. <a href="3_Intermediate_HTML_CSS/" target="_blank">Intermediate HTML & CSS</a>
-#### 4. <a href="4_Your_Own_Website" target="_blank">Your website</a>
+#### 4. <a href="4_Your_Own_Website_Solo_Challenge" target="_blank">Your website **(Solo Challenge)**</a>
 #### 5. <a href="5_Comparing_Websites" target="_blank">Comparing websites</a>
 #### 6. <a href="6_Get_to_know_your_group" target="_blank">Get to know your group</a>
 <!-- #### 7. <a href="7_Cultural_Awareness" target="_blank">Cultural Awareness</a> -->
