@@ -54,3 +54,4 @@ Confused about the difference between git and GitHub? Try one of these articles:
 
 ### 3) Reflect
 Reflect on your learning by editing the `1_git_github.md` file. Go to [this file](https://github.com/Devbootcamp/phase_0_unit_1/blob/master/week_1/1_Get_Started/add_a_reflection.md) for instructions. **Reflecting is not optional.**
+

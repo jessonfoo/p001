@@ -21,6 +21,7 @@ We want you to get comfortable with git and Github as soon as possible.  We are 
 
 You decided to attend DBC to become a Web application developer, right? As you probably know, more and more [software is build on the web](http://skillcrush.com/2012/08/08/saas/). Even desktop software ofte syncs with [the cloud](http://skillcrush.com/2012/04/19/the-cloud/). So it's important to get a feel of web development. 
 
+
 Moreover, the web is fun. You get to combine your knowledge of languages and see a result, but it's also confusing. As a developer you'll have to switch between languages -- HTML, CSS, Javascript, Ruby, etc -- all the time. **We want to get you comfortable with switching between different technologies** :smiley_cat:
 
 ## Directions

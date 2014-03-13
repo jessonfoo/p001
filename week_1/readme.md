@@ -16,7 +16,9 @@ If you would like to open tabs in a new window, please either right click or hol
 <!-- #### 7. [Cultural Awareness](7_Cultural_Awareness/)-->
 
 **Submitting your work**
+<<<<<<< HEAD
 You need to submit your work through [this google form](https://docs.google.com/a/devbootcamp.com/forms/d/1ZnjWLxOqcIg92upyYGlD-7kmJzAdpTbjezHB1YQ34fY/viewform) by Sunday at 11:59pm. Expect to submit your links for each of the following:
+
 
 * Your new website
 * Each html page created in `unit1_week1` folder

@@ -54,9 +54,11 @@ Use [this tutorial](git_clone.md) to clone your repository on the command line.
 ### 3. Open Source
 
 You added an MIT License to your repository.  Read these articles to explain why:
+
 * [Open Source](http://skillcrush.com/2012/08/29/open-source-software/) 
 * [Open Source licensing](http://www.slideshare.net/CodeMontage/writespeakcode-open-source-licenses) 
 * [A short guide to Open Source](http://www.smashingmagazine.com/2010/03/24/a-short-guide-to-open-source-and-similar-licenses/)
+
 
 ### 4. Reflect
 
