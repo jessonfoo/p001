@@ -17,26 +17,26 @@ Despite popular belief, most software engineers work in teams and there is a str
 
 Research time management, productivity, and mindfulness. You can try some of the articles below or find your own.  Try to read a bit outside your comfort zone though. Can you apply any of this to your situation?
 
-* <a href="http://blog.bufferapp.com/how-meditation-affects-your-brain" target="_blank">The Power of Meditation</a>
-* <a href="http://www.productivityninja.co.uk/getting-things-done-and-the-mindful-productivity-ninja/" target="_blank">How Mindfulness can improve productivity, focus, and work life balance</a>
-* <a href="http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset" target="_blank">Habits & Growth Mindset</a>
+* [The Power of Meditation](http://blog.bufferapp.com/how-meditation-affects-your-brain)
+* [How Mindfulness can improve productivity, focus, and work life balance](http://www.productivityninja.co.uk/getting-things-done-and-the-mindful-productivity-ninja/)
+* [Habits & Growth Mindset](http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset)
 
-* <a href="http://ruby.learncodethehardway.org/book/intro.html" target="_blank">Intro to Learn Ruby The Hard Way</a>
-* <a href="http://pomodorotechnique.com/" target="_blank">Pomodoro Technique</a> - focus on one thing for 25 minutes then take a 5 minute break
+* [Intro to Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/intro.html)
+* [Pomodoro Technique - focus on one thing for 25 minutes then take a 5 minute break](http://pomodorotechnique.com/)
 
-* <a href="http://blog.bufferapp.com/make-it-big-by-starting-small" target="_blank">Make it big by starting small</a>
-* <a href="http://www.youtube.com/watch?v=C8XG02das-A" target="_blank">Create a Habit</a>
-* <a href="http://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank">Tiny Habits</a>
-* <a href="http://www.foggmethod.com/" target="_blank">Fogg Method</a>
+* [Make it big by starting small](http://blog.bufferapp.com/make-it-big-by-starting-small)
+* [Create a Habit](http://www.youtube.com/watch?v=C8XG02das-A)
+* [Tiny Habits](http://www.youtube.com/watch?v=AdKUJxjn-R8)
+* [Fogg Method](http://www.foggmethod.com/)
 
-* <a href="http://paidtoexist.com/counterintuitive-productivity/" target="_blank">Counterintuitive productivity</a>
-* <a href="http://www.themuse.com/advice/the-best-tricks-for-getting-in-the-zone-at-work" target="_blank">Tricks for Getting into the Zone</a>
-* <a href="http://en.wikipedia.org/wiki/Flow_(psychology" target="_blank">Flow</a>
+* [Counter-intuitive productivity](http://paidtoexist.com/counterintuitive-productivity/)
+* [Tricks for Getting into the Zone](http://www.themuse.com/advice/the-best-tricks-for-getting-in-the-zone-at-work)
+* [Flow](http://en.wikipedia.org/wiki/Flow_(psychology)
 
 
 ### 2.  Email + Reflection
 
-Once you've know who is in your accountability group, send everyone in your group and email **and** copy it into your <a href="../reflection.md" target="_blank">reflection</a> with your:
+Once you've know who is in your accountability group, send everyone in your group and email **and** copy it into your [reflection gist](../reflection.md) with your:
 
 * name
 * location

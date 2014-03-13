@@ -6,8 +6,7 @@
 
 * Describe the following: web server, browser, HTML, CSS, domain, DNS
 * Create an HTML file
-* **Commit and push a file to GitHub**
-* **View your live website!**
+* Commit and push a file to GitHub
 
 ## Directions
 
@@ -15,26 +14,26 @@
 
 #### Web Concepts
 
-* Slides: <a href="http://girldevelopit.com/assets/web-concepts/index.html#/" target="_blank">Intro to Web Concepts</a>
-* Read: Web concepts -- <a href="http://skillcrush.com/2012/08/19/the-internet-vs-the-web/" target="_blank">Internet vs. Web</a>, <a href="http://skillcrush.com/2012/10/01/web-browsers/" target="_blank">Web Browser</a>, <a href="http://skillcrush.com/2012/07/03/web-server-2/" target="_blank">Web Server</a>
-* Read: <a href="http://skillcrush.com/2013/03/28/websites-vs-web-applications/" target="_blank">Web site vs Web App</a>
-* Read: Domain concepts -- <a href="http://skillcrush.com/2012/11/01/domain-2/" target="_blank">What's a domain</a>, <a href="http://skillcrush.com/2012/04/24/dns/" target="_blank">DNS</a>, <a href="http://skillcrush.com/2012/07/03/ip-address-2/" target="_blank">IP Address</a>
-* Read: <a href="http://coding.smashingmagazine.com/2011/05/25/introduction-to-dns-explaining-the-dreaded-dns-delay/" target="_blank">Introduction to DNS</a>
-* Read: <a href="http://skillcrush.com/2012/04/02/html/" target="_blank">What's HTML?</a>
+* Slides: [Intro to Web Concepts](http://girldevelopit.com/assets/web-concepts/index.html#/)
+* Read: Web concepts -- []Internet vs. Web(http://skillcrush.com/2012/08/19/the-internet-vs-the-web/), [Web Browser](http://skillcrush.com/2012/10/01/web-browsers/), [Web Server](http://skillcrush.com/2012/07/03/web-server-2/)
+* Read: [Web site vs Web App](http://skillcrush.com/2013/03/28/websites-vs-web-applications/)
+* Read: Domain concepts -- [What's a domain](http://skillcrush.com/2012/11/01/domain-2/), [DNS](http://skillcrush.com/2012/04/24/dns/), [IP Address](http://skillcrush.com/2012/07/03/ip-address-2/)
+* Read: [Introduction to DNS](http://coding.smashingmagazine.com/2011/05/25/introduction-to-dns-explaining-the-dreaded-dns-delay/)
+* Read: [What's HTML?](http://skillcrush.com/2012/04/02/html/)
 
 #### More about Git
 
-* Read: <a href="http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository" target="_blank">Recording Changes to your Git Repository</a>
+* Read: [Recording Changes to your Git Repository](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository)
 
 **Optional resources**
 
-* Read: <a href="https://www.atlassian.com/git/tutorial/git-basics#!commit" target="_blank">git commit</a>
-* Read: <a href="https://www.atlassian.com/git/tutorial/git-basics#!log" target="_blank">git log aka git history</a>
+* Read: [git commit](https://www.atlassian.com/git/tutorial/git-basics#!commit)
+* Read: [git log aka git history](https://www.atlassian.com/git/tutorial/git-basics#!log)
 
 
 ### 2) Create a web page
 
-Now let's put that knowledge to work!  We will be using <a href="http://www.sublimetext.com/" target="_blank">Sublime Text</a> as our <a href="http://skillcrush.com/2012/09/10/text-editor/" target="_blank">text editor</a>.  Review the <a href="http://code.tutsplus.com/articles/perfect-workflow-in-sublime-text-free-course--net-27293" target="_blank">Perfect Workflow in Sublime Text</a> if you need a refresher on how to write code using Sublime.
+Now let's put that knowledge to work!  We will be using [Sublime Text](http://www.sublimetext.com/) as our [text editor](http://skillcrush.com/2012/09/10/text-editor/).  Review the [Perfect Workflow in Sublime Text](http://code.tutsplus.com/articles/perfect-workflow-in-sublime-text-free-course--net-27293) if you need a refresher on how to write code using Sublime.
 
 * **Open a new file in Sublime**
 * Save the file as `index.html` in the **same directory as your copy of [USERNAME].github.io**<br /><br />![Sublime save](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/sublime-save.jpg)
@@ -74,4 +73,4 @@ You can also see the new index.html file in your GitHub repository!
 
 ### 6) Reflection
 
-Reflect on your learning in the `3_web_basics.md` file in your <a href="https://gist.github.com" target="_blank">reflection gist</a>.
+Reflect on your learning in the `3_web_basics.md` file in your [reflection gist](https://gist.github.com).

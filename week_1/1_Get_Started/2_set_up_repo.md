@@ -2,7 +2,7 @@
 
 # Set up a repository
 
-We are going to create a repository to host your very own website! You'll be using a GitHub repository and <a href="http://pages.github.com/" target="_blank">GitHub Pages</a> to set it up.
+We are going to create a repository to host your very own website! You'll be using a GitHub repository and [](http://pages.github.com/)GitHub Pages to set it up.
 
 ## Learning Objectives
 
@@ -18,7 +18,7 @@ We are going to create a repository to host your very own website! You'll be usi
 
 
 1. **Log into GitHub**
-2. **Create a <a href="https://github.com/new" target="_blank"> new repository</a>**<br /><br />This will take you to the new repository form.<br /><br />![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-repo-1.jpg)
+2. **Create a [new repository](https://github.com/new) **<br /><br />This will take you to the new repository form.<br /><br />![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-repo-1.jpg)
 3. **Fill out the new repository form.** <ul><li>You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.  </li><li>Check "Initialize this project with a README" and add an MIT license. </li></ul>![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-repo-2.jpg)<br /><br />I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**.
 4. Click on the **"Create Repository" button**
 4. **Do a celebration dance!** <br />:dancers: :tada: :dancer: <br /><br />![You have a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-repo3.jpg)
@@ -33,7 +33,7 @@ In git terms, this is called **cloning a repository locally**. A "local reposito
 
 #### Clone a repository with the GitHub App
 
-For <a href="http://mac.github.com/" target="_blank">Mac</a> and <a href="http://windows.github.com/" target="_blank">Windows</a> users, open the GitHub app you installed earlier.
+For [Mac](http://mac.github.com/) and [Windows](http://windows.github.com/) users, open the GitHub app you installed earlier.
 
 If you are working on Linux and/or want to challenge yourself further, skip to the next section.
 
@@ -49,15 +49,15 @@ If you are working on Linux and/or want to challenge yourself further, skip to t
 
 This section is for Linux users or those who want to challenge themselves.  Later in DBC and in your life as a professional developer, you will use git and access GitHub using the command line (aka "terminal").
 
-Use <a href="git_clone.md" target="_blank">this tutorial</a> to clone your repository on the command line.
+Use [this tutorial](git_clone.md) to clone your repository on the command line.
 
 ### 3. Open Source
 
 You added an MIT License to your repository.  Read these articles to explain why:
-* <a href = "http://skillcrush.com/2012/08/29/open-source-software/" target="_blank">Open Source</a> 
-* <a href="http://www.slideshare.net/CodeMontage/writespeakcode-open-source-licenses" target="_blank">Open Source licensing 
-* <a href="http://coding.smashingmagazine.com/2011/05/25/introduction-to-dns-explaining-the-dreaded-dns-delay/" target="_blank">A short guide to Open Source</a>
+* [Open Source](http://skillcrush.com/2012/08/29/open-source-software/) 
+* [Open Source licensing](http://www.slideshare.net/CodeMontage/writespeakcode-open-source-licenses) 
+* [A short guide to Open Source](http://www.smashingmagazine.com/2010/03/24/a-short-guide-to-open-source-and-similar-licenses/)
 
 ### 4. Reflect
 
-Reflect on your learning in the `2_open_source.md` file in your <a href="https://gist.github.com" target="_blank">reflection gist</a>.
+Reflect on your learning in the `2_open_source.md` file in your [reflection gist](https://gist.github.com).

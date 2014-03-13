@@ -11,7 +11,7 @@ Reflecting is essential for solidifying your learning. You will be expected to c
 
 ## Directions
 
-### 1. Fork <a href="https://gist.github.com/dbc-challenges/83e529e4c416967a0dde/" target="_blank"> this gist</a>
+### 1. Fork [this gist](https://gist.github.com/dbc-challenges/83e529e4c416967a0dde/)
 You will complete your reflections for week 1 using one gist that contains multiple files.(One for each reflection). 
 
 * In the top right of the page, you should have a button that says "fork." Click it. 
@@ -27,4 +27,4 @@ At the top of the page you should see a series of buttons, including "edit" and 
 
 
 ###Resources:
-<a href="http://daringfireball.net/projects/markdown/syntax" target="_blank">Daring Fireball: Markdown Syntax Documentation</a> 
+[Daring Fireball: Markdown Syntax Documentation](http://daringfireball.net/projects/markdown/syntax) 
