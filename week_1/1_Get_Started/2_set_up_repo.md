@@ -2,7 +2,7 @@
 
 # Set up a repository
 
-We are going to create a repository to host your very own website! You'll be using a GitHub repository and [](http://pages.github.com/)GitHub Pages to set it up.
+We are going to create a repository to host your very own website! You'll be using a GitHub repository and [GitHub Pages](http://pages.github.com/) to set it up.
 
 ## Learning Objectives
 
