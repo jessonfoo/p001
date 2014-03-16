@@ -1,3 +1,5 @@
+[Week 2 Home](week_2)
+
 # U1.W2: JavaScript Variables and Object Types
 
 
@@ -7,42 +9,40 @@
 3. Create and add objects to an array in JavaScript
 4. Use pre-written tests to drive development
 
-## Directions
+## Overview
 Now that you have had a bit of fun with JavaScript in the [Code Combat](2_code_combat.md) 
 challenge, you will want to learn a bit more about how JavaScript works. Before working 
 on this challenge, read through [object_types](reading_material/object_types.md) and 
 [JavaScript Intro](reading_material/javascript_intro_lab). Make sure to practice as 
 you go. You can open a new sublime file and run it in your terminal with node.js. 
-This will help to solidify materials. By the way, this would be a cool thing to pair on. 
-If you read with your pair and work through practicing as you go, you may learn the 
-concepts a bit better.  
-
-Fork [this gist](https://gist.github.com/dbc-challenges/78460da2eb191d62f0c5) 
-*click on this link before forking* You can either copy the text into a sublime file, or you can
-use the command line to clone the gist into a directory (if you have git commands set up). 
-Make changes in your local file, and copy and paste them into your copy of the gist 
-(in your GitHub account). 
+This will help to solidify your knowledge. By the way, this would be a cool thing to pair on. 
+If you read with your pair and practice as you go, you may learn the concepts a bit better.  
 
 In this challenge you will be creating a series of variables. The values of the variables 
 will be different types of JavaScript objects.
 
 Below you will find driver code. Run the code in this file either from the command line 
-using Node.js or by pasting the code of this entire file into your browser console.  
-All tests will log `true` in the console when they pass--`false`, otherwise.
+using Node.js or by pasting the code of this entire file into your browser console. All tests will log `true` in the console when they pass--`false`, otherwise.
 
 The tests will tell you what to do next.  Run the code and read the message explaining 
 why the code couldn't be run or why the test failed.  The first step is going be to make 
 the first test pass.  Then make the second test pass, and so on.
 
-Hint:
-If you get an error message that says something like ...
+Hint: If you get an error message that says something like ...
 
-`ReferenceError: secretNumber is not defined` ...
+`ReferenceError: secretNumber is not defined`, try declaring a variable with that name (e.g., `secretNumber`).
 
-Try declaring a variable with that name (e.g., `secretNumber`).
+## Directions
+**Fork [this gist](https://gist.github.com/dbc-challenges/78460da2eb191d62f0c5).**
+
+You can either copy the text into a sublime file, or you can
+use the command line to clone the gist into a directory (if you have git commands set up). 
+Make changes in your local file, and copy and paste them into your copy of the gist 
+(in your GitHub account). 
+
 
 ###1. Test-Driven Development
-This is your first introduction to Test-Driven Development (TDD). In this challenge, you will be dependent upon the provided driver code to guide your coding. Read [The Newbie's Guide to Test-Driven Development](http://code.tutsplus.com/tutorials/the-newbies-guide-to-test-driven-development--net-13835) to learn more about TDD. 
+This is your first introduction to Test-Driven Development (TDD). In this challenge, you will be dependent upon the provided driver code to guide your coding. Read [The Newbie's Guide to Test-Driven Development](http://code.tutsplus.com/tutorials/the-newbies-guide-to-test-driven-development--net-13835) to learn more about TDD if you're interested. 
 
 First run the code and read the error message, then hypothesize about what you need to write to fix it.
 
