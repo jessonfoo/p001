@@ -1,5 +1,7 @@
 [Back](12_looping_basics.md)
 
+#13. Looping Through Arrays
+
 Running a loop a fixed number of times has limited use.  Usually we want to say something like, "Run this piece of code as many times as there are people in this phone book."  Let's apply this idea to a simple array of strings:
 
 ```javascript

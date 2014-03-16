@@ -1,5 +1,7 @@
 [Back](9_array_basics.md)
 
+#10. Array Operations
+
 Every `Array` object in JavaScript supports the same set of methods and properties.  It doesn't matter what kind of objects are in the array.
 
 Mozilla's Developer Network provides this useful description for arrays:

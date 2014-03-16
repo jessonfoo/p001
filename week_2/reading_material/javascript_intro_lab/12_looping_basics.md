@@ -1,5 +1,7 @@
 [Back](11_object_literals.md)
 
+#12. Looping Basics
+
 The idea of looping is common to all programming languages: doing something over and over again.  Each language provides their own syntax for creating loops, and JavaScript is quite different from Ruby in this regard.
 
 Ruby provides all sorts of looping methods: `each`, `map`, `inject`, `times`, and so on. JavaScript, on the other hand, uses two keywords for all looping operations: `for` and `while`. These two keywords form the foundation for all looping in JavaScript. It might not seem like much right now, but you can get very creative with these to create the right loop for the job.

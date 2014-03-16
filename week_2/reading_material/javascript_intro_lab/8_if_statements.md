@@ -1,5 +1,7 @@
 [Back](7_conditions_and_logic.md)
 
+#8. If Statements
+
 Now that we know how to write conditional statements, we can use them to modify the flow of the program between different branches.  
 
 The basic branching structure in JavaScript, as in Ruby, is the `if` branch.  The most basic `if` branch allows the program to run a particular set of code (or a branch) when a condition is true.  Here are some `if` branches:

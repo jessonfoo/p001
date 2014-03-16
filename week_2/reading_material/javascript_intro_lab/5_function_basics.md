@@ -1,5 +1,7 @@
 [Back](4_functions_vs_methods.md)
 
+#5. Function Basics
+
 Whenever we have an action we want to perform like adding two numbers or parsing a string, we will define that action in a function.
 
 There are three basic components to every function in JavaScript:

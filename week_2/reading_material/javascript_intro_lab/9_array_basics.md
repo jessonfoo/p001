@@ -1,5 +1,7 @@
 [Back](8_if_statements.md)
 
+#9. Array Basics
+
 Arrays are the most fundamental kind of collection.  JavaScipt, like Ruby, allows us to work with Arrays. We'll go over some of the differences between how the two languages implement Arrays and which methods they provide.
 
 ### Creating Arrays

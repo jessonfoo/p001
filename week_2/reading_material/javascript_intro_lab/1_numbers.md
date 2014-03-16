@@ -1,3 +1,5 @@
+# 1. Numbers
+
 #### A quick refresh on primitives
 
 Programming languages provide a set of *primitive* or *basic* data types as building blocks.  Most language also have more complex types that are built from these basic types.  Numbers and strings are the two main basic data types in JavaScript, as they are in Ruby.

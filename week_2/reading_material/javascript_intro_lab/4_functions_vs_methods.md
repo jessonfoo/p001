@@ -1,5 +1,7 @@
 [Back](4_functions_vs_methods.md)
 
+#4. Functions vs. Methods
+
 JavaScript, unlike Ruby, makes a clear distinction between functions and methods. This section will cover some of the characteristics of each and how to recognize one from the other.
 
 #### What is a Function?

@@ -1,5 +1,7 @@
 [Back](2_strings.md)
 
+#3. Variables
+
 When we work with data in JavaScript, we often want to be able to store information.  A variable is used to store a value and can then be used later in the code to retrieve or modify this value.  In JavaScript, unlike Ruby, we use the `var` keyword to prefix variable definition.
 
 ```javascript

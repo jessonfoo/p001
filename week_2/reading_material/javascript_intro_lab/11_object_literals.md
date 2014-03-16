@@ -1,5 +1,7 @@
 [Back](10_array_operations.md)
 
+#11. Object Literals
+
 In Ruby, the other type of collection besides `Array` is `Hash`, which is its own implementation of the general [associative array](http://en.wikipedia.org/wiki/Associative_array) data type. JavaScript has no built in data type to parallel Ruby's `Hash`, although we can use [object literals](https://developer.mozilla.org/en/JavaScript/Guide/Values,_Variables,_and_Literals#Object_literals) in JavaScript to achieve a similar functionality.
 
 >An object literal is a list of zero or more pairs of property names and associated values of an object, enclosed in curly braces ({}). [Link to source](https://developer.mozilla.org/en/JavaScript/Guide/Values,_Variables,_and_Literals#Object_literals)

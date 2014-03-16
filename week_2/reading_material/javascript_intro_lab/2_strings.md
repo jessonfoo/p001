@@ -1,5 +1,7 @@
 [Back](1_numbers.md)
 
+#2. Strings
+
 A string is a collection of characters, just like in Ruby. These can be letters, symbols or numbers.  Here are some strings in JavaScript:
 
 ```javascript
