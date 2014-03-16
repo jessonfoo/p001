@@ -1,4 +1,4 @@
-[Back](4_functions_vs_methods.md)
+[Back](3_variables.md)
 
 #4. Functions vs. Methods
 
