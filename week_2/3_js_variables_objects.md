@@ -33,7 +33,7 @@ Hint: If you get an error message that says something like ...
 `ReferenceError: secretNumber is not defined`, try declaring a variable with that name (e.g., `secretNumber`).
 
 ## Directions
-**Fork [this gist](https://gist.github.com/dbc-challenges/78460da2eb191d62f0c5).**
+**Fork [this gist](https://gist.github.com/dbc-challenges/78460da2eb191d62f0c5).** *Remember to click the link before forking*
 
 You can either copy the text into a sublime file, or you can
 use the command line to clone the gist into a directory (if you have git commands set up). 
