@@ -17,6 +17,12 @@ This will help to solidify materials. By the way, this would be a cool thing to 
 If you read with your pair and work through practicing as you go, you may learn the 
 concepts a bit better.  
 
+Fork [this gist](https://gist.github.com/dbc-challenges/78460da2eb191d62f0c5) 
+*click on this link before forking* You can either copy the text into a sublime file, or you can
+use the command line to clone the gist into a directory (if you have git commands set up). 
+Make changes in your local file, and copy and paste them into your copy of the gist 
+(in your GitHub account). 
+
 In this challenge you will be creating a series of variables. The values of the variables 
 will be different types of JavaScript objects.
 
@@ -55,7 +61,18 @@ When you get to the point that all the error messages are passing, go back and c
 
 If you think of a way to improve your code through refactoring, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank, you need to justify the omission of refactoring.
 
-###5. Reflect
+###5. Edit your forked gist
+Now that you've done all this work, don't forget to upload it to your gist! Log in to [GitHub Gists](https://gist.github.com). Click on the `p0_u1_w2_javascript_objects.js` file. At the top you should see the "edit" button. Click it. Make sure to copy and paste your final solution in the gist. (If you need to make updates later, you can do so easily by clicking "edit" again). 
+
+Make sure to edit line 1 to reflect whether you worked on the challenge on your own or with a pair. If you worked with a pair, make sure to put his/her name!
+
+###6. Reflect
 In your week 2 reflection gist (which you have already forked into your account), answer the questions and reflect on your learning in this challenge. Make sure to address the learning objectives in your reflection. 
+
+###7. Review Others' Solutions!
+Go to the [original gist](https://gist.github.com/dbc-challenges/78460da2eb191d62f0c5). On the left side, under "Gist Detail", click on "Forks." Read two other students' solutions. What did they do well? Was their solution different from yours? Leave a comment on their gists. Be kind, specific and actionable. (You are expected to leave
+at least two comments for this challenge).
+
+NOTE: Forks will only appear when at least one fork has been created. 
 
 
