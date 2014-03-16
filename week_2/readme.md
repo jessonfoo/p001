@@ -5,10 +5,10 @@ JavaScript is known as the "language of the web." It is a powerful object-orient
 You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't worry if you feel like you will forget everything. You will have the chance to review in the last two weeks of Phase 0 and the weekend before you begin Phase 2. Moreover, professional programmers look up information and syntax all the time. They don't have everything memorized either, so think of this as an introduction. The more you use JavaScript the more you will remember. For our purposes here, we want you to learn basics so that you can easily re-learn them later. 
 
 ## Before you begin:
-- [ ] [Node.js](Install https://gist.github.com/dbc-challenges/b91d17f4267107bcf523)
-- [ ] Read through [JavaScript Reading Material](reading_material) (in the folder above)
-- [ ] Read about [JavaScript 'Object' Objects](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/)Understanding this well will be very beneficial.
-- [ ] Fork the [Week 2 Reflection Gist](https://gist.github.com/dbc-challenges/0cf293dd7ded2ed677e4) into your account.
+- [Node.js](Install https://gist.github.com/dbc-challenges/b91d17f4267107bcf523)
+- Read through [JavaScript Reading Material](reading_material) (in the folder above)
+- Read about [JavaScript 'Object' Objects](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/)Understanding this well will be very beneficial.
+- Fork the [Week 2 Reflection Gist](https://gist.github.com/dbc-challenges/0cf293dd7ded2ed677e4) into your account.
 
 ## Challenges
 1. [Code Combat](2_code_combat.md)
