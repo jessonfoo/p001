@@ -12,7 +12,7 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 
 ## Challenges
 1. [Code Combat](2_code_combat.md)
-2. [Javascript Variables and Objects](3_javascript_variables_and_objects.md)
+2. [Javascript Variables and Objects](3_js_variables_objects.md)
 3. [Manipulating JavaScript Objects](4_manipulating_js_objects.md)
 4. [Create Your Own Code Combat Mission](5_create_code_combat_mission.md)
 5. [Group Project: Gradebook with Names and Scores](6_gradebook_with_names_scores.md)
