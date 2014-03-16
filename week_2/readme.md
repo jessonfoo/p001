@@ -6,7 +6,7 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 
 ## Before you begin:
 - [Node.js](Install https://gist.github.com/dbc-challenges/b91d17f4267107bcf523)
-- Read through [JavaScript Reading Material](reading_material) (in the folder above)
+- Read through [JavaScript Reading Material](reading_material)
 - Read about [JavaScript 'Object' Objects](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/)Understanding this well will be very beneficial.
 - Fork the [Week 2 Reflection Gist](https://gist.github.com/dbc-challenges/0cf293dd7ded2ed677e4) into your account.
 
