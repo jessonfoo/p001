@@ -4,7 +4,8 @@ For most of you, JavaScript is a completely new language. Please read through th
 1. [Object Types](object_types.md)
 2. [JavaScript Introduction](javascript_intro_lab/readme.md)
 
-Resources referenced in the Javascript Tutorials:
+***
+FYI: Resources referenced in the Javascript Tutorials for handy access:
 
 - [MDN: JavaScript Data Structures](https://developer.mozilla.org/en/JavaScript/Data_structures)
 - [MDN: JS Reference: Numbers](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Number)
