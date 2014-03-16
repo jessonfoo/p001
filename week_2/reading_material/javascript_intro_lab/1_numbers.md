@@ -59,7 +59,7 @@ var num = 4.7;
 Math.pow(num, 3);
 ```
 
-Check out the links below if you want to explore more.
+Check out the links below if you want to explore more. Click [next](2_strings.md) to go to the next section.
 
 ### References
 

@@ -1,3 +1,5 @@
+[Back](13_looping_through_arrays.md)
+
 We've already learned that JavaScript does not provide looping methods in the same way that Ruby does. The question, then, is "how would we reproduce Ruby-like looping methods in JavaScript?".
 
 This last lesson provides some examples of JavaScript implementations for the Ruby Array methods `#each`, `#map`, `#select`, and `#max`.  

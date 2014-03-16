@@ -13,13 +13,12 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 ## Challenges
 1. [Code Combat](2_code_combat.md)
 2. [Javascript Variables and Objects](3_js_variables_objects.md)
-3. [Manipulating JavaScript Objects](4_manipulating_js_objects.md)
+3. [Manipulating JavaScript Objects- SOLO CHALLENGE](4_manipulating_js_objects_solo_challenge.md)
 4. [Create Your Own Code Combat Mission](5_create_code_combat_mission.md)
 5. [Group Project: Gradebook with Names and Scores](6_gradebook_with_names_scores.md)
-6. [Solo Challenge: Calculate Mean and Median in JavaScript](7_solo_challenge.md)
-7. [Technical Blog](8_technical_blog.md)
-8. [Cultural Blog](9_cultural_blog.md)
-9. GPS 1.1: Your first Guided Pairing Session
+6. [Technical Blog](8_technical_blog.md)
+7. [Cultural Blog](9_cultural_blog.md)
+8. GPS 1.1: Your first Guided Pairing Session
 
 ## Submitting your work
 
@@ -30,7 +29,6 @@ You need to submit your work through a google form (to be released) by Sunday at
 - Manipulating JavaScript Objects challenge gist
 - Your own Code Combat Mission gist
 - Group Project challenge Gist
-- Solo Challenge Gist
 - Links to your Technical and Cultural Blogs
 - GPS 1.1 Website Gist
 - Week 2 Reflection gist 

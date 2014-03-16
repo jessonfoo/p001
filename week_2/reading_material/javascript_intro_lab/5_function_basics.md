@@ -1,3 +1,5 @@
+[Back](4_functions_vs_methods.md)
+
 Whenever we have an action we want to perform like adding two numbers or parsing a string, we will define that action in a function.
 
 There are three basic components to every function in JavaScript:
@@ -99,6 +101,8 @@ doSomething(firstName, 33, num);
 ```
 
 In this case the third argument `num` gets passed to the parameter `age` because it is in the third position.
+
+Click [next](6_built_in_methods.md) to go to the next section.
 
 
 ### References

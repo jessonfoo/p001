@@ -1,3 +1,5 @@
+[Back](12_looping_basics.md)
+
 Running a loop a fixed number of times has limited use.  Usually we want to say something like, "Run this piece of code as many times as there are people in this phone book."  Let's apply this idea to a simple array of strings:
 
 ```javascript
@@ -74,6 +76,7 @@ The `i` variable still acts as an incrementor, just like the longhand syntax (`f
 
 `for...in` is different from the above syntax in one very important sense: it will iterate through the elements of an enumerable object *in an arbitrary order*.  Do not use `for...in` if you are concerned with maintaining the sequential order of your array.
 
+Click [next](14_each_map_select_max.md) to go to the next section.
 
 ### References
 

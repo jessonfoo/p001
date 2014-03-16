@@ -1,3 +1,5 @@
+[Back](4_functions_vs_methods.md)
+
 JavaScript, unlike Ruby, makes a clear distinction between functions and methods. This section will cover some of the characteristics of each and how to recognize one from the other.
 
 #### What is a Function?
@@ -15,3 +17,5 @@ We use the word **method** to refer to a function that is defined within the con
 JavaScript defines methods for its core global objects (`String`, `Array`, `Object`, etc.) which we can use on any objects of that type. In a browser environment, there are a vast number of other methods JavaScript provides for working with objects like `document`, `window`, `location`, and more.
 
 You can also define your own methods for built-in objects or for new objects of your own design.
+
+Click [next](5_function_basics.md) to go to the next section.

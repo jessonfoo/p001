@@ -1,3 +1,5 @@
+[Back](6_built_in_methods.md)
+
 So far we have been working with the simplest programming structure (or program flow) which is called `Sequential Programming`.  All of the statements we have written execute in the order they appear in the program (or in the method).  Often in programming, we need to be able to change which statements are executed based on some additional value.  This programming structure is called the `Selection Structure` but is often referred to as `Branching`.  In order to make a selection between two separate program flows, we need to be able to create conditional statements.
 
 These lessons will cover the basics of branching in JavaScript, highlighting areas where it overlaps or differs from Ruby.
@@ -130,6 +132,8 @@ if (! null) { "NOT NULL!" }
 
 if (true) { "The Truth" }
 ```
+
+Click [next](8_if_statements.md) to go to the next section.
 
 ### References
 

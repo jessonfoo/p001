@@ -6,6 +6,8 @@ After finishing these lessons, you will be familiar with the basic syntax and co
 
 Throughout these lessons, use your [browser's console](http://webmasters.stackexchange.com/questions/8525/how-to-open-the-javascript-console-in-different-browsers) to experiment with the examples given and refer to the outside sources provided via the references section (at the bottom of each page).  There is a lot of great reading out there, and it would be ridiculous to assume that we could provide an adequate treatment of these topics in these pages alone.  Use the reading.  Do your own exploring and experimenting and playing around with the console.  You'll be glad you did.
 
+Click [here](1_numbers.md) to start.
+
 #### Core References
 
 [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript/): probably the best online reference for all things JavaScript. <br>

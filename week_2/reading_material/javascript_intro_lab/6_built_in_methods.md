@@ -81,6 +81,7 @@ Of course, we can always use parentheses to explicitly define the order of opera
 ```javascript
 (5 + 4) * 3;
 ```
+Click [next](7_conditions_and_logic.md) to go to the next section.
 
 ### References
 
