@@ -1,3 +1,5 @@
+# An Introduction to JavaScript
+
 The purpose of these lessons is to explore the features of JavaScript from the perspective of Ruby.  If you are not already familiar with Ruby, much of what you will find here will not make sense.
 
 Likewise, we will not be exploring all of the features that JavaScript provides.  All of client-side JavaScript has been ignored, as there is no comparable feature in Ruby.
