@@ -14,7 +14,7 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 2. [Javascript Variables and Objects](3_js_variables_objects.md)
 3. [Manipulating JavaScript Objects- SOLO CHALLENGE](4_manipulating_js_objects_solo_challenge.md)
 4. [Create Your Own Code Combat Mission](5_create_code_combat_mission.md)
-5. [Group Project: Gradebook with Names and Scores](6_group_project.md)
+5. [Group Project](6_group_project.md)
 6. [Technical Blog](7_technical_blog.md)
 7. [Cultural Blog](8_cultural_blog.md)
 8. GPS 1.1: Your first Guided Pairing Session
