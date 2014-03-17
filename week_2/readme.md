@@ -21,15 +21,7 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 
 ## Submitting your work
 
-You need to submit your work through a google form (to be released) by Sunday at 11:59pm. Expect to submit your links for each of the following:
-
-- Code Combat challenge gist
-- Javascript Variables and Objects challenge gist
-- Manipulating JavaScript Objects challenge gist
-- Your own Code Combat Mission gist
-- Group Project challenge Gist
-- Links to your Technical and Cultural Blogs
-- GPS 1.1 Gist
+You need to submit your work through a google form (to be released) by Sunday at 11:59pm. Expect to submit your links for each challenge above. You should be able to find each of them in [GitHub Gists](https://gist.github.com).
 
 <!-- [this Google form](https://docs.google.com/forms/d/1tk8OPLHVYm8NLqiw5FSgh6WPM5AUUL20pYVffrcFbr4/viewform) -->
 
