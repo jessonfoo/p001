@@ -1,15 +1,17 @@
-# U1.W2: Name
-
+# U1.W2: Create Your Own Code Combat Mission!
 
 ## Learning Objectives
-1. objective 1
-2. objective 2
-3. objective 3
+1. Define local variables in JavaScript
+2. Create, add properties to, delete properties from, and access values from JavaScript Object literals
+3. BONUS: Integrate HTML, CSS, and JavaScript to display and manipulate objects
 
 
 ## Directions
+You now have some practice with JavaScript so let's get creative with it. In this challenge, you are not expected to create a real, working mission, rather, we want you to have fun thinking up a simple mission and make some basic objects and functions to manipulate those objects. The end is up to you. 
 
-This is the process you should complete every time you work on a challenge. First read, then create pseudocode, write a solution, make it pass the tests, refactor the code, then reflect. 
+When you feel finished, you should edit your gist with each section and be done. It's difficult to know when you are finished with a project, so we want to reiterate that it's up to you how much you want to do with this project. If you are having fun, keep working and solidifying your understanding. If you're bored and feel like you've gotten enough out of it, it's good to be finished. 
+
+Fork [this gist](https://gist.github.com/dbc-challenges/4754e5cac0d2e33b1f95)
 
 ###1. Pseudocode
 List out the steps you need to complete to complete the challenge.  Write these in plain english and save them as comments. 
@@ -17,31 +19,22 @@ List out the steps you need to complete to complete the challenge.  Write these 
 *NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
 
 ###2. Initial Solution
-Turn your pseudocode into code by translating each step into code. If your pseudocode is not easy to implement, modify it, and re-attempt to code it. 
-
-
-Once your code produces your expected output, save your file, add it to your stage, and commit your changes. 
+Turn your pseudocode into code by translating each step into code. If your pseudocode is not easy to implement, modify it, and re-attempt to code it. Your functions don't have to work perfectly, but think about how to display something like movement using data structures. Again, your code doesn't have to be perfectly functional. Try writing your functions to the best of your ability. 
 
 ###3. Refactored Solution
-Read through your solution. Is the naming clear? Is the code concise (but readable)? Are you repeating yourself? Is everything necessary? 
+When you get to the point that your objects and functions are working as well as you want, ask yourself:
+- Are the variable names you've chosen clear?
+- Is the code concise (but readable)?
+- Is the code [D.R.Y](http://programmer.97things.oreilly.com/wiki/index.php/Don't_Repeat_Yourself)? 
 
-Remember: great code is rarely the fewest number of characters or lines, it's about how readable, extendable, and reusable it is.
+If you think of a way to improve your code through refactoring, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank, you need to justify the omission of refactoring.
 
-If you can't figure out how to refactor your initial solution, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank, you need to justify your omission.
+###4. BONUS!
+Add your JavaScript objects to an HTML page. Use CSS to make it pretty. What about ascii art? Then look up how to manipulate objects on a page with JavaScript using your functions...
 
-###4. Reflection
-When writing your reflection, write it for an audience. Tell a story of what you tried and what you learned. It will make it easier for you to go back and re-teach yourself or know what you were thinking. 
-
-Also, your reflections aren't just for teachers, they are for your fellow cohort mates as well, so be generous! You could end up helping a fellow student learn something new.
-
-Answer the following questions in your reflection:
-
-* What parts of your strategy worked? What problems did you face?    
-* What questions did you have while coding? What resources did you find to help you answer them?  
-* What concepts are you having trouble with, or did you just figure something out? If so, what?  
-* Did you learn any new skills or tricks?
+## Reflect
+In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](reflection_guidelines) to guide your reflection. ***NOTE: Reflections are mandatory!***
 
 
-
-###5. Review another person's solution and leave a comment!
-
+##Review other's solutions!!
+Go to the [original gist](https://gist.github.com/dbc-challenges/4754e5cac0d2e33b1f95). On the left side, under "Gist Detail", click on "Forks." Read two other students' solutions. What did you think? Did you like their creativity? Was the naming of the objects clear? Was the code readable? What did they do well? What could they have done better? Was it readable? Leave a comment on their gists. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge). *NOTE: Forks will only appear when at least one fork has been created.* 
