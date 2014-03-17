@@ -44,6 +44,7 @@ Answer the questions in your `5_web_standards.md` file in your reflection gist.
 #### a. Research
 
 Look into responsive web design.  What is it? Why is it used?
+*You do not need to go through all these resources.  We'd recommend either going through the first two (slide intro, read beginners) OR the Treehouse tutorial.*
 
 * Slides: [Introduction to Responsive Web Design and Compatability](http://girldevelopit.com/assets/intermediate-html-css/class4.html#/4/2)
 * Read: [Beginners guide to responsive web design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)
