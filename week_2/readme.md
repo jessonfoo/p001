@@ -10,13 +10,13 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 - You may choose to read through [JavaScript Reading Material](reading_material) before starting the challenges.
 
 ## Challenges
-1. [Code Combat](2_code_combat.md)
-2. [Javascript Variables and Objects](3_js_variables_objects.md)
-3. [Manipulating JavaScript Objects- SOLO CHALLENGE](4_manipulating_js_objects_solo_challenge.md)
-4. [Create Your Own Code Combat Mission](5_create_code_combat_mission.md)
-5. [Group Project](6_group_project.md)
-6. [Technical Blog](7_technical_blog.md)
-7. [Cultural Blog](8_cultural_blog.md)
+1. [Code Combat](1_code_combat.md)
+2. [Javascript Variables and Objects](2_js_variables_objects.md)
+3. [Manipulating JavaScript Objects- SOLO CHALLENGE](3_manipulating_js_objects_solo_challenge.md)
+4. [Create Your Own Code Combat Mission](4_create_code_combat_mission.md)
+5. [Group Project](5_group_project.md)
+6. [Technical Blog](6_technical_blog.md)
+7. [Cultural Blog](7_cultural_blog.md)
 8. GPS 1.1: Your first Guided Pairing Session
 
 ## Submitting your work
