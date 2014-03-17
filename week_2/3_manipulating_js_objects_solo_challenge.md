@@ -87,6 +87,6 @@ Make sure to put everything (pseudocode, initial solution, refactored solution) 
 
 
 ##Reflect
-In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](reflection_guidelines) to guide your reflection. ***NOTE: Reflections are mandatory!***
+In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](reflection_guidelines.md) to guide your reflection. ***NOTE: Reflections are mandatory!***
 
 
