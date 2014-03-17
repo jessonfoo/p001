@@ -4,7 +4,7 @@
 Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community. 
 
 ## Directions
-Remember your [USERNAME].github.io website? Now is your chance to use it for blogging! Create a new HTML file and call it `blog_template`. You will want to reuse the same blog template over again and have a CSS sheet to style it. 
+Remember your [USERNAME].github.io website? Now is your chance to use it for blogging! Create a new HTML file and call it `blog_template`. You will want to reuse the same blog template over again and create a CSS sheet to style it. 
 
 Create a new HTML file and use the date to name it `MM_DD_YY.html`. If you are doing both blog posts on the same date, add a `t` or `c` before the file extension. 
 
@@ -15,6 +15,8 @@ Research the following question and write a blog post to answer it. There is no 
 
 HINT: Intend your blog for a non-technical audience. Imagine explaining to a non-technical friend, for instance. 
 
-## Share your blog on the google+ community under "Blog Posts"! Read others and see if you agree or disagree. Start a discussion on this topic. 
+
+## Link to your blog on the index of your site and sync your changes. 
+Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic. 
 
 
