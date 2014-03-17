@@ -9,7 +9,7 @@
 3. Create and add objects to an array in JavaScript
 4. Use pre-written tests to drive development
 
-## Purpose
+## Background
 Now that you have had a bit of fun with JavaScript in the [Code Combat](2_code_combat.md) 
 challenge, you will want to learn a bit more about how JavaScript works. Before working 
 on this challenge, read through [object_types](reading_material/object_types.md) and 
