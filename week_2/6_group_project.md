@@ -54,9 +54,9 @@ When the first person receives the refactored code from the last person, she/he 
 For everyone: When you receive the summary email, send your gist to the other students in your accountability group. Look at the two people who followed you (go to the top if you're at the bottom) and comment on each gist. 
 
 
-![4 person model](https://github.com/Devbootcamp/phase_0_unit_1/blob/adding_week_2_curriculum/week_2/imgs/4_person.jpg)
-![5 person model](https://github.com/Devbootcamp/phase_0_unit_1/blob/adding_week_2_curriculum/week_2/imgs/5_person.jpg)
-![6 person model](https://github.com/Devbootcamp/phase_0_unit_1/blob/adding_week_2_curriculum/week_2/imgs/6_person.jpg)
+![4 person model](https://github.com/Devbootcamp/phase_0_unit_1/blob/adding_week_2_curriculum/week_2/imgs/4_person.jpg)<br>
+![5 person model](https://github.com/Devbootcamp/phase_0_unit_1/blob/adding_week_2_curriculum/week_2/imgs/5_person.jpg)<br>
+![6 person model](https://github.com/Devbootcamp/phase_0_unit_1/blob/adding_week_2_curriculum/week_2/imgs/6_person.jpg)<br>
 
 ## Reflect
 Add a reflection to your gist. Use the [reflection guidelines](reflection_guidelines) to guide your reflection. Aslo answer the following:
