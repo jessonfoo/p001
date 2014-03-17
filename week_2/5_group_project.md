@@ -65,7 +65,7 @@ For everyone: When you receive the summary email, send your gist to the other st
 ![6_person.jpg](/week_2/imgs/6_person.jpg)<br>
 
 ## Reflect
-Add a reflection to your gist. Use the [reflection guidelines](reflection_guidelines) to guide your reflection. Aslo answer the following:
+Add a reflection to your gist. Use the [reflection guidelines](reflection_guidelines.md) to guide your reflection. Aslo answer the following:
 - What was this experience like? 
 - Was your group successful in passing the tests? 
 - What did you learn about writing user stories, pseudocoding, writing code, refactoring, etc.?

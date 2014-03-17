@@ -64,7 +64,7 @@ Now that you've done all this work, don't forget to upload it to your gist! Log 
 Make sure to edit line 1 to reflect whether you worked on the challenge on your own or with a pair. If you worked with a pair, make sure to put his/her name!
 
 ## Reflect
-In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](reflection_guidelines) to guide your reflection. ***NOTE: Reflections are mandatory!***
+In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](reflection_guidelines.md) to guide your reflection. ***NOTE: Reflections are mandatory!***
 
 ## Review others' Reflections
 Go to the [original gist](https://gist.github.com/dbc-challenges/78460da2eb191d62f0c5). On the left side, under "Gist Detail", click on "Forks." 

@@ -35,7 +35,7 @@ If you think of a way to improve your code through refactoring, write why you th
 Add your JavaScript objects to an HTML page. Use CSS to make it pretty. What about ascii art? Then look up how to manipulate objects on a page with JavaScript using your functions...
 
 ## Reflect
-In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](reflection_guidelines) to guide your reflection. ***NOTE: Reflections are mandatory!***
+In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](reflection_guidelines.md) to guide your reflection. ***NOTE: Reflections are mandatory!***
 
 
 ##Review other's solutions!!
