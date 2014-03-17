@@ -37,7 +37,7 @@ When you are finished with all of the levels, answer the following questions. Yo
   - What is the point of the semicolons?
 
 ## Reflect
-In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](reflection_guidelines) to guide your reflection. ***NOTE: Reflections are mandatory!***
+In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](./reflection_guidelines) to guide your reflection. ***NOTE: Reflections are mandatory!***
 
 ## Review others' solutions!
 
