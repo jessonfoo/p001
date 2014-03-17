@@ -7,7 +7,7 @@ Once you feel comfortable with the expecations for Phase 0, you can get started 
 ### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click. 
 
-#### 1. [Get Starged](1_Get_Started/)
+#### 1. [Get Started](1_Get_Started/)
 #### 2. [Beginning HTML & CSS](2_Beginning_HTML_CSS/)
 #### 3. [Intermediate HTML & CSS](3_Intermediate_HTML_CSS/)
 #### 4. [Your website **(Solo Challenge)**](4_Your_Own_Website_Solo_Challenge/)
