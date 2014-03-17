@@ -31,7 +31,7 @@ Research time management, productivity, and mindfulness. You can try some of the
 
 * [Counter-intuitive productivity](http://paidtoexist.com/counterintuitive-productivity/)
 * [Tricks for Getting into the Zone](http://www.themuse.com/advice/the-best-tricks-for-getting-in-the-zone-at-work)
-* [Flow](http://en.wikipedia.org/wiki/Flow_(psychology)
+* [Flow](http://en.wikipedia.org/wiki/Flow_(psychology))
 
 
 ### 2.  Email + Reflection
