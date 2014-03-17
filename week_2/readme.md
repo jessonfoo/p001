@@ -29,8 +29,7 @@ You need to submit your work through a google form (to be released) by Sunday at
 - Your own Code Combat Mission gist
 - Group Project challenge Gist
 - Links to your Technical and Cultural Blogs
-- GPS 1.1 Website Gist
-- Week 2 Reflection gist 
+- GPS 1.1 Gist
 
 <!-- [this Google form](https://docs.google.com/forms/d/1tk8OPLHVYm8NLqiw5FSgh6WPM5AUUL20pYVffrcFbr4/viewform) -->
 
