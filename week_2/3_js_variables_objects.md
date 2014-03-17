@@ -67,7 +67,16 @@ Make sure to edit line 1 to reflect whether you worked on the challenge on your 
 In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](reflection_guidelines) to guide your reflection. ***NOTE: Reflections are mandatory!***
 
 ## Review others' Reflections
-Go to the [original gist](https://gist.github.com/dbc-challenges/78460da2eb191d62f0c5). On the left side, under "Gist Detail", click on "Forks." Read two other students' pseudocode and reflections. Did they struggle with the same concepts? Were you able to follow their thinking? Were you able to read their pseudocode? Leave a comment telling them what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge). *NOTE: Forks will only appear when at least one fork has been created.* 
+Go to the [original gist](https://gist.github.com/dbc-challenges/78460da2eb191d62f0c5). On the left side, under "Gist Detail", click on "Forks." 
+
+Read two other students' pseudocode and reflections. Ask yourself:
+- How was their pseudocode? 
+- Was the pseudocode detailed enough that you would be able to implement it easily? 
+- Was the pseudocode verbose? Was it clear? 
+- Did they struggle with the same concepts according to their reflection?
+- Were you able to tell how they worked through the challenge?
+
+Leave a comment telling them what they did well and can do better next time with regard to the pseudocode and reflection. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge). *NOTE: Forks will only appear when at least one fork has been created.* 
 
 
 
