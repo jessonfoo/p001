@@ -1,3 +1,5 @@
+[Week 2 Home](week_2)
+
 # U1.W2: Create Your Own Code Combat Mission!
 
 ## Learning Objectives

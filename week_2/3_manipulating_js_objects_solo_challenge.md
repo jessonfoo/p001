@@ -1,3 +1,5 @@
+[Week 2 Home](week_2)
+
 # U1.W2: Manipulating JavaScript Objects Solo Challenge
 
 **This is a solo challenge. Refer to the [solo challenge](https://github.com/Devbootcamp/phase_0_handbook/blob/master/solo_challenges.md) guidelines in the [Phase 0 Handbook](https://github.com/Devbootcamp/phase_0_handbook/).**
