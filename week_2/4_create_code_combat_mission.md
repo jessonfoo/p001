@@ -13,7 +13,7 @@ You now have some practice with JavaScript so let's get creative with it. In thi
 
 When you feel finished, you should edit your gist with each section and be done. It's difficult to know when you are finished with a project, so we want to reiterate that it's up to you how much you want to do with this project. If you are having fun, keep working and solidifying your understanding. If you're bored and feel like you've gotten enough out of it, it's good to be finished. 
 
-Fork [this gist](https://gist.github.com/dbc-challenges/4754e5cac0d2e33b1f95)
+Fork [this gist](https://gist.github.com/dbc-challenges/4754e5cac0d2e33b1f95).
 
 ###1. Pseudocode
 List out the steps you need to complete to complete the challenge.  Write these in plain english and save them as comments. 
