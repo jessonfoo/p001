@@ -8,10 +8,8 @@ First, create a new HTML file for your this post in your [USERNAME].github.io we
 
 Once you've opened your file, write a response to each exercise using the HTML you've learned to set up the file: 
 
-#### TOPIC
+#### Exercise 1:
 
-Exercise 1:
-===========
 When you think of the times in your life where you’ve been the
 happiest, the proudest, or the most satisfied, which of the following
 values come to mind?
@@ -117,21 +115,21 @@ Wisdom
 
 
 
-Exercise 2:
-===========
+#### Exercise 2:
+
 Pick one and write a couple of sentences about why one of the values you chose is important to you.
 
 
 
-Exercise 3:
-===========
+#### Exercise 3:
+
 In general, I try to live up to these values:
 Disagree 1 ----- 2 ----- 3 ----- 4 ----- 5 Agree
 
 
 
-Exercise 4:
-===========
+#### Exercise 4:
+
 What was the last topic that someone asked for your advice on?
 
 
@@ -139,6 +137,9 @@ What was the last topic that someone asked for your advice on?
 Link to your blog on the index of your site and sync your changes. Then email the link to your accountability group.
 If you feel comfortable sharing with the group, share your blog on the google+ community under "Blog Posts."
 
+
+*About*
+These exercises were created to combat Imposter Syndrome, based on [this research](http://blogs.discovermagazine.com/notrocketscience/2010/11/25/15-minute-writing-exercise-closes-the-gender-gap-in-university-level-physics/#.Uynq1a1dUYM)
 
 *License*
 This project is licensed from Ada Institute under Creative Commons Attribution:
