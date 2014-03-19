@@ -26,16 +26,21 @@ You are going to receive a file with tests via email.
 
 Create a gist in your GitHub account called `gc1_user_stories.js`. 
 
-Based on the tests you receive, write user stories that describe what the code needs to do in very specific terms. User stories take the following format:
+**Based on the tests you receive, write user stories that describe what the code needs to do in very specific terms.** User stories take the following format:
 
 As a user, I want to...
 
-Because you aren't working with users, you can omit the "As a user" part of the story, but make sure you are specific on the "I want to..."part. The user stories should be easily translated into pseudocode by the next person in your group. Email the user stories gist link (without the tests) to the next person in your group.
+Because you aren't working with users, you can omit the "As a user" part of the story, but make sure you are specific on the "I want to..."part. The user stories should be easily translated into pseudocode by the next person in your group.  However, a user story is *NOT* psuedocode -- it should describe the experience of someone *using* the function.  Words like `array` or `loop` or any word not known to a non-technical person should not be used.  In this case, you can specify the function name.
+
+
+**Email the user stories gist link (without the tests) to the next person in your group.**
 
 ####Person 2. Translate user stories into pseudocode 
 Create your own gist. Call it `gc1_pseudocode.js`
 
-Based on the user stories you receive from the first person, write pseudocode that can be easily implemented by the next person in your group. Email the link to the pseudocode gist (without the userstories) to the next person/people in your group. You may not deviate from the user stories in your pseudocode.
+Based on the user stories you receive from the first person, write pseudocode that can be easily implemented by the next person in your group.  Your psuedocode should be steps that specify at least 1 line of code.
+
+**Email the link to the pseudocode gist (without the userstories) to the next person/people in your group.** You may not deviate from the user stories in your pseudocode.
 
 ####Person 3**. Translate Pseudocode into Code
 Create your own gist. Call it `gc1_initial_solution.js`
