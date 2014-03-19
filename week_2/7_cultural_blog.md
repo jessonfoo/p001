@@ -137,6 +137,7 @@ What was the last topic that someone asked for your advice on?
 Link to your blog on the index of your site and sync your changes. Then email the link to your accountability group.
 If you feel comfortable sharing with the group, share your blog on the google+ community under "Blog Posts."
 
+<hr>
 
 ##### About
 These exercises were created to combat Imposter Syndrome, based on [this research](http://blogs.discovermagazine.com/notrocketscience/2010/11/25/15-minute-writing-exercise-closes-the-gender-gap-in-university-level-physics/#.Uynq1a1dUYM)
