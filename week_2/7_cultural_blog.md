@@ -138,10 +138,10 @@ Link to your blog on the index of your site and sync your changes. Then email th
 If you feel comfortable sharing with the group, share your blog on the google+ community under "Blog Posts."
 
 
-*About*
+##### About
 These exercises were created to combat Imposter Syndrome, based on [this research](http://blogs.discovermagazine.com/notrocketscience/2010/11/25/15-minute-writing-exercise-closes-the-gender-gap-in-university-level-physics/#.Uynq1a1dUYM)
 
-*License*
+##### License
 This project is licensed from Ada Institute under Creative Commons Attribution:
 http://creativecommons.org/licenses/by/3.0/
 
