@@ -117,13 +117,15 @@ Wisdom
 
 #### Exercise 2:
 
-Pick one and write a couple of sentences about why one of the values you chose is important to you.
+Pick one value and write a couple of sentences about why one of the values you chose is important to you.
 
 
 
 #### Exercise 3:
 
+Answer the following:
 In general, I try to live up to these values:
+
 Disagree 1 ----- 2 ----- 3 ----- 4 ----- 5 Agree
 
 
