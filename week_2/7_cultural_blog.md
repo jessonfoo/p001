@@ -123,7 +123,8 @@ Pick one value and write a couple of sentences about why one of the values you c
 
 #### Exercise 3:
 
-Answer the following:
+Answer the following for the values you chose in Exercise 1:
+
 In general, I try to live up to these values:
 
 Disagree 1 ----- 2 ----- 3 ----- 4 ----- 5 Agree
