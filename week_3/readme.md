@@ -17,12 +17,14 @@ This week you will be working on creating some command-line programs. Some chall
 6. [Review and Refactor: Pad an Array]()
 7. [Technical Blog]()
 8. [Cultural Blog]()
+9. [GPS 1.2]()
 9. [BONUS: Calculate the Mode]()
 
 
 ## Submitting your work
+Instead of using gists this week, you will be storing your work in a repository. Fork [this repository](https://github.com/Devbootcamp/p0_unit1_submission).
 
-You need to submit your work through [this google form]() by Sunday at 11:59pm. Expect to submit your links for each challenge above. You should be able to find each of them in [GitHub Gists](https://gist.github.com).
+You need to submit your work through [this google form]() by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above. 
 
 
 ## Resources
