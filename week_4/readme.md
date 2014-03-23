@@ -4,8 +4,7 @@ So you've done some preparation on Ruby, and have probably been wondering "Why d
 
 This week you will be working on creating some command-line programs. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to figure out what the errors are. NOTE: You are not expected to write RSpec in Phase 0, just read it. RSpec is designed to be readable. 
 
-## Before you begin:
-[Install RSpec](http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297)
+[Install RSpec](http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297) before you begin. If you have trouble, ask for help on the google+ community.
 
 
 ## Challenges
@@ -23,12 +22,12 @@ This week you will be working on creating some command-line programs. Some chall
 
 ## Submitting your work
 Instead of using gists this week, you will be storing your work in a repository. 
-- Fork [this repository](https://github.com/Devbootcamp/p0_unit1_submission). At the top right, click "Fork." 
+- Fork [**this repository**](https://github.com/Devbootcamp/p0_unit1_submission). (Make sure to click on the link first!) Then click "Fork" at the top right of the page. 
 - Under settings (in the right navigation bar) check the box next to "issues" under "features." This will allow people
   to give you feedback.
 - Open your GitHub desktop app. Find the `p0_unit1_submission` repository and click "clone to computer." 
 
-When you make updates to the files, you should commit your work the same way you did for your website through the app.
+When you make updates to the files, you should commit your work the same way you did for your website through the app. Include a commit message like "submitting solution for 1_add_it_up."
 
 You need to submit your work through [this google form]() by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above. 
 
