@@ -1,4 +1,4 @@
-[Week 3 Home](week_3)
+[Week 3 Home](../)
 
 # GPS 1.2 - JavaScript
 

@@ -1,4 +1,4 @@
-[Week 3 Home](week_3)
+[Week 3 Home](../)
 
 # U1.W3: Review, Refactor: Pad an Array
 
