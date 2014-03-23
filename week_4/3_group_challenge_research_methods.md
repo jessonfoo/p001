@@ -34,7 +34,7 @@ my_family_pets_ages = {"Evi" => 6, "Hoobie" => 3, "George" => 12, "Bogart" => 4,
   "Annabelle" => 0, "Ditto" => 3}
 ```
 
-### Person 1: Find Matching Data
+#### Person 1: Find Matching Data
 Create a method `my_array_finding_method` that takes an `Array` and a letter as arguments
 and returns the words that contain that letter.
 
@@ -50,7 +50,7 @@ Ex.
 my_hash_finding_method(my_family_pets_ages, 3) #=> should return ["Hoobie", "Ditto"]
 ```
 
-### Person 2: Modify Existing Data
+#### Person 2: Modify Existing Data
 Two years have passed since I made these, so they need to be updated. **HINT: the actual 
 data structures need to be modified**
 I recently got a new pet, but I still want another!
@@ -69,7 +69,7 @@ my_hash_modification_method(my_family_pets_ages, 2)
 #=> {"Evi" => 8, "Hoobie" => 5, "George" => 14, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
 ```
 
-### Person 3: Sort Data
+#### Person 3: Sort Data
 I want to create a sorting method that alphabetizes an array. I also want to create a sorting method that arranges
 my hash by age (starting with the youngest first). This should not modify the existing data structure.
 
@@ -82,7 +82,7 @@ my_hash_sorting_method(my_family_pets_ages, age) #=>
 # This may be false depending on how your method deals with ordering the animals with the same ages.
 ```
 
-### Person 4: Delete Matching Data
+#### Person 4: Delete Matching Data
 Sometimes you no longer need data that matches something. Create a `my_array_deletion_method` that takes an array
 and a letter, and deletes all the strings that contain that letter. This should modify the existing structure.
 For example: 
