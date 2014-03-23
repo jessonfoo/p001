@@ -71,7 +71,7 @@ my_hash_modification_method(my_family_pets_ages, 2)
 
 #### Person 3: Sort Data
 I want to create a sorting method that alphabetizes an array. I also want to create a sorting method that arranges
-my hash by age (starting with the youngest first). This should not modify the existing data structure.
+the data in my hash by age (starting with the youngest first). This should not modify the existing data structure.
 
 ```ruby
 my_array_sorting_method(i_want_pets, "pets") #=>
