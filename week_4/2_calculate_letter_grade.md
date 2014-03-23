@@ -1,7 +1,7 @@
 # U1.W3: Calculate a Letter Grade
 
 ## Learning Objectives
-- Use Tests to guide development
+- Use tests to guide development
 - Break down problems into implementable pseudocode 
 - Find and use built-in Ruby methods to solve challenges
 - Use if/else statements, regular expressions, string methods, while/until loops,  Enumerable#each methods
@@ -64,8 +64,8 @@ Include your reflection in the appropriate section in you `my_solution` file. Us
 
 ###6. Push your solution
 When you feel confident with your solution, sync your changes through the GitHub desktop app with your repo on GitHub. 
-If you have done this successfully, you should be able to see your new code on your repo on [github.com](https://github.com)
+If you have done this successfully, you should be able to see your new code on your repo on [github.com](https://github.com).
 
 ###7. Review
 Review two of your accountability group members' solutions, and give them kind, specific, and actionable feedback. 
-Look at [Reviewing Solutions](reviewing_solutions.md) for instructions. 
+Look at [Reviewing Solutions](reviewing_solutions.md) for instructions. ** You should review each person's code (in your accountability group) at least once this week.**
