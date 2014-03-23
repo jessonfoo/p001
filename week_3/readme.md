@@ -29,7 +29,7 @@ Instead of using gists this week, you will be storing your work in a repository 
 
 When you make updates to the files, you should commit your work the same way you did for your website through the app. Include a commit message like "submitting solution for 1_add_it_up."
 
-You need to submit your work through a google form (to be added later) by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above. 
+You need to submit your work through this [google form](https://docs.google.com/forms/d/1l869yt4eIZr_-mYut0FYQD6cZ4f8I1fvn6aaS1Gxmdg/viewform) by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above. 
 
 
 ## Resources
