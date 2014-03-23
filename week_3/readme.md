@@ -17,7 +17,7 @@ This week you will be working on creating some command-line programs. Some chall
 7. [Technical Blog](7_technical_blog.md)
 8. [Cultural Blog](8_cultural_blog.md)
 9. [GPS 1.2](9_gps1.2.md)
-9. [BONUS: Calculate the Mode](10_BONUS_mode.md)
+10. [BONUS: Calculate the Mode](10_BONUS_mode.md)
 
 
 ## Submitting your work
