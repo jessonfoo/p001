@@ -4,7 +4,7 @@ So you've done some preparation on Ruby, and have probably been wondering "Why d
 
 This week you will be working on creating some command-line programs. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to figure out what the errors are. NOTE: You are not expected to write RSpec in Phase 0, just read it. RSpec is designed to be readable. 
 
-[Install RSpec](http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297) before you begin. If you have trouble, ask for help on the google+ community.
+Install and read a bit about [RSpec](http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297) before you begin. If you have trouble, ask for help on the google+ community.
 
 
 ## Challenges
