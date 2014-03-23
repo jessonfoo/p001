@@ -7,7 +7,7 @@
 - Use Tests to guide development
 - Break down problems into implementable pseudocode
 - Iterate through data structures and manipulate the content
-- Determine which data structure (arrays or hashes) to use based on the requirements
+- Determine which data structure (arrays or hashes) to use based on challenge requirements
 - Use strings, integers, arrays, and hashes
 
 

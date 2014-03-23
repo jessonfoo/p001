@@ -7,7 +7,6 @@
 - Break down problems into implementable pseudocode 
 - Find and use built-in Ruby methods to solve challenges
 - Use if/else statements, regular expressions, string methods, while/until loops,  Enumerable#each methods
-- Use tests to guide development
 
 
 ## Directions
