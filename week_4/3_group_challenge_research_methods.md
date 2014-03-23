@@ -22,7 +22,7 @@ the fifth person will do the same challenge as the first, and the sixth will do 
 either pair or work independently.* 
 
 Each person has a challenge to solve. This does not need to be done in any order. *(NOTE: the driver code 
-needs each method in order to be correct, however).
+needs each method in order to be correct, however).*
 Using the [Ruby Docs](http://ruby-doc.org/) find one method you can use
 on both an array and a hash, and use it on the two structures to complete the goal.
 
