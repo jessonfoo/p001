@@ -21,9 +21,10 @@ Refer to your accountability group spreadsheet to find your role.
 the fifth person will do the same challenge as the first, and the sixth will do the second. You can 
 either pair or work independently.* 
 
-Each person will research methods to solve a designated challenge below. 
-Using the [Ruby Docs](http://ruby-doc.org/) find a method you can use
-on both an array and a hash, and implement it to solve the challenge. 
+Each person has a challenge to solve. This does not need to be done in any order. *(NOTE: the driver code 
+needs each method in order to be correct, however).
+Using the [Ruby Docs](http://ruby-doc.org/) find one method you can use
+on both an array and a hash, and use it on the two structures to complete the goal.
 
 Once you complete your challenge, Identify and describe the ruby method you implemented. Teach your 
 accountability group how to use them. 
