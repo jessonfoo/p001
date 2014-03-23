@@ -21,7 +21,7 @@ This week you will be working on creating some command-line programs. Some chall
 
 
 ## Submitting your work
-Instead of using gists this week, you will be storing your work in a repository. 
+Instead of using gists this week, you will be storing your work in a repository we've prepared for you. 
 - Fork [**this repository**](https://github.com/Devbootcamp/p0_unit1_submission). (Make sure to click on the link first!) Then click "Fork" at the top right of the page. 
 - Under settings (in the right navigation bar) check the box next to "issues" under "features." This will allow people
   to give you feedback.
