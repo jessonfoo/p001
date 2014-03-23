@@ -103,6 +103,6 @@ Push your solutions to your repo on GitHub, then find your accountability groups
 Which existing methods did they use? Try to use them based on the instructions your group-mate included. 
 
 ### Reflect
-Use the [reflection guidelines](../week_2/reflection_guidelines.md) and also discuss the following:
-- What did you learn about researching?
+Use the [reflection guidelines](../week_2/reflection_guidelines.md) and also discuss the following in the reflection section:
+What did you learn about researching and explaining your research to others?
 
