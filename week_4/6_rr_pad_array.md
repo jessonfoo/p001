@@ -1,3 +1,5 @@
+[Week 3 Home](week_3)
+
 # U1.W3: Review, Refactor: Pad an Array
 
 ## Learning Objectives

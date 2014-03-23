@@ -1,3 +1,5 @@
+[Week 3 Home](week_3)
+
 # U1.W3: Create a Method to Pad an Array
 
 

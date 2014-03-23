@@ -1,3 +1,5 @@
+[Week 3 Home](week_3)
+
 # U1.W3: Calculate the Median - SOLO CHALLENGE
 
 **Refer to [Solo Challenge](https://github.com/Devbootcamp/phase_0_handbook/blob/master/solo_challenges.md) for guidelines**

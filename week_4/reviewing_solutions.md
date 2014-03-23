@@ -1,3 +1,5 @@
+[Week 3 Home](week_3)
+
 # Reviewing Solutions
 
 ### How to find other solutions
