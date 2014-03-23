@@ -22,7 +22,13 @@ This week you will be working on creating some command-line programs. Some chall
 
 
 ## Submitting your work
-Instead of using gists this week, you will be storing your work in a repository. Fork [this repository](https://github.com/Devbootcamp/p0_unit1_submission).
+Instead of using gists this week, you will be storing your work in a repository. 
+- Fork [this repository](https://github.com/Devbootcamp/p0_unit1_submission). At the top right, click "Fork." 
+- Under settings (in the right navigation bar) check the box next to "issues" under "features." This will allow people
+  to give you feedback.
+- Open your GitHub desktop app. Find the `p0_unit1_submission` repository and click "clone to computer." 
+
+When you make updates to the files, you should commit your work the same way you did for your website through the app.
 
 You need to submit your work through [this google form]() by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above. 
 

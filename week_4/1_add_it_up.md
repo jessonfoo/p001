@@ -1,65 +1,76 @@
-# U1.W1: Calculate the Array Total
+# U1.W3: Add it up!
 
 
 ## Learning Objectives
 1. Iterate through data structures and manipulate the content
 2. Find and use built-in Ruby methods to solve challenges
-<!-- 3. Use if/else statements, regular expressions, string methods, while/until loops,  Enumerable#each methods -->
+3. Use if/else statements, string methods, while/until loops,  Enumerable#each methods
 
 
 ## Directions
+Write a method `total` which takes an `Array` of numbers as its input and returns their total (sum).
 
-Make sure you have already completed [How to Submit A Challenge](http://socrates.devbootcamp.com/challenges/417) before starting this challenge.
+For example,
 
-This is the process you should complete every time you work on a challenge. First read, then create pseudocode, write a solution, make it pass the tests, refactor the code, then reflect 
+```ruby
+total([1,2,3])      # => 6
+total([4.5, 0, -1]) # => 3.5
+total([-100, 100])  # => 0
+```
 
-Click the "Start" button above to open the gist AND go the exercise: <a href="http://socrates.devbootcamp.com/exercises/26" target="_blank">EXERCISE: Calculating the Array Total</a>
+Then, write another method `sentence_maker` which takes an `Array` of strings or numbers and returns 
+each element joined into a sentence. 
+*Note: The first letter should be capitalized and the sentence should end with a period.*
 
-NOTE: Make sure everything that is not code is included as a comment. You should be able to run your gist file in your terminal with no errors.  
+###1. Run the tests
+In your terminal, navigate to the directory that corresponds to this challenge in your forked 
+`p0_unit1_submission` repo. Type `rspec` followed by the spec file name. ex. `rspec array_total_spec.rb`
+Each test should fail. Read the output in your terminal to see what is making the tests fail.
 
-###1) Pseudocode
-Define the input (what is going into the method) and output (what should the code return?).  Then list out the steps to solve the problem.  Write these in plain english and save them to your gist as comments. 
+
+###2. Pseudocode
+Based on the tests, you should have an idea of what your method(s) need(s) to accomplish.
+In the pseudocode section of your `my_solution.rb` file, identify the input and output. 
+Then write specific step-by-step ideas in code-like English to pass each test. 
+Each line should be something you can easily translate into code. 
+For help with writing pseudocode, take a look at this [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) example.
 
 *NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
 
-###2) Initial Solution
-Turn your pseudocode into code by translating each step into code. If your pseudocode is not easy to implement, modify it, and re-attempt to code it. 
+###3. Initial Solution
+Translate your pseudocode into code. If your pseudocode 
+is not easy to implement, modify it, and re-attempt to code it. 
 
-When you have code that successfully turns the input into your expected output paste your code in the exercise box and see if it passes Socrates RSpec tests.  
+When you think your code should pass the first failing test, run the spec file again 
+using the `rspec` command. If it passes, work on translating the next bit of pseudocode
+to pass the next test. If it fails, try to figure out why it's still failing and modify
+your code accordingly.
 
-If your code passes, copy the initial code into the gist. If it doesn't pass every test, read the failing tests, and modify your solution to pass each. (If you don't know where the problem is, try using `puts  ` statements into your code to see if it's doing everything you expect it to). Once you have passed all the tests, save your initial code in your gist.
+When you've passed each test, give yourself a pat on the back! Then take a break before 
+trying to refactor. It's good to give your eyes a rest so they can more easily see places 
+to improve.
 
+###4. Refactored Solution
+When you return to your solution. Ask yourself:
+- Are the variable names you've chosen clear? (see [Tips for Naming Variables](http://www.makinggoodsoftware.com/2009/05/04/71-tips-for-naming-variables/))
+- Is the code concise (but readable)? See [Code Smells](http://blog.codinghorror.com/code-smells/) FYI: When he refers to "shorter methods" think of them 
+  as not necessarily short in terms of lines, but having a single thing to do. Avoid chaining too many methods together or having too much logic on one line.
+- Is the code [D.R.Y](http://programmer.97things.oreilly.com/wiki/index.php/Don't_Repeat_Yourself)? 
 
-<!--###4) Review and Create Tests
-Click on the "See Specs" button in the exercise, and review the rspec tests that you just passed. 
--->
-###3) Refactored Solution
-Read through your solution. Are the names clear? Is the code concise (but readable)? Are you repeating yourself? Are all of your variables necessary? Take some time with the <a href="http://ruby-doc.org/" target="_blank">Ruby Docs</a> to see if any existing methods can replace any of your code. Modify anything that's not clear, delete what is unnecessary, and use ruby methods to make your solution more expandable and readable. 
-
-Remember: great code is rarely the fewest number of characters or lines, it's about how readable, extendable, and reusable it is.
-
-After refactoring, make sure your code still passes all of the Socrates RSpec tests. Paste your code in the refactor section.
-
-If you can't figure out how to refactor your initial solution, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank, you need to justify your omission.
-
-###4) Reflection
-When writing your reflection, write it for an audience. Tell a story of what you tried and what you learned. It will make it easier for you to go back and re-teach yourself or know what you were thinking. 
-
-Also, your reflections aren't just for teachers, they are for your fellow cohort mates as well, so be generous! You could end up helping a fellow student learn something new.
-
-Answer the following questions in your reflection:
-
-* What parts of your strategy worked? What problems did you face?    
-* What questions did you have while coding? What resources did you find to help you answer them?  
-* What concepts are you having trouble with, or did you just figure something out? If so, what?  
-* Did you learn any new skills or Ruby tricks?
-* Did you learn any new `enumerable` methods? 
-
-<!--###) Submit the Challenge-->
+If you can't think of a way to improve your code, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank.
 
 
-###5) Review
+###5. Reflect
+Include your reflection in the appropriate section in you `my_solution` file. Use the [reflection guidelines](../week_2/reflection_guidelines.md) to guide your reflection. ***NOTE: Reflections are mandatory!***
 
-After you submit your challenge, click on the "[Review and Reflect](https://socrates.devbootcamp.com/challenges/435#review_and_reflect)" tab at the top of the challenge next to "Recent Attempts."  Read through this to explore an optimized solution for this problem.
+###6. Push your solution
+When you feel confident with your solution, sync your changes through the GitHub desktop app with your repo on GitHub. 
+If you have done this successfully, you should be able to see your new code on your repo on [github.com](https://github.com)
 
-Remember:  The "Recent Attempts" page has a wealth of knowledge.  Review other solutions to pick up new insights.  And remember that when you submit a solution, you have the opportunity to explain things to a fellow student.  Be generous!
+###7. Review
+Review two of your accountability group members' solutions, and give them kind, specific, and actionable feedback. 
+Look at [Reviewing Solutions](reviewing_solutions.md) for instructions. 
+
+
+
+
