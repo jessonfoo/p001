@@ -1,6 +1,6 @@
-[Week 3 Home](week_3)
+[Week 3 Home](./)
 
-#U1,W3: Group Challenge: Research Methods
+#U1.W3: Group Challenge: Research Methods
 
 ## Learning Objectives
 - Find and use built-in Ruby methods to solve challenges

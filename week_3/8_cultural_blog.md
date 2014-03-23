@@ -1,6 +1,6 @@
-[Week 3 Home](../)
+[Week 3 Home](./)
 
-# U1, W3 Pairing and Giving Feedback
+# U1.W3 Pairing and Giving Feedback
 
 ## Directions
 

@@ -1,6 +1,6 @@
-[Week 3 Home](../)
+[Week 3 Home](./)
 
-# U1, W3: Technical Blog Entry #2
+# U1.W3: Technical Blog Entry #2
 
 ## Purpose
 Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community. 
