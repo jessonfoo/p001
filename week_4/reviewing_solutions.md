@@ -1,4 +1,4 @@
-# Reviewing solutions
+# Reviewing Solutions
 
 ### How to find other solutions
 Take a look at some other students' solutions to the challenges. To do this, go to the fork icon at the top of your repo. There
@@ -16,10 +16,17 @@ Practice writing kind, actionable, specific feedback to other students.
 
 Here are some sample questions to use:
 - If you were going to implement the pseudocode, would it be easy to follow?
-- Was the code readable and D.R.Y? 
-- Were the names clear? 
+- Proper Variable Naming - make the variable name descriptive and concise  
+  * Avoid naming variables after the data structure (array, string, arr, hash, hsh, etc) 
+  * Avoid numbered variables (var1, var2, var3)  
+  * Avoid single character names (i, x, n)
+- Proper Method Naming  
+  *The name should reflect the method's single responsibility 
+- Keep it DRY  
+  * Condense repetitive code  
+  * Create new methods to encapsulate common functions   
 - Did you like the logic?
-- Was everything necessary. 
+- Was every variable necessary) 
 - What did the student do well?
 - What could they have done better?
 - How was their reflection? 

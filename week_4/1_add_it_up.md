@@ -2,9 +2,11 @@
 
 
 ## Learning Objectives
-1. Iterate through data structures and manipulate the content
-2. Find and use built-in Ruby methods to solve challenges
-3. Use if/else statements, string methods, while/until loops,  Enumerable#each methods
+- Use Tests to guide development
+- Break down problems into implementable pseudocode
+- Iterate through data structures and manipulate the content
+- Find and use built-in Ruby methods to solve challenges
+- Use if/else statements, string methods, while/until loops,  Enumerable#each methods
 
 
 ## Directions
@@ -21,6 +23,11 @@ total([-100, 100])  # => 0
 Then, write another method `sentence_maker` which takes an `Array` of strings or numbers and returns 
 each element joined into a sentence. 
 *Note: The first letter should be capitalized and the sentence should end with a period.*
+
+```ruby
+sentence_maker(["i", "want", "to", "go", "to", "the", "movies"]) 
+# => "I want to go to the movies."
+```
 
 ###1. Run the tests
 In your terminal, navigate to the directory that corresponds to this challenge in your forked 
