@@ -21,7 +21,8 @@ Refer to your accountability group spreadsheet to find your role.
 the fifth person will do the same challenge as the first, and the sixth will do the second. You can 
 either pair or work independently.* 
 
-Each person will receive a problem. Using the [Ruby Docs](http://ruby-doc.org/) find a method you can use
+Each person will research methods to solve a designated challenge below. 
+Using the [Ruby Docs](http://ruby-doc.org/) find a method you can use
 on both an array and a hash, and implement it to solve the challenge. 
 
 Once you complete your challenge, Identify and describe the ruby method you implemented. Teach your 
