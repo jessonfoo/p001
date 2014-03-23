@@ -1,3 +1,7 @@
+[Back](8_if_statements.md)
+
+#9. Array Basics
+
 Arrays are the most fundamental kind of collection.  JavaScipt, like Ruby, allows us to work with Arrays. We'll go over some of the differences between how the two languages implement Arrays and which methods they provide.
 
 ### Creating Arrays
@@ -94,6 +98,8 @@ JavaScript uses the same vocabulary to describe arrays as Ruby does.  As a refre
 * The string `"December"` is at index `11`
 * The array has `12` elements
 * The value at index `3` is the string `"April"`, which is the fourth element of the array
+
+Click [next](10_array_operations.md) to go to the next section.
 
 ### References
 

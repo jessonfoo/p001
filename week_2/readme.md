@@ -4,13 +4,27 @@ JavaScript is known as the "language of the web." It is a powerful object-orient
 
 You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't worry if you feel like you will forget everything. You will have the chance to review in the last two weeks of Phase 0 and the weekend before you begin Phase 2. Moreover, professional programmers look up information and syntax all the time. They don't have everything memorized either, so think of this as an introduction. The more you use JavaScript the more you will remember. For our purposes here, we want you to learn basics so that you can easily re-learn them later. 
 
-# Before you begin:
-- [ ] Install <a href="https://gist.github.com/dbc-challenges/b91d17f4267107bcf523" target="_blank">Node.js</a>
-- [ ] Read through <a href="need link" target="_blank">JavaScript Reading Material</a> (in the folder above)
-- [ ] Read about <a href="http://www.sitepoint.com/back-to-basics-javascript-object-syntax/" target="_blank">JavaScript 'Object' Objects</a> Understanding this well will be very beneficial.
+## Before you begin:
+- [Install Node.js](https://gist.github.com/dbc-challenges/b91d17f4267107bcf523)
+- Read about [JavaScript 'Object' Objects](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/) Understanding this well will be very beneficial.
+- You may choose to read through [JavaScript Reading Material](reading_material) before starting the challenges.
+
+## Challenges
+1. [Code Combat](1_code_combat.md)
+2. [Javascript Variables and Objects](2_js_variables_objects.md)
+3. [Manipulating JavaScript Objects- SOLO CHALLENGE](3_manipulating_js_objects_solo_challenge.md)
+4. [Create Your Own Code Combat Mission](4_create_code_combat_mission.md)
+5. [Group Project](5_group_project.md)
+6. [Technical Blog](6_technical_blog.md)
+7. [Cultural Blog](7_cultural_blog.md)
+8. GPS 1.1: Your first Guided Pairing Session
+
+## Submitting your work
+
+You need to submit your work through [this google form](https://docs.google.com/forms/d/1BpSPJJR8CcC46CKIZum575Q8OefaDZzCDETgRtZ4B-Q/viewform) by Sunday at 11:59pm. Expect to submit your links for each challenge above. You should be able to find each of them in [GitHub Gists](https://gist.github.com).
 
 
 ## Resources
-- <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"> Mozilla Developer Network - JavaScript</a>
-- <a href="http://www.javascriptenlightenment.com/" target="blank">JavaScript Enlightenment</a> *A JavaScript reference guide for those new to programming*
-- <a href="http://shop.oreilly.com/product/9780596517748.do">JavaScript: The Good Parts </a> *This resource is better for students with some familiarity with JavaScript and want to know more about how some recommend using it - as well as help with syntax.*
+- [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+- [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) *A JavaScript reference guide for those new to programming*
+- [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) *This resource is better for students with some familiarity with JavaScript who want to know more about style and syntax.*

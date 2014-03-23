@@ -1,3 +1,7 @@
+[Back](1_numbers.md)
+
+#2. Strings
+
 A string is a collection of characters, just like in Ruby. These can be letters, symbols or numbers.  Here are some strings in JavaScript:
 
 ```javascript
@@ -45,6 +49,8 @@ There are lots of methods available for the String object which you can read abo
 ```
 
 You will notice that none of the string methods in JavaScript are destructive - i.e. they will never modify the object they are called on, but will always return a new object instead. In Ruby, there are destructive string methods like `capitalize!` that *will* modify the source object. Ruby uses the `!` bang symbol to notify us of these properties. In JavaScript, there is no such convention for desctructive methods. We needn't fret since we won't be encountering destructive methods in JavaScript until we get to the section on Collections.
+
+Click [next](3_variables.md) to go to the next section.
 
 ###Resources
 

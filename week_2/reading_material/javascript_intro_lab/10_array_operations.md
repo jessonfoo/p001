@@ -1,3 +1,7 @@
+[Back](9_array_basics.md)
+
+#10. Array Operations
+
 Every `Array` object in JavaScript supports the same set of methods and properties.  It doesn't matter what kind of objects are in the array.
 
 Mozilla's Developer Network provides this useful description for arrays:
@@ -222,6 +226,8 @@ arraySum; // => [1, 2, 3, "cats", "dogs"]
 ```
 
 Unlike Ruby, the `+` operator *does not* concatenate two arrays into a new array, but instead concatenates all of the elements in each array into a new string. Use `concat()` when you want an array; use `+` when you want a string.
+
+Click [next](11_object_literals.md) to go to the next section.
 
 ### References
 

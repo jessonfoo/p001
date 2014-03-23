@@ -1,3 +1,7 @@
+[Back](2_strings.md)
+
+#3. Variables
+
 When we work with data in JavaScript, we often want to be able to store information.  A variable is used to store a value and can then be used later in the code to retrieve or modify this value.  In JavaScript, unlike Ruby, we use the `var` keyword to prefix variable definition.
 
 ```javascript
@@ -50,6 +54,8 @@ This is so common that JavaScript, like Ruby, has a set of Combined Assignment O
 num *= 4;
 result += 1;
 ```
+
+Click [next](4_functions_vs_methods.md) to go to the next section.
 
 ###Resources
 

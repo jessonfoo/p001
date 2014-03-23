@@ -44,3 +44,5 @@ var someFunction = function(string){ console.log(string) };
 // an object
 var someObject = { property: "value" };
 ```
+
+Click here to go to the [JavaScript Introduction](javascript_intro_lab/readme.md).
