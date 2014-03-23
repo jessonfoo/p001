@@ -10,7 +10,7 @@ Install and read a bit about [RSpec](http://code.tutsplus.com/tutorials/ruby-for
 ## Challenges
 1. [Calculate an Array's total](1_add_it_up.md)
 2. [Calculate the Letter Grade](2_calculate_letter_grade.md)
-3. [Group Challenge: Research Methods](group_challenge_research_methods.md)
+3. [Group Challenge: Research Methods](3_group_challenge_research_methods.md)
 4. [SOLO Challenge: Calculate the Median - SC](4_calculate_median_solo_challenge.md)
 5. [Pad an Array](5_pad_array.md)
 6. [Review and Refactor: Pad an Array](6_rr_pad_array.md)
