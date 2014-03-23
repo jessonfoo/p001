@@ -3,6 +3,7 @@
 ## Learning Objectives
 - Find and use built-in Ruby methods to solve challenges
 - Iterate through data structures and manipulate the content
+- Explain how to use an existing ruby method
 
 ## Purpose
 I'm sure many of you have looked through the [Ruby Docs](http://ruby-doc.org/) and had some
@@ -79,7 +80,7 @@ my_array_sorting_method(i_want_pets, "pets") #=>
 my_hash_sorting_method(my_family_pets_ages, age) #=>
 [["Annabelle", 2], ["Ditto", 5], ["Hoobie", 5], ["Bogart", 6], ["Poly", 6], ["Evi", 8], ["George", 14]] 
 # This may be false depending on how your method deals with ordering the animals with the same ages.
-``
+```
 
 ### Person 4: Delete Matching Data
 Sometimes you no longer need data that matches something. Create a `my_array_deletion_method` that takes an array
