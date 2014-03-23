@@ -34,7 +34,6 @@ You need to submit your work through [this google form]() by Sunday at 11:59pm. 
 
 ## Resources
 *These are for reference if you want some additional sources.* 
-- [Writing Driver Test Code](https://gist.github.com/dbc-challenges/5aea3150ddec2aec1007)
 - [Introduction to Refactoring](http://sourcemaking.com/refactoring/introduction-to-refactoring)   
 - [Ruby for Newbies](http://net.tutsplus.com/sessions/ruby-for-newbies)  
 - [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope) 
