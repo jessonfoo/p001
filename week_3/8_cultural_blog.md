@@ -4,7 +4,7 @@
 
 ## Directions
 
-First, create a new HTML file for your this post in your [USERNAME].github.io website. Create a new HTML file and usethe date to name it `week3_cultural_blog.html`. Copy the Code from your `blog_template`. Open your file and write a response to the following questions using the HTML you've learned.
+First, create a new HTML file for your this post in your [USERNAME].github.io website. Create a new HTML file and use the date to name it `week3_cultural_blog.html`. Copy the Code from your `blog_template`. Open your file and write a response to the following questions using the HTML you've learned.
 
 By now you should have completed at least one guided pairing session, three peer-pairing sessions, and submitted/received some feedback. 
 (If you haven't, make sure you've 1. Submitted feedback for your session and 2. You've rated at least 20 pieces of feedback for unit 1. 
