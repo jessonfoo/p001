@@ -28,4 +28,7 @@ Overall, what do you think of using pairing and feedback to guide your learning?
 *Remember, there is no minimum length, but write this for an audience.*
 
 
+## Submission
+Link to your blog on the index of your site and sync your changes. 
 
+Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
