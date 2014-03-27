@@ -7,7 +7,7 @@
 ## Learning Objectives
 - Use tests to guide development
 - Break down problems into implementable pseudocode 
-- Use strings, integers, arrays, and hashes
+- Use strings, integers, arrays, and/or hashes
 - Use if/else statements, string methods, while/until loops, Enumerable#each methods
 
 
