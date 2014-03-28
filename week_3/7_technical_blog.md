@@ -2,6 +2,10 @@
 
 # U1.W3: Technical Blog Entry #2
 
+## Learning Objectives
+- Compare different programming concepts
+- Explain a methodology for deciding which data structure/ loop/ or language to use in a particular scenario
+
 ## Purpose
 Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community. 
 

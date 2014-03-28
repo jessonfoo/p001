@@ -2,6 +2,9 @@
 
 # U1, W2: Technical Blog Entry #1
 
+## Learning Objectives
+- Summarize the popularity of JavaScript in Web Development
+
 ## Purpose
 Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community. 
 
