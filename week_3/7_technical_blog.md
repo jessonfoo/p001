@@ -24,7 +24,8 @@ If you want to go more in-depth with any of these research memory use and link i
 
 Write this blog for an audience of newb programmers.
 
-## Link to your blog on the index of your site and sync your changes. Email the link to your accountability group.
+## Submit
+Link to your blog on the index of your site and sync your changes. Email the link to your accountability group.
 Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
 Post a comment on their community post to start a discussion or give some feedback.  Consider sharing your blog post on Reddit as well.
 

@@ -21,7 +21,8 @@ Research the following question and write a blog post to answer it. There is no 
 HINT: Intend your blog for a non-technical audience. Imagine explaining to a non-technical friend, for instance. 
 
 
-## Link to your blog on the index of your site and sync your changes. Email the link to your accountability group.
+## Submit
+Link to your blog on the index of your site and sync your changes. Email the link to your accountability group.
 Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.
 
 
