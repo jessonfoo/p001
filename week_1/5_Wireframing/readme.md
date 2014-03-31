@@ -1,4 +1,4 @@
-# U1.W1: Your website (Solo Challenge)
+# U1.W1: Wireframing
 
 
 ## Learning Objectives
