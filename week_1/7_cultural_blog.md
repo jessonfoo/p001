@@ -1,6 +1,6 @@
-[Week 2 Home](week_2)
+[Week 1 Home](week_1)
 
-# U1, W2: Exploring your values
+# U1, W1: Exploring your values
 
 ## Learning Objectives
 - Demonstrate vulnerability 
