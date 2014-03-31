@@ -9,23 +9,22 @@ If you would like to open tabs in a new window, please either right click or hol
 
 #### 1. [Get Started](1_Get_Started/)
 #### 2. [Beginning HTML & CSS](2_Beginning_HTML_CSS/)
-#### 3. [Intermediate HTML & CSS](3_Intermediate_HTML_CSS/)
-#### 4. [Your website **(Solo Challenge)**](4_Your_Own_Website_Solo_Challenge/)
-#### 5. [Comparing websites](5_Comparing_Websites/)
+#### 3. [More HTML & CSS](3_More_HTML_CSS_SOLO/) **SOLO Challenge**
+#### 4. [Comparing websites](4_Comparing_Websites/)
+#### 5. [Wireframing](5_Wireframing/)
 #### 6. [Get to know your group](6_Get_to_know_your_group/)
-<!-- #### 7. [Cultural Awareness](7_Cultural_Awareness/)-->
+#### 7. [Affirming your values](7_cultural_blog.md)
 
 **Submitting your work**
 
-You need to submit your work through [this google form](https://docs.google.com/a/devbootcamp.com/forms/d/1ZnjWLxOqcIg92upyYGlD-7kmJzAdpTbjezHB1YQ34fY/viewform) by Sunday at 11:59pm. Expect to submit your links for each of the following:
-
+You need to submit your work through a google form (TBD) <!-- `[this
+google
+form](https://docs.google.com/a/devbootcamp.com/forms/d/1ZnjWLxOqcIg92upyYGlD-7kmJzAdpTbjezHB1YQ34fY/viewform) --> by Sunday at 11:59pm. Expect to submit your links for each of the following:
 
 * Your new website
 * Each html page created in `unit1_week1` folder
 * Your reflection file
-* Website plan document
-* Website wireframe
-* Blog post
+* Comparing websites and values blog posts
 * Links to comments you wrote on your groups reflection
 
 You should also copy and paste your response to each of the following

@@ -30,6 +30,3 @@ In the same way that professors and graduate students are required to contribute
 
 4. Reflect on the process of writing a blog post on `8_favorite_websites.md` in your [reflection gist](../reflection.md).
 
-**Bonus**
-* Get more technical. Take a look at the websites' HTML and CSS by opening the devloper tools. Does the HTML and CSS look clean? Does it follow good practices? Are you able to change the look of the site using the tools? How easy was it?
-* Submit your post to [HackerNews](http://news.ycombinator.com) or a [sub-[reddit]](http://www.reddit.com).  What were the comments like?

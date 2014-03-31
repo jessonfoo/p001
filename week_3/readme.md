@@ -1,41 +1,30 @@
-# Back to Ruby!
+# Introduction to JavaScript
 
-So you've done some preparation on Ruby, and have probably been wondering "Why did we have to do all those exercises before Phase 0 if we weren't even going to start with Ruby?" Well, now is your time to get back to it while using the blog and skills you learned in weeks 1 and 2. 
+JavaScript is known as the "language of the web." It is a powerful object-oriented language (Ruby is as well). It is light-weight and can communicate with the browser. This week, we will introduce you to basic JavaScript syntax. The goal is not to teach you JavaScript, rather, we want you to feel comfortable with simple variables and functions. 
 
-This week you will be working on creating some command-line programs. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to figure out what the errors are. NOTE: You are not expected to write RSpec in Phase 0, just read it. RSpec is designed to be readable. 
+You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't worry if you feel like you will forget everything. You will have the chance to review in the last two weeks of Phase 0 and the weekend before you begin Phase 2. Moreover, professional programmers look up information and syntax all the time. They don't have everything memorized either, so think of this as an introduction. The more you use JavaScript the more you will remember. For our purposes here, we want you to learn basics so that you can easily re-learn them later. 
 
-Install and read a bit about [RSpec](http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297) before you begin. If you have trouble, ask for help on the google+ community.
-
+## Before you begin:
+- [Install Node.js](https://gist.github.com/dbc-challenges/b91d17f4267107bcf523)
+- Read about [JavaScript 'Object' Objects](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/) Understanding this well will be very beneficial.
+- You may choose to read through [JavaScript Reading Material](reading_material) before starting the challenges.
 
 ## Challenges
-1. [Calculate an Array's total](1_add_it_up.md)
-2. [Calculate the Letter Grade](2_calculate_letter_grade.md)
-3. [Group Challenge: Research Methods](3_group_challenge_research_methods.md)
-4. [SOLO Challenge: Calculate the Median - SC](4_calculate_median_solo_challenge.md)
-5. [Pad an Array](5_pad_array.md)
-6. [Review and Refactor: Pad an Array](6_rr_pad_array.md)
-7. [Technical Blog](7_technical_blog.md)
-8. [Cultural Blog](8_cultural_blog.md)
-9. [GPS 1.2](9_gps1.2.md)
-10. [BONUS: Calculate the Mode](10_BONUS_mode.md)
-
+1. [Code Combat](1_code_combat.md)
+2. [Javascript Variables and Objects](2_js_variables_objects.md)
+3. [Manipulating JavaScript Objects- SOLO CHALLENGE](3_manipulating_js_objects_solo_challenge.md)
+4. [Create Your Own Code Combat Mission](4_create_code_combat_mission.md)
+5. [Group Project](5_group_project.md)
+6. [Technical Blog](6_technical_blog.md)
+7. [Cultural Blog](7_cultural_blog.md)
+8. GPS 1.1: Your first Guided Pairing Session
 
 ## Submitting your work
-Instead of using gists this week, you will be storing your work in a repository we've prepared for you. 
-- Fork [**this repository**](https://github.com/Devbootcamp/p0_unit1_submission). (Make sure to click on the link first!) Then click "Fork" at the top right of the page. 
-- Under settings (in the right navigation bar) check the box next to "issues" under "features." This will allow people
-  to give you feedback.
-- Open your GitHub desktop app. Find the `p0_unit1_submission` repository and click "clone to computer." 
 
-When you make updates to the files, you should commit your work the same way you did for your website through the app. Include a commit message like "submitting solution for 1_add_it_up."
-
-You need to submit your work through this [google form](https://docs.google.com/forms/d/1l869yt4eIZr_-mYut0FYQD6cZ4f8I1fvn6aaS1Gxmdg/viewform) by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above. 
+You need to submit your work through [this google form](https://docs.google.com/forms/d/1BpSPJJR8CcC46CKIZum575Q8OefaDZzCDETgRtZ4B-Q/viewform) by Sunday at 11:59pm. Expect to submit your links for each challenge above. You should be able to find each of them in [GitHub Gists](https://gist.github.com).
 
 
 ## Resources
-*These are for reference if you want some additional sources.* 
-- [Introduction to Refactoring](http://sourcemaking.com/refactoring/introduction-to-refactoring)   
-- [Ruby for Newbies](http://net.tutsplus.com/sessions/ruby-for-newbies)  
-- [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope) 
-- [GangesLearning (Videos)](https://www.youtube.com/user/GangesLearning)
-- [The Well-Grounded Rubyist (Book)](http://www.manning.com/black2/)  
+- [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+- [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) *A JavaScript reference guide for those new to programming*
+- [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) *This resource is better for students with some familiarity with JavaScript who want to know more about style and syntax.*

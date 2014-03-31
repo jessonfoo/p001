@@ -1,9 +1,8 @@
 # U1.W1: Beginning HTML & CSS
 
 ## Learning Objectives
-1. Create a simple website from the ground up using HTML and CSS
-2. Modify and improve the design of a simple website using CSS
-3. Use and manipulate CSS using Chrome Web Tools
+1. Create a simple web page from the ground up using basic HTML tags
+2. Modify your web page to use CSS
 
 
 ## Directions
@@ -68,70 +67,5 @@ Create a new css file in your repository called `dbc1.css` and save it to the `s
 * Use ids and classes to change specific elements
 
 
-### 3. More HTML
-
-#### a. Learn
-
-* Slides: [Intro to CSS](http://girldevelopit.com/assets/html-css/class3.html)
-
-**Optional resources**
-
-* [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/) 
-
-#### b. Experiment
-Create a new html page in your repository called `dbc2.html`
-
-Add the following to `dbc2.html`
-
-* Header, content area, sidebar, and a footer using divs
-* Spans
-* Add padding, borders, and margins
-* Center your document in the browser
-* Add width and height to divs and give ids
-
-
-### 4. More CSS
-
-#### a. Learn
-
-* Slides: [)More CSS](http://girldevelopit.com/assets/intermediate-html-css/class1.html#/17
-
-**Optional resources**
-
-- [Downloading CSS from a website](http://www.cssbasics.com/download-css-styles-from-a-website/)
-- [Decoupling HTML from CSS](http://coding.smashingmagazine.com/2012/04/20/decoupling-html-from-css/)
-
-
-#### b. Experiment
-Create a new css file in your repository called `dbc2.css` and save it to the `stylesheets/` directory.
-
-Link the `dbc2.css` file to your `dbc2.html` file
-
-Add the following to `dbc2.css`:
-
-* Psuedo-classes for links
-* Positioning
-* A div that contains an image and a caption, and position the caption absolutely overtop the image.
-* Float side bar and content area
-
-[Structure and Standards](http://girldevelopit.com/assets/intermediate-html-css/class1.html)
-
-
-### 5. Chrome Web Tools
-
-#### a. Learn
-
-* [What's the DOM?](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Introduction)
-* [DOM](http://skillcrush.com/2012/10/17/dom-document-object-model/)
-* [Chrome Web Tools Challenge](./chrome_devtools_challenge/README.md)
-
-
-#### b. Experiment
-
-Play with changing the CSS of your web page using Chrome Web Tools.
-
-Visit any blog on [wordpress.com](http://www.wordpress.com) or create your own.  Use the Chrome Web Tools to take a peek into the site.  How does it differ from your html and css?
-
-
-### 6. Reflect 
+### 3. Reflect 
 Go to your [reflection gist](https://gist.github.com) to write your reflection on `4_beginning_HTML_CSS.md`.
