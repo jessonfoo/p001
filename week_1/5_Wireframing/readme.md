@@ -40,7 +40,7 @@ for others it may not.  Either is OK.
 * Read: [A Beginners Guide to Wireframing](http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-wireframing--webdesign-7399)
 * Read: [Beyond Wireframing: Real Life UX Design Process](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process/)
 
-#### 3. Apply it
+### 3. Apply it
 For each of the websites you choose for your [comparing
 websites](../4_Comparing_Websites/) post, try to backwards engineer
 their web design process.  You can choose one individual page for each
@@ -56,6 +56,6 @@ there?
 image sharing site.
 * Add the image to your html page.
 
-###4. Reflection
+### 4. Reflection
 Go write your [reflection](../reflection.md) and answer the questions!
 
