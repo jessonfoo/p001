@@ -1,5 +1,3 @@
-[Week 1 Home](week_1)
-
 # U1, W1: Exploring your values
 
 ## Learning Objectives
