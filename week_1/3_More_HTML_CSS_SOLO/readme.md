@@ -64,7 +64,9 @@ Add the following to `dbc2.css`:
 ### 3. Reflect
 Go to your [reflection gist](https://gist.github.com) to write your reflection on `4_beginning_HTML_CSS.md`.
 
-### 4. Psuedo selectors **OPTIONAL**
+<hr>
+
+### 4. OPTIONAL
 Want to dig a bit deeper into CSS? Curious about the `:hover` you added
 to the CSS for links? 
 
