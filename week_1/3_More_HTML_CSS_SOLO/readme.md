@@ -1,4 +1,4 @@
-# U1.W1: Beginning HTML & CSS
+# U1.W1: More HTML & CSS
 
 ## Learning Objectives
 1. Position elements within a web page and use padding, borders, and
