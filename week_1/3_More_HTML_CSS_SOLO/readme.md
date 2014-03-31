@@ -66,7 +66,7 @@ Go to your [reflection gist](https://gist.github.com) to write your reflection o
 
 <hr>
 
-### 4. OPTIONAL
+### OPTIONAL
 Want to dig a bit deeper into CSS? Curious about the `:hover` you added
 to the CSS for links? 
 
