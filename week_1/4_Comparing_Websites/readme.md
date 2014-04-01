@@ -2,8 +2,8 @@
 
 
 ## Learning Objectives
-1. Evaluate a website in terms of design and user experience
-2. Compare websites to discuss what they are doing well and what they can improve on
+- Evaluate a website in terms of design and user experience
+- Compare websites to one another to discuss the pros and cons of their approaches
 
 ## Purpose
 In the same way that professors and graduate students are required to contribute through publications, developers are expected to make contributions to their field through blog posts, stackoverflow and other site answers, and giving talks. In Phase 0, you will start your contributions through blogging about cultural and technical topics that correspond to the week's topics. 
