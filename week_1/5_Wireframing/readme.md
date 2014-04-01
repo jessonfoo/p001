@@ -2,7 +2,6 @@
 
 
 ## Learning Objectives
-- Apply the process used by designers
 - Explain wireframing
 - Identify the benefits of wireframing
 - Wireframe an existing website 
