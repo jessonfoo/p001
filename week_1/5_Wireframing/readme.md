@@ -2,9 +2,10 @@
 
 
 ## Learning Objectives
-1. Contemplate how designers do their work
-2. Understand what wireframing is and why it's useful 
-3. Wireframe an existing website 
+- Apply the process used by designers
+- Explain wireframing
+- Identify the benefits of wireframing
+- Wireframe an existing website 
 
 
 ## Purpose
