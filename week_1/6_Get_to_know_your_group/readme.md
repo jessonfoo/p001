@@ -2,9 +2,10 @@
 
 
 ## Learning Objectives
-1. Get to know your accountability group so you feel comfortable asking them questions and going to them for help.
-2. Reflect on reflections.  Did you learn from someone's reflection? Is there something you learned that you didn't even realize before reading someone else's reflection?
-3. Think about time management, productivity, and how you will get work done during this remote period.
+- Introduce yourself to your accountability group
+- Describe what you learned from someone else's reflections
+- Consider strategies for time management and productivity
+- Design a plan for getting work done during Phase 0
 
 ## Purpose
 
