@@ -1,9 +1,9 @@
 # U1.W1: More HTML & CSS
 
 ## Learning Objectives
-1. Position elements within a web page and use padding, borders, and
-   margins to display them beeautifully!
-2. Modify and improve the positioning of elements using CSS.
+- Position HTML elements using CSS padding, borders, and
+   margins.
+- Use HTML tags to present information on a website
 
 
 ## Directions
