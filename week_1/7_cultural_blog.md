@@ -1,7 +1,6 @@
 # U1, W1: Exploring your values
 
 ## Learning Objectives
-- Demonstrate vulnerability 
 - Identify your core values
 
 ## Directions
