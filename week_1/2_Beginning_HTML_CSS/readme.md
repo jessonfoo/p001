@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 1. Create a simple web page from the ground up using basic HTML tags
-2. Modify your web page to use CSS
+2. Manipulate html elements using CSS
 
 
 ## Directions
