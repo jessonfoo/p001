@@ -23,7 +23,7 @@ This week you will be storing your reflections in the challenge files in this re
 
 When you make updates to the files, you should commit your work the same way you did for your website through the app. Include a commit message like "submitting solution for 1_code_combat."
 
-**NOTE: Sometimes we will make changes to the original repository. You will need to fetch these changes from the master branch when we announce changes.
+**NOTE: Sometimes we will make changes to the original repository. You will need to fetch these changes from the master branch when we announce changes.**
 - If you are doing this from the Github Desktop App, follow [these](http://stackoverflow.com/questions/11394349/upstream-pulls-with-the-github-desktop-client
 )
 directions. 
