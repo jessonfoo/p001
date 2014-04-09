@@ -22,15 +22,15 @@
   to have a good check-in (so don't forget!).**
 
 #### Directions
-  - You need to fork this gist so you have it in your GitHub account. 
-    Check to make sure you can navigate to your gists from your main 
-    GitHub account page.
-  - You will then be directed to Stypi.com, where your instructor
+  - After you finish this exercise, copy and paste your collaborative code
+    into a local HTML and CSS document and push this new page up to your
+    github.io website.
+  - You will be directed to Stypi.com, where your instructor
      will have a stypi file ready for you. Because we cannot actually link 
      a stylesheet to an HTML page in stypi, we will be placing CSS 
      between the `<style>` tags. It will be your job to put the correct 
      material in the correct file after the session. 
-     **This is not good practice, we are only doing it because of stypi.**
+     **This is not good practice, we are only doing it so you can preview your page using stypi.**
   - Now you are ready to begin! Your goal is to design a website that
      introduces the concept of pair programming!  (You get to figure out how to 
      present it on the page) 
