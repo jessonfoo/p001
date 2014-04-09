@@ -13,7 +13,7 @@ We think of the web and websites as mostly static. They look the way they look. 
 
 ## Directions
 
-Everything in this challenge is within the context of the `unit1_week` folder in your website repository.
+Rename your `unit1_week1` folder to `unit1_projects`. Make sure to change it everywhere it's referenced! (In links, for example). Everything in this challenge is within the context of the `unit1_projects` folder in your website repository.
 
 
 ### 1. Research
@@ -25,7 +25,7 @@ Do some research into standard practices of web design, reset css, and HTML5. Us
 
 
 ### 2. Apply
-Download the [practice files](http://girldevelopit.com/assets/intermediate-html-css/class1.zip).  Unzip the folder into your `unit1_week1` folder.
+Download the [practice files](http://girldevelopit.com/assets/intermediate-html-css/class1.zip).  Unzip the folder into your `unit1_projects` folder.
 
 * Add reset.css to your index.html file. What happens?
 * Update the header links to jump to sections
