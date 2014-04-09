@@ -30,11 +30,12 @@
      a stylesheet to an HTML page in stypi, we will be placing CSS 
      between the `<style>` tags. It will be your job to put the correct 
      material in the correct file after the session. 
-     **This is not good practice, we are only doing it because of stypi.
+     **This is not good practice, we are only doing it because of stypi.**
   - Now you are ready to begin! Your goal is to design a website that
      introduces the concept of pair programming!  (You get to figure out how to 
      present it on the page) 
 
+***
 
   1. Discuss how you want the page to look. Draw a wireframe and write pseudocode with your pair.
   2. Include: a title and your names.
