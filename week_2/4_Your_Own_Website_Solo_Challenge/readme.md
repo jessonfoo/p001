@@ -52,7 +52,7 @@ need a refresher.
 * Read: [Beyond Wireframing: Real Life UX Design Process](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process/)
 
 #### Apply
-Create a `my_wireframe.html` file in your `unit1_week1` folder.
+Create a `my_wireframe.html` file in your `unit1_week1` folder (This folder is in your [USERNAME]github.io repository NOT the `phase_0_unit_1` repository).
 
 * Create a plan for your new web page and put the plan into your html
 file.  Add, commit, and push a file with the details to Github.
