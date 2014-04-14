@@ -35,7 +35,7 @@ Download the [practice files](http://girldevelopit.com/assets/intermediate-html-
 
 #### c. Reflect
 
-Answer the questions in your `5_web_standards.md` file in your reflection gist.
+Answer the questions in your `my_reflection.md` file.
 
 # **OPTIONAL**
 #### Psuedo elements
