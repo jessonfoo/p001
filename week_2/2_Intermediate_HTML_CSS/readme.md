@@ -13,7 +13,7 @@ We think of the web and websites as mostly static. They look the way they look. 
 
 ## Directions
 
-Rename your `unit1_week1` folder to `unit1_projects`. Make sure to change it everywhere it's referenced! (In links, for example). Everything in this challenge is within the context of the `unit1_projects` folder in your website repository.
+Rename your `unit1_week1` folder to `unit1_projects`. Make sure to change it everywhere it's referenced! (In links, for example). Everything in this challenge is within the context of the `unit1_projects` folder in your [USERNAME].github.io repository.
 
 
 ### 1. Research
@@ -35,7 +35,8 @@ Download the [practice files](http://girldevelopit.com/assets/intermediate-html-
 
 #### c. Reflect
 
-Answer the questions in your `my_reflection.md` file.
+Answer the questions in your [my_reflection.md](my_reflection.md) file.
+
 
 # **OPTIONAL**
 #### Psuedo elements
