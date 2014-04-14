@@ -27,7 +27,7 @@ Focus on chapters 1,2, and 5.  Follow along with the video, and take the quizzes
 Take the time to skim the other chapters.  You'll be diving into JavaScript next week, and although the material covering JS (chapters 3 and 4) is a bit advanced, it provides great exposure to JavaScript in the context of the the DevTools console.
 
 
-2. Complete the [Dev Tools Quiz](dev_tools_quiz.md). Take a screenshot of your code school points (They appear on the right of your Code School profile page), upload it to a public image sharing site (like min.us), and include the image in your gist.  
+2. Complete the [Dev Tools Quiz](dev_tools_quiz.md). Take a screenshot of your code school points (They appear on the right of your Code School profile page), upload it to a public image sharing site (like min.us), and include the image in the [dev_tools_quiz.md](dev_tools_quiz.md) file.  
 
 
 3. Experiment
