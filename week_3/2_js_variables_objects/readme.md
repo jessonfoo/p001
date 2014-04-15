@@ -21,7 +21,7 @@ If you read with your pair and practice as you go, you may learn the concepts a 
 In this challenge you will be creating a series of variables. The values of the variables 
 will be different types of JavaScript objects.
 
-Below you will find driver code. Run the code in this file either from the command line 
+You will find driver code (code that returns `true` or `false` when it runs in your [my_solutions.js](my_solutions.js) file. Run the code in this file either from the command line 
 using Node.js or by pasting the code of this entire file into your browser console. All tests will log `true` in the console when they pass--`false`, otherwise.
 
 The tests will tell you what to do next.  Run the code and read the message explaining 
