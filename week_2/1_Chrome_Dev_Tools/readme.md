@@ -2,7 +2,7 @@
 
 # U1.W2: Chrome Dev Tools  
 
-## Learning Objectives
+## Learning Competencies
 - Navigate and edit a web page's HTML and CSS elements using the inspector
 - Explain what the DOM is and how it relates to CSS and HTML 
 - Identify images and other page elements that cause slow performance

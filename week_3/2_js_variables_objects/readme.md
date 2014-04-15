@@ -3,7 +3,7 @@
 # U1.W3: JavaScript Variables and Object Types
 
 
-## Learning Objectives
+## Learning Competencies
 1. Define local variables in JavaScript
 2. Create objects of different types in JavaScript
 3. Create and add objects to an array in JavaScript

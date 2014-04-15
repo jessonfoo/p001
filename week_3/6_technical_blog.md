@@ -2,7 +2,7 @@
 
 # U1.W3: Technical Blog
 
-## Learning Objectives
+## Learning Competencies
 - Summarize the popularity of JavaScript in Web Development
 
 ## Directions

@@ -2,7 +2,7 @@
 
 # U1.W2: Responsive Web Design 
 
-## Learning Objectives
+## Learning Competencies
 1. Describe responsive design
 2. Determine whether responsive design is good or bad practice
 

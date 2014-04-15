@@ -4,7 +4,7 @@
 
 **DO NOT LOOK AT THIS CHALLENGE UNTIL YOUR FIRST GUIDED PAIRING SESSION!!**
 
-#### Learning Objectives
+#### Learning Competencies
   - Use HTML tags to place content on a website
   - Apply CSS to position elements on an HTML page
   - Compare different HTML tags to one another

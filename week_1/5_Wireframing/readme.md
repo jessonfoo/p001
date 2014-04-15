@@ -1,7 +1,7 @@
 # U1.W1: Wireframing
 
 
-## Learning Objectives
+## Learning Competencies
 - Explain wireframing
 - Identify the benefits of wireframing
 - Wireframe an existing website 

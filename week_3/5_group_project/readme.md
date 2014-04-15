@@ -2,7 +2,7 @@
 
 **Do NOT look at the tests if you are not person 1!**
 
-## Learning Objectives
+## Learning Competencies
 1. Write easily implementable pseudocode based on tests
 2. Define local variables and functions in JavaScript
 3. Create, add elements to, access, and iterate over arrays in JavaScript

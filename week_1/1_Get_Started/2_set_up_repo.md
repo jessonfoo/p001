@@ -4,7 +4,7 @@
 
 We are going to create a repository to host your very own website! You'll be using a GitHub repository and [GitHub Pages](http://pages.github.com/) to set it up.
 
-## Learning Objectives
+## Learning Competencies
 
 1. Explain how to create a repository on GitHub and clone the repository to your local computer
 2. Describe what open source is

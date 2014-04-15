@@ -4,7 +4,7 @@ Reflecting is essential for solidifying your learning. You will be expected to c
 
 **Writing reflections for each challenge is mandatory.**
 
-## Learning Objectives
+## Learning Competencies
 
 1. Use GitHub to fork and edit gists
 2. Write reflections in markdown or HTML

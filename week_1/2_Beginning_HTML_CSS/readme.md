@@ -1,6 +1,6 @@
 # U1.W1: Beginning HTML & CSS
 
-## Learning Objectives
+## Learning Competencies
 1. Create a simple web page from the ground up using basic HTML tags
 2. Manipulate html elements using CSS
 

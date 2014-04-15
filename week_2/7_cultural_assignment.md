@@ -2,7 +2,7 @@
 
 # U1.W2: Cultural Assignment
 
-## Learning Objectives
+## Learning Competencies
 - Practice sharing vulnerability with the people in your cohort
 - Identify your biggest fear
 - Describe what you would tell your friend if they shared a fear with you. 

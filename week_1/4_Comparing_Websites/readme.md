@@ -1,7 +1,7 @@
 # U1.W1: Your Favorite Websites
 
 
-## Learning Objectives
+## Learning Competencies
 - Evaluate a website in terms of design and user experience
 - Compare websites to one another to discuss the pros and cons of their approaches
 

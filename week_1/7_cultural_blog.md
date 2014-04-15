@@ -1,6 +1,6 @@
 # U1, W1: Exploring your values
 
-## Learning Objectives
+## Learning Competencies
 - Identify your core values
 
 ## Directions

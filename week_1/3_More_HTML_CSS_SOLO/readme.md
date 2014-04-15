@@ -1,6 +1,6 @@
 # U1.W1: More HTML & CSS
 
-## Learning Objectives
+## Learning Competencies
 - Position HTML elements using CSS padding, borders, and
    margins.
 - Use HTML tags to present information on a website

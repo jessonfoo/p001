@@ -4,7 +4,7 @@
 
 **DO NOT READ THROUGH OR ATTEMPT THIS CHALLENGE BEFORE YOUR GUIDED PAIRING SESSION**
 
-## Learning Objectives
+## Learning Competencies
 1. Create and manipulate objects in JavaScript
 2. Use functions in JavaScript
 3. Debug using Node's error messages

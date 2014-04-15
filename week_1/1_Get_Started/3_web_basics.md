@@ -2,7 +2,7 @@
 
 # Basics of the Web
 
-## Learning Objectives
+## Learning Competencies
 
 * Describe the following: web server, browser, HTML, CSS, domain, DNS
 * Create an HTML file

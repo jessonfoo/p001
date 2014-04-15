@@ -2,7 +2,7 @@
 
 # U1.W2: Technical Blog
 
-## Learning Objectives
+## Learning Competencies
 - Compare CSS concepts to determine the differences
 - Explain how and when to use CSS concepts
 

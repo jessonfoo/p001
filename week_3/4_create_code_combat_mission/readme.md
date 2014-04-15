@@ -2,7 +2,7 @@
 
 # U1.W3: Create Your Own Code Combat Mission!
 
-## Learning Objectives
+## Learning Competencies
 1. Define local variables in JavaScript
 2. Create, add properties to, delete properties from, and access values from JavaScript Object literals
 3. BONUS: Integrate HTML, CSS, and JavaScript to display and manipulate objects

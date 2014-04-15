@@ -4,8 +4,8 @@
 
 Welcome to Phase 0 Week 1! We are starting with web basics (HTML & CSS) and introducing you to Phase 0 process.
 
-## Learning Objectives
-Each challenge has learning objectives that describe what you should be able to do by the end of the lesson. Use these objectives to assess your understanding. You will reflect on the learning objectives and material in each challenge. 
+## Learning Competencies
+Each challenge has Learning Competencies that describe what you should be able to do by the end of the lesson. Use these objectives to assess your understanding. You will reflect on the Learning Competencies and material in each challenge. 
 
 ## Purpose
 

@@ -3,7 +3,7 @@
 # U1.W2: Your website (Solo Challenge)
 
 
-## Learning Objectives
+## Learning Competencies
 - Illustrate your understanding of web design and user experience in your website
 - Describe and practice process of building a website
 
