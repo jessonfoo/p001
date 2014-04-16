@@ -21,7 +21,7 @@ Rename your `unit1_week1` folder to `unit1_projects`. Make sure to change it eve
 Do some research into standard practices of web design, reset css, and HTML5. Use the links below *and* look for resources on the web. If you find good ones, add them to your resources spreadsheet in the Google+ community!
 
 * Slides: [Structure standards and HTML5](http://girldevelopit.com/assets/intermediate-html-css/class1.html#/17)
-* Read: [HTML5 and the document outlining algorithm](http://coding.smashingmagazine.com/2011/08/16/html5-and-the-document-outlining-algorithm/)
+* Read: [HTML5 and the document outlining algorithm](http://web.archive.org/web/20120627103207/http://coding.smashingmagazine.com/2011/08/16/html5-and-the-document-outlining-algorithm/)
 
 
 ### 2. Apply
