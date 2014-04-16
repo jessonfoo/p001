@@ -11,11 +11,11 @@ Everything in this challenge is within the context of the [website](../1_Get_Sta
 
 ### 1. Set up folders
 
-* Create a `unit1_week1` folder
-* Within the unit1_week1 folder create an `images` folder
-* Within the unit1_week1 folder, create a `stylesheets` folder
+* Create a `unit1_projects` folder
+* Within the unit1_projects folder create an `images` folder
+* Within the unit1_projects folder, create a `stylesheets` folder
 
-From this point forward, all work will happen within the `unit1_week` folder.  All images should go in the `unit1_week1/images` folder and all css files should go in the `unit1_week/stylesheets` folder.
+From this point forward, all work will happen within the `unit1_week` folder.  All images should go in the `unit1_projects/images` folder and all css files should go in the `unit1_week/stylesheets` folder.
 
 ### 2. Intro to HTML
 
