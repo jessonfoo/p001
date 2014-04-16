@@ -5,13 +5,9 @@
 ## Learning Competencies
 By the end of this lesson, you should be able to:
 
-1.  Outline how to:
-    * Set up git on your computer
-    * Generate and install SSH keys on your computer
-    * Download the GitHub App
-2. Describe GitHub
-3. Compare git and GitHub
-4. Explain what version control does
+- Describe GitHub
+- Compare git and GitHub
+- Explain what version control does
 
 
 ## Directions

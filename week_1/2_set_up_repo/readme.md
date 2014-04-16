@@ -6,9 +6,9 @@ We are going to create a repository to host your very own website! You'll be usi
 
 ## Learning Competencies
 
-1. Explain how to create a repository on GitHub and clone the repository to your local computer
-2. Describe what open source is
-3. Assess the importance of using licenses 
+- Explain how to create a repository on GitHub and clone the repository to your local computer
+- Describe what open source is
+- Assess the importance of using licenses 
 
 
 ## Directions
