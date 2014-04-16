@@ -13,7 +13,7 @@
 ## Summary
 You will be required to work with others in your career as a developer. You will not always know the large-goals or be responsible for implementing each aspect of the code. In this challenge, you are going to work with your accountability groups to solve it. Each person will have a specific role and you are not allowed to pass along any information outside of your responsibility. The roles are determined by the order in the spreadsheet. The first person will have the first role, second person the second, etc. 
 
-The first person will receive an email with a file containing tests on Monday. Most of this will probably need to be done between Thursday and Sunday (so you feel comfortable with JavaScript before hand). Email your group to decide on a potential schedule. 
+The first person should look at the tests in the [tests.js](tests.js) file. **NO ONE ELSE SHOULD PEEK AT THIS!!!** Most of this will probably need to be done between Thursday and Sunday (so you feel comfortable with JavaScript before hand). Email your group to decide on a potential schedule. 
 
 NOTE: If you are the first person and know you will be unable to get your part done by the middle of the week, email your group and explain your situation. The second person will then be defaulted to the first person role. Make sure to let them know in your email.
 
