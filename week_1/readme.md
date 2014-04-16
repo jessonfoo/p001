@@ -28,7 +28,7 @@ You need to submit your work through [this google form](https://docs.google.com/
 You should also copy and paste your response to each of the following
 * Copy of text you wrote to your group
 * Copy of your response to email questions (You'll get these this week)
-* 
+
 
 ## Remember your Unit Goals!
 - Pair at least once this week with a member of your accountability group.  *You need to pair 3 times on your own this unit*
