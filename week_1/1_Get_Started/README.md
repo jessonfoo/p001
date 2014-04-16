@@ -55,17 +55,17 @@ Confused about the difference between git and GitHub? Try one of these articles:
 ### 3) Reflect
 Before you can edit any of these files to complete your reflection, you'll need to click the "Fork" button at the top right of this page. 
 
-![Repo to Fork](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/imgs/repo-to-fork.jpg)
+![Repo to Fork](../imgs/repo-to-fork.jpg)
 
 This will make a copy of the unit 1 curriculum repository into your personal account. This will be where you add reflections and later solutions. After you click fork, you should be taken from the Devbootcamp.com/phase_0_unit_1 repo to [USERNAME]/phase_0_unit_1
 
-![Forked Repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/imgs/forked-repo.jpg)
+![Forked Repo](../imgs/forked-repo.jpg)
 
 Reflect on your learning by editing the my_reflection.md file in the [1_get_started](./) folder (the folder you are in). Please refer to the [Reflection Guidelines](../reflection_guidelines.md). 
 
 You can complete the first 2 challenge reflections on github.com. Click on the my_reflection.md file in this folder. There should be a button to edit at the top. Click it. You'll add your reflection in markdown and write a commit message under "Commit changes". Once you type something there, you will want to click the "commit changes" button. **NOTE: It will not let you commit changes without a commit message.**
 
-![Editing Reflection](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/imgs/adding-reflection.jpg)
+![Editing Reflection](../imgs/adding-reflection.jpg)
 
 After you learn how to sync your changes (in the third challenge), you'll want to edit all files on your local repository-- more on that later. 
 
