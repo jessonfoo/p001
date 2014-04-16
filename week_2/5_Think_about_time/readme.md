@@ -8,7 +8,7 @@
 - Design a plan for getting work done during Phase 0
 - Explain "Time Boxing" and describe how to use it
 
-## Background
+## Summary
 Remote learning is challenging, especially if you prefer to learn with others. In this challenge you will do some research on time management, productivity, and mindfulness so you can design a plan for learning during Phase 0. 
 
 Try some of the articles below or find your own.  Try to read a bit outside your comfort zone though. Can you apply any of this to your situation?

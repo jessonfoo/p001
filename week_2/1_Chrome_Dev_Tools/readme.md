@@ -9,7 +9,7 @@
 - Use Chrome Devtools to manipulate elements on the DOM
 
 
-## Background
+## Summary
 Before starting this challenge, you will want to do a bit of research on the DOM. Read the following Resources before beginning. 
 - [What's the DOM?](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Introduction)
 - [DOM](http://skillcrush.com/2012/10/17/dom-document-object-model/)

@@ -6,7 +6,7 @@
 1. Identify and use web standards, semantic mark up, and HTML5
 
 
-## Background
+## Summary
 
 We think of the web and websites as mostly static. They look the way they look.  But it's really more complicated than that.  Web designers and developers spend a lot of time thinking about how to make web pages usable in all the possible formats (phones, tablets, web) while keeping them maintainable (i.e. not taking a billion years to make small changes). The WC3 makes changes to HTML and CSS every bunch of years, so they think about how the language itself makes things easier or harder. You should start thinking about these things too.
 

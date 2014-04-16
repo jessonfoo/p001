@@ -7,7 +7,7 @@
 - Consider strategies for time management and productivity
 - Design a plan for getting work done during Phase 0
 
-## Purpose
+## Summary
 
 Despite popular belief, most software engineers work in teams and there is a strong developer community (on the web and locally) for many technologies, including HTML, CSS, JavaScript, and Ruby.  It's important to get used to sharing with each other.
 

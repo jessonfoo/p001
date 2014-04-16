@@ -10,7 +10,7 @@
 5. Refactor for clarity and readability
 6. Collaborate with others to solve a problem
 
-## Purpose
+## Summary
 You will be required to work with others in your career as a developer. You will not always know the large-goals or be responsible for implementing each aspect of the code. In this challenge, you are going to work with your accountability groups to solve it. Each person will have a specific role and you are not allowed to pass along any information outside of your responsibility. The roles are determined by the order in the spreadsheet. The first person will have the first role, second person the second, etc. 
 
 The first person will receive an email with a file containing tests on Monday. Most of this will probably need to be done between Thursday and Sunday (so you feel comfortable with JavaScript before hand). Email your group to decide on a potential schedule. 

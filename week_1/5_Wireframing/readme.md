@@ -7,7 +7,7 @@
 - Wireframe an existing website 
 
 
-## Purpose
+## Summary
 
 Regardless of whether design is interesting to you or not, web design
 matters to end users of the website and business management.  It's

@@ -10,7 +10,7 @@
   - Compare different HTML tags to one another
   - Examine pair-programming concepts
 
-#### Purpose
+#### Summary
   Welcome to your first Guided Pairing Session (GPS!)
   We are excited to have you in Phase 0 and to work with
   you to get you prepared for an exciting time at DBC. 

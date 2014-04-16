@@ -10,7 +10,7 @@
 3. Debug using Node's error messages
 
 
-## Background
+## Summary
 Aside from being totally awesome developers-in-training, you're also up-and-coming movie 
 agents waiting to sign your first big star! 
 

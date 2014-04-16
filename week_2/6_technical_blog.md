@@ -7,7 +7,7 @@
 - Explain how and when to use CSS concepts
 
 
-## Purpose
+## Summary
 Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community. 
 
 ## Directions
