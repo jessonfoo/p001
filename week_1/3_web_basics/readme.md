@@ -73,4 +73,4 @@ You can also see the new index.html file in your GitHub repository!
 
 ### 6) Reflection
 
-Reflect on your learning in the `3_web_basics.md` file in your [reflection gist](https://gist.github.com).
+Now you will want to practice what you've learned in this challenge. Go through the workflow again. This time, fork your repo (https://github.com/[USERNAME]/phase_0_unit_1) into your personal github account. You should see 
