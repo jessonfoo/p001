@@ -18,10 +18,10 @@ We are going to create a repository to host your very own website! You'll be usi
 
 
 1. **Log into GitHub**
-2. **Create a [new repository](https://github.com/new) **<br /><br />This will take you to the new repository form.<br /><br />![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-repo-1.jpg)
-3. **Fill out the new repository form.** <ul><li>You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.  </li><li>Check "Initialize this project with a README" and add an MIT license. </li></ul>![New repo form](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-repo-2.jpg)<br /><br />I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**.
+2. **Create a [new repository](https://github.com/new) **<br /><br />This will take you to the new repository form.<br /><br />![New repo form](../imgs/github-repo-1.jpg)
+3. **Fill out the new repository form.** <ul><li>You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.  </li><li>Check "Initialize this project with a README" and add an MIT license. </li></ul>![New repo form](../imgs/github-repo-2.jpg)<br /><br />I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**.
 4. Click on the **"Create Repository" button**
-4. **Do a celebration dance!** <br />:dancers: :tada: :dancer: <br /><br />![You have a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-repo3.jpg)
+4. **Do a celebration dance!** <br />:dancers: :tada: :dancer: <br /><br />![You have a repo](../imgs/github-repo3.jpg)
 
 
 
@@ -42,7 +42,7 @@ If you are working on Linux and/or want to challenge yourself further, skip to t
 3. In the search bar, start searching for "github".  Your "[USERNAME].github.io" repository should come up in the list.
 4. Click on the "Clone to this computer" button.
 
-![Clone a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-app-1_clone.jpg)
+![Clone a repo](../imgs/github-app-1_clone.jpg)
 
 
 #### Cloning a repository with the command line
@@ -62,6 +62,6 @@ You added an MIT License to your repository.  Read these articles to explain why
 
 ### 4. Reflect
 
-Reflect on your learning by editing the my_reflection.md file in the [2_set_up_repo](./) folder (the folder you are in). Please refer to the [Refleciton Guidelines](../reflection_guidelines.md). 
+Reflect on your learning by editing the my_reflection.md file in the [2_set_up_repo](./) folder (the folder you are in). Please refer to the [Reflection Guidelines](../reflection_guidelines.md). 
 
 You can complete the first 2 challenge reflections on github.com. Click on the my_reflection.md file in this folder. There should be a button to edit at the top. Click it. You'll add your reflection in markdown and write a commit message under "Commit changes". Once you type something there, you will want to click the "commit changes" button. **NOTE: It will not let you commit changes without a commit message.**
