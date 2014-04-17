@@ -15,7 +15,7 @@ Everything in this challenge is within the context of the [website](../1_Get_Sta
 * Within the unit1_projects folder create an `images` folder
 * Within the unit1_projects folder, create a `stylesheets` folder
 
-From this point forward, all work will happen within the `unit1_week` folder.  All images should go in the `unit1_projects/images` folder and all css files should go in the `unit1_week/stylesheets` folder.
+From this point forward, all work will happen within the `unit1_projects` folder.  All images should go in the `unit1_projects/images` folder and all css files should go in the `unit1_projects/stylesheets` folder.
 
 ## Release 1. Intro to HTML
 
