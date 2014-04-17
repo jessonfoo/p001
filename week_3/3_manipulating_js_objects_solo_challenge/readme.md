@@ -10,7 +10,7 @@
 3. Use pre-written tests to drive development
 
 
-## Directions
+## Releases
 This is the process you should go through every time you work on a challenge.
 
 1. Run the tests

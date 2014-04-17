@@ -18,7 +18,7 @@ In this challenge, you'll be diving into Chrome DevTools.  Inside the DevTools i
 
 We'll be focusing primarily on real-time HTML and CSS editing in this challenge and dip our toes into using the tools to identify page elements that slow down performance and page loading.
 
-## Directions
+## Releases
 
 1. Take [Code School's DevTools course](http://discover-devtools.codeschool.com/)  
 

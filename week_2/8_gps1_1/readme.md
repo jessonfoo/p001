@@ -21,7 +21,7 @@
   **Since this is your first pairing session, it is important
   to have a good check-in (so don't forget!).**
 
-#### Directions
+#### Releases
   - After you finish this exercise, copy and paste your collaborative code
     into a local HTML and CSS document and push this new page up to your
     github.io website.

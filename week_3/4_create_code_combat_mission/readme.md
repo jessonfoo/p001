@@ -8,7 +8,7 @@
 3. BONUS: Integrate HTML, CSS, and JavaScript to display and manipulate objects
 
 
-## Directions
+## Releases
 You now have some practice with JavaScript so let's get creative with it. In this challenge, you are not expected to create a real, working mission on Code Combat, rather, we want you to have fun thinking up a simple mission and make some basic objects and functions to manipulate those objects. You don't need to visit Code Combat to do this, just write out your solution in the `my_solution.js` file. The end is up to you. 
 
 Here are some tips for how to think up this challenge. 

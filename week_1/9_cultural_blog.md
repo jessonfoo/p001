@@ -3,7 +3,7 @@
 ## Learning Competencies
 - Identify your core values
 
-## Directions
+## Releases
 
 First, create a new HTML file for your this post in your [USERNAME].github.io website. Create a new HTML file and use the date to name it `week2_cultural_blog.html`. Copy the Code from your `blog_template`
 

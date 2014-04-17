@@ -6,26 +6,22 @@ We are going to create a repository to host your very own website! You'll be usi
 
 ## Learning Competencies
 
-- Explain how to create a repository on GitHub and clone the repository to your local computer
-- Describe what open source is
+- Explain how to create a repository on GitHub and clone a repository to your local computer
+- Describe "open source"
 - Assess the importance of using licenses 
 
 
-## Directions
-
-
-### 1. Create a website repository
-
+## Release 0: Create a website repository
 
 1. **Log into GitHub**
 2. **Create a [new repository](https://github.com/new) **<br /><br />This will take you to the new repository form.<br /><br />![New repo form](../imgs/github-repo-1.jpg)
-3. **Fill out the new repository form.** <ul><li>You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.  </li><li>Check "Initialize this project with a README" and add an MIT license. </li></ul>![New repo form](../imgs/github-repo-2.jpg)<br /><br />I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**.
+3. **Fill out the new repository form.** <ul><li>You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.  </li><li>Check "Initialize this project with a README" and add an MIT license. </li></ul>![New repo form](../imgs/github-repo-2.jpg)<br /><br />I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**. If you have trouble, double check you spelled it right. 
 4. Click on the **"Create Repository" button**
-4. **Do a celebration dance!** <br />:dancers: :tada: :dancer: <br /><br />![You have a repo](../imgs/github-repo3.jpg)
+5. Click on **settings** on the "Features" section, add a check next to "Issues." This will allow others to give you feedback on your site!
+6. **Do a celebration dance!** <br />:dancers: :tada: :dancer: <br /><br />![You have a repo](../imgs/github-repo3.jpg)
 
 
-
-### 2. Download the repository
+## Release 1: Download the repository
 
 A git repository is "distributed", which means it exists on many computers instead of just one.  Right now your repository exists on GitHub, but in order to add or edit files, you need it to exist on *your computer*.
 
@@ -51,7 +47,7 @@ This section is for Linux users or those who want to challenge themselves.  Late
 
 Use [this tutorial](git_clone.md) to clone your repository on the command line.
 
-### 3. Open Source
+## Release 2: Open Source
 
 You added an MIT License to your repository.  Read these articles to explain why:
 
@@ -60,7 +56,7 @@ You added an MIT License to your repository.  Read these articles to explain why
 * [A short guide to Open Source](http://www.smashingmagazine.com/2010/03/24/a-short-guide-to-open-source-and-similar-licenses/)
 
 
-### 4. Reflect
+## Release 3: Reflect
 
 Reflect on your learning by editing the my_reflection.md file in the [2_set_up_repo](./) folder (the folder you are in). Please refer to the [Reflection Guidelines](../reflection_guidelines.md). 
 

@@ -10,7 +10,7 @@
 ## Summary
 Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community. 
 
-## Directions
+## Releases
 Now you get to start using your [USERNAME].github.io website for blogging! Create a new HTML file and call it `blog_template`. You will want to reuse the same blog template over again and create a CSS sheet to style it. This site is your portfolio, so you want to make it professional. Keep updating it and improving it each week to make it something you are proud to show potential employers!
 
 Create a new HTML file and use the date to name it `week2_technical.html`. 

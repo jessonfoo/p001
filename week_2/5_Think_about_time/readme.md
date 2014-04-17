@@ -13,7 +13,7 @@ Remote learning is challenging, especially if you prefer to learn with others. I
 
 Try some of the articles below or find your own.  Try to read a bit outside your comfort zone though. Can you apply any of this to your situation?
 
-## Directions
+## Releases
 
 #### 1. Research Time Management, Productivity, and Mindfulness
 

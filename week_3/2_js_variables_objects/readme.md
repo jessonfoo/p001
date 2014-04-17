@@ -32,7 +32,7 @@ Hint: If you get an error message that says something like ...
 
 `ReferenceError: secretNumber is not defined`, try declaring a variable with that name (e.g., `secretNumber`).
 
-## Directions
+## Releases
 
 ###1. Test-Driven Development
 This is your first introduction to Test-Driven Development (TDD). In this challenge, you will be dependent upon the provided driver code to guide your coding. Read [The Newbie's Guide to Test-Driven Development](http://code.tutsplus.com/tutorials/the-newbies-guide-to-test-driven-development--net-13835) to learn more about TDD if you're interested. 

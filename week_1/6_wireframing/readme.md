@@ -16,7 +16,7 @@ teams in the organization.  On of the first steps in creating a web page
 is often to wireframe it. This process should also help you learn to separate different parts of a site (design vs. content, html vs. css, user interface vs. user experience) and learn the process of developing websites.
 
 
-## Directions
+## Releases
  
  
 ### 1. Intro to Design Thinking

@@ -10,9 +10,10 @@ By the end of this lesson, you should be able to:
 - Explain what version control is and does
 
 
-## Directions
+## Releases 
+(i.e. directions - each release is necessary for the next release, so be sure to do everything in the order specified for all challenges)
 
-### 1. Setup git and GitHub
+### Release 0: Sign up for GitHub
 
 Have you signed up for [GitHub](http://www.github.com) yet? If not, [sign up here](http://www.github.com). Then follow [these instructions](https://help.github.com/articles/set-up-git) to install git and set up SSH keys. 
 
@@ -30,7 +31,7 @@ Download the GitHub desktop application.
 
 *Note: if you are using Linux, you'll need to use the command line for Git. We will have instructions for this later.*
 
-### 2. Learn
+### Release 1: Learn
 
 #### What's this git stuff?
 
@@ -48,7 +49,7 @@ Confused about the difference between git and GitHub? Try one of these articles:
 * [Git vs. GitHub for Dummies](http://stephaniehoh.github.io/blog/2013/10/07/git-vs-github-for-dummies/)
 * [Is Git the same as GitHub?](http://www.jahya.net/blog/?2013-05-git-vs-github)
 
-### 3) Reflect
+### Release 2: Reflection
 Reflecting is essential for solidifying your learning. You will be expected to complete a reflection for each challenge in Phase 0. It will help you learn how you learn, give opportunities for sharing resources, and help your instructors gauge your progress. Reflections are for you, but they will also be read by others, so make sure to write for an audience. 
 
 **Writing reflections for each challenge is mandatory.**

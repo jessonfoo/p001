@@ -20,7 +20,7 @@ of the ways developers have created to make sites usable, maintable, and
 adaptable to new devices and browsers. 
 
 
-## Directions
+## Releases
 
 Everything in this challenge is within the context of the `unit1_projects` folder in your website repository. 
 

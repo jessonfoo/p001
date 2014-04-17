@@ -12,7 +12,7 @@
 Despite popular belief, most software engineers work in teams and there is a strong developer community (on the web and locally) for many technologies, including HTML, CSS, JavaScript, and Ruby.  It's important to get used to sharing with each other.
 
 
-## Directions
+## Releases
 
 ### 1. Intro Email
 

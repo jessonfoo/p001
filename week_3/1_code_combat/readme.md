@@ -9,7 +9,7 @@
 3. Use error messages correct syntax mistakes
 
 
-## Directions
+## Releases
 Visit [Code Combat](http://codecombat.com/play) and complete each of the missions in the beginner campaign using the steps below. These directions might seem tedious for something so simple, but it's important to get in the habit of going through these steps.  
 
 

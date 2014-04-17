@@ -6,7 +6,7 @@
 - Use HTML tags to present information on a website
 
 
-## Directions
+## Releases
 
 
 **THIS IS YOUR SOLO CHALLENGE FOR WEEK 1.** Please reference the [Phase 0 Handbook](https://github.com/Devbootcamp/phase_0_handbook/) for more details as to what this entails.

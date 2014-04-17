@@ -5,7 +5,7 @@
 - Manipulate html elements using CSS
 
 
-## Directions
+## Releases
 
 Everything in this challenge is within the context of the [website](../1_Get_Started/2_set_up_repo.md) you set up in the [get started](../1_Get_Started/) section.
 
