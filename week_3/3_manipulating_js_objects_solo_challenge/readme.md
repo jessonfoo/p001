@@ -85,6 +85,6 @@ Make sure to put everything (pseudocode, initial solution, refactored solution) 
 
 
 ##Reflect
-In the reflection section of your 'my_solution.js` file, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md).. ***NOTE: Reflections are mandatory!***
+In the reflection section of your 'my_solution.js` file, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
 
