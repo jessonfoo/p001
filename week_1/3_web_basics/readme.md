@@ -71,10 +71,12 @@ You can also see the new index.html file in your GitHub repository!
 
 ## Release 5: Reflection
 
-Now you will want to practice what you've learned in this challenge (and don't worry, you'll get to do this for the rest of phase 0).
+Now you will want to practice what you've learned in this challenge (and don't worry, you'll get to go through this reflection workflow for the rest of phase 0).
 
 In the GitHub app, go to your [USERNAME]/phase_0_unit_1 repository. Clone it to your computer. Then, open the terminal and navigate to that repository. Open the repository in Sublime. You can do this by either adding sublime shortcuts to your command line or opening sublime and opening the repository from there. 
 
-You should edit all code, reflections, etc. from sublime. It's bad practice to make changes from github.com. (So forget we told you to do that in the past two challenges)! 
+If you are using the terminal, follow the [git clone](../git_clone.md) directions and then repeat the workflow above. Make sure you edit all files from your local text editor. 
 
-When you finish writing your reflection. Make sure you save it, then go to the app and go through the rest of the workflow to save your work to GitHub. 
+You should edit all code, reflections, etc. from your local text editor. It's bad practice to make changes from github.com. (So forget we told you to do that in the past two challenges)! 
+
+When you finish writing your reflection. Make sure you save it, then go to the directions in release 2 to save your work to GitHub. 
