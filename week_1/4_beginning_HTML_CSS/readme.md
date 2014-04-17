@@ -2,14 +2,14 @@
 
 ## Learning Competencies
 - Create a simple web page from the ground up using basic HTML tags
-- Manipulate html elements using CSS
+- Manipulate HTML elements using CSS
 
 
 ## Releases
 
 Everything in this challenge is within the context of the [website](../1_Get_Started/2_set_up_repo.md) you set up in the [get started](../1_Get_Started/) section.
 
-### 1. Set up folders
+## Release 0: Set up folders
 
 * Create a `unit1_projects` folder
 * Within the unit1_projects folder create an `images` folder
@@ -17,7 +17,7 @@ Everything in this challenge is within the context of the [website](../1_Get_Sta
 
 From this point forward, all work will happen within the `unit1_week` folder.  All images should go in the `unit1_projects/images` folder and all css files should go in the `unit1_week/stylesheets` folder.
 
-### 2. Intro to HTML
+## Release 1. Intro to HTML
 
 #### a. Learn
 
@@ -45,7 +45,7 @@ Add the following to `dbc1.html` (Use this to introduce yourself!)
 * Line break
 * Unordered list and an ordered list
 
-### 2. Intro to CSS
+## Release 3: Intro to CSS
 
 #### a. Learn
 
@@ -67,5 +67,5 @@ Create a new css file in your repository called `dbc1.css` and save it to the `s
 * Use ids and classes to change specific elements
 
 
-### 3. Reflect 
-Go to your [reflection gist](https://gist.github.com) to write your reflection on `4_beginning_HTML_CSS.md`.
+## Release 4: Reflect 
+On your local repo, edit the [my_reflection.md](./my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
