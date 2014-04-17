@@ -43,4 +43,6 @@ In the reflection section of the gist, reflect on your learning. Use the [reflec
 
 
 ##Review other's solutions
-In the reflection section of your 'my_solution.js` file, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md).. ***NOTE: Reflections are mandatory!***
+[Review others' solutions](../reviewing_solutions.md) by leaving an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge). *NOTE: Forks will only appear when at least one fork has been created.* 
+
+
