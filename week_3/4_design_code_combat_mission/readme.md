@@ -16,7 +16,7 @@ Here are some tips for how to think up this challenge.
 2. Hover over the `this` in the code section of any mission. What is it referring to? An object? A function? What kinds of attributes do you want to add to your objects? Create your objects in JavaScript
 3. Think of the methods that are necessary to manipulate your objects and add them to your objects.  
 
-When you feel finished, you should edit your gist with each section and be done. It's difficult to know when you are finished with a project, so we want to reiterate that it's up to you how much you want to do with this project. If you are having fun, keep working and solidifying your understanding. If you're bored and feel like you've gotten enough out of it, it's good to be finished. 
+When you feel finished, you should edit your [my_solution.js](./my_solution.js) file with each section and be done. It's difficult to know when you are finished with a project, so we want to reiterate that it's up to you how much you want to do with this project. If you are having fun, keep working and solidifying your understanding. If you're bored and feel like you've gotten enough out of it, it's good to be finished. 
 
 
 ###1. Pseudocode
@@ -39,7 +39,7 @@ If you think of a way to improve your code through refactoring, write why you th
 Add your JavaScript objects to an HTML page. Use CSS to make it pretty. What about ascii art? Then look up how to manipulate objects on a page with JavaScript using your functions...
 
 ## Reflect
-In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md) to guide your reflection. ***NOTE: Reflections are mandatory!***
+In the reflection section of your [my_solution.js](./my_solution.js) file, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md) to guide your reflection. ***NOTE: Reflections are mandatory!***
 
 
 ##Review other's solutions

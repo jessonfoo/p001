@@ -37,7 +37,7 @@ Hint: If you get an error message that says something like ...
 ###1. Test-Driven Development
 This is your first introduction to Test-Driven Development (TDD). In this challenge, you will be dependent upon the provided driver code to guide your coding. Read [The Newbie's Guide to Test-Driven Development](http://code.tutsplus.com/tutorials/the-newbies-guide-to-test-driven-development--net-13835) to learn more about TDD if you're interested. 
 
-First run your `my_solution.js` file in this directory and read the error message, then hypothesize about what you need to write to fix it.
+First run your [my_solution.js](./my_solution.js) file in this directory and read the error message, then hypothesize about what you need to write to fix it.
 
 ###2. Pseudocode
 Write specific and write step-by-step ideas to pass each test in code-like English. Each line should be something you can easily translate into code. For help with writing pseudocode, take a look at this [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) example. 
@@ -56,13 +56,13 @@ When all the error messages are passing, go back and check each solution. Ask yo
 
 If you can't think of a way to improve your code, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank.
 
-###5. Edit your forked gist
+###5. Commit and Sync!
 Now that you've done all this work, don't forget to sync your changes using the github desktop application!
 
 Make sure to edit line 1 to reflect whether you worked on the challenge on your own or with a pair. If you worked with a pair, make sure to put his/her name!
 
 ## Reflect
-In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md) to guide your reflection. ***NOTE: Reflections are mandatory!***
+In the reflection section of the [my_solution.js](./my_solution.js) file, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md) to guide your reflection. ***NOTE: Reflections are mandatory!***
 
 ## Review others' Reflections/Solutions. 
 [Review others' solutions](../reviewing_solutions.md)

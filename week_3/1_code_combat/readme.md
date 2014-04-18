@@ -13,7 +13,7 @@
 Visit [Code Combat](http://codecombat.com/play) and complete each of the missions in the beginner campaign using the steps below. These directions might seem tedious for something so simple, but it's important to get in the habit of going through these steps.  
 
 
-Write pseudocode and an initial solution for each mission in your `my_solution.js` file. Please write the title of each mission (as a comment) as you go. 
+Write pseudocode and an initial solution for each mission in your [my_solution.js](./my_solution.js) file. Please write the title of each mission (as a comment) as you go. 
  
 ###1. Pseudocode 
 Write simple pseudocode for each challenge. For example, write something like:
