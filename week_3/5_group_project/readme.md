@@ -32,19 +32,19 @@ As a user, I want to...
 Because you aren't working with users, you can omit the "As a user" part of the story, but make sure you are specific on the "I want to..."part. The user stories should be easily translated into pseudocode by the next person in your group.  However, a user story is *NOT* psuedocode -- it should describe the experience of someone *using* the function.  Words like `array` or `loop` or any word not known to a non-technical person should not be used.  In this case, you can specify the function name.
 
 
-**Email the user stories gist link (without the tests) to the next person in your group.**
+**Email your `gc1_user_stories.js` URL (from your forked phase_0_unit_1 repo) to the next person in your group.**
 
 ####Person 2. Translate user stories into pseudocode 
 Rename your `my_solution.js` file to `gc1_pseudocode.js`
 
 Based on the user stories you receive from the first person, write pseudocode that can be easily implemented by the next person in your group.  Your psuedocode should be steps that specify at least 1 line of code.
 
-**Email the link to the pseudocode gist (without the userstories) to the next person/people in your group.** You may not deviate from the user stories in your pseudocode.
+**Email the `gc1_pseudocode.js` URL (from your forked phase_0_unit_1 repo) (without the user stories) to the next person/people in your group.** You may not deviate from the user stories in your pseudocode.
 
 ####Person 3**. Translate Pseudocode into Code
 Rename your `my_solution.js` file to  `gc1_initial_solution.js`
 
-You will receive a gist with pseudocode. Translate this pseudocode into code. You can choose to pair (if you are able) or work alone to translate the pseudocode into code. Do not deviate from the pseudocode given to you. 
+You will receive a file with pseudocode. Translate this pseudocode into code. You can choose to pair (if you are able) or work alone to translate the pseudocode into code. Do not deviate from the pseudocode given to you. 
 When you finish your coding, make sure the code runs without any syntax errors. If the code is missing a step from the pseudocode, message the person ahead of you to tell them. They need to give you an updated file. 
 
 When you are finished, send your solution to the next person in your group (again based on the graphics below). 

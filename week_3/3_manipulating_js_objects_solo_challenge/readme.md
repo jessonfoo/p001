@@ -33,7 +33,7 @@ var terah = {
 }
 ```
 
-You will find driver code in the gist you forked. Run the code either
+You will find driver code in the `my_solution.js` file associated with this challenge. Run the code either
 from the command line using Node.js or by pasting the code of this
 entire file into your browser console.  All tests will log `true`
 in the console when they pass--`false`, otherwise.
@@ -75,13 +75,13 @@ When all of the tests have passed, your final `terah` object will be logged to t
 
 
 ###1. Pseudocode
-After you run the file, write pseudocode for passing the first failing test in the pseudocode section of the gist. Write pseudocude using the tips on style in calpoly's [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html). Make sure your pseudocode is broken down to easily implementable steps.
+After you run the file, write pseudocode for passing the first failing test in the pseudocode section of the `my_solution.js` file. Write pseudocude using the tips on style in calpoly's [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html). Make sure your pseudocode is broken down to easily implementable steps.
 
 ###2. Initial Solution
 Turn your pseudocode into code by translating each step into code until the test passes. Then move on to the next test.
 
-###3. Edit your gist
-Make sure to put everything (pseudocode, initial solution, refactored solution) in your gist!  
+###3. Commit and Sync your changes!
+Make sure to put everything (pseudocode, initial solution, refactored solution) in your `my_solution.js` file!  
 
 
 ##Reflect

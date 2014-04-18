@@ -56,13 +56,13 @@ When all the error messages are passing, go back and check each solution. Ask yo
 
 If you can't think of a way to improve your code, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank.
 
-###5. Edit your forked gist
+###5. Commit and Sync!
 Now that you've done all this work, don't forget to sync your changes using the github desktop application!
 
 Make sure to edit line 1 to reflect whether you worked on the challenge on your own or with a pair. If you worked with a pair, make sure to put his/her name!
 
 ## Reflect
-In the reflection section of the gist, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md) to guide your reflection. ***NOTE: Reflections are mandatory!***
+In the reflection section of the `my_solution.js` file, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md) to guide your reflection. ***NOTE: Reflections are mandatory!***
 
 ## Review others' Reflections/Solutions. 
 [Review others' solutions](../reviewing_solutions.md)
