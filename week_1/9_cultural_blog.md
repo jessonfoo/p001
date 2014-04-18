@@ -1,15 +1,15 @@
-# U1, W1: Exploring your values
+# U1.W1: Exploring your values
 
 ## Learning Competencies
 - Identify your core values
 
-## Releases
+## Release 0:
 
-First, create a new HTML file for your this post in your [USERNAME].github.io website. Create a new HTML file and use the date to name it `week2_cultural_blog.html`. Copy the Code from your `blog_template`
+First, create a new HTML file for your this post in your [USERNAME].github.io website. Copy the Code from your `blog_template` into a new HTML file and use the date to name it `week1_cultural_blog.html`. 
 
 Once you've opened your file, write a response to each exercise using the HTML you've learned to set up the file: 
 
-#### Exercise 1:
+## Release 1:
 
 When you think of the times in your life where you’ve been the
 happiest, the proudest, or the most satisfied, which of the following
@@ -116,13 +116,13 @@ Wisdom
 
 
 
-#### Exercise 2:
+## Release 2:
 
 Pick one value and write a couple of sentences about why one of the values you chose is important to you.
 
 
 
-#### Exercise 3:
+## Release 3:
 
 Answer the following for the values you chose in Exercise 1:
 
@@ -132,7 +132,7 @@ Disagree 1 ----- 2 ----- 3 ----- 4 ----- 5 Agree
 
 
 
-#### Exercise 4:
+## Release 4:
 
 What was the last topic that someone asked for your advice on?
 
