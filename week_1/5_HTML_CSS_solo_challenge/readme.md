@@ -1,19 +1,18 @@
 # U1.W1: More HTML & CSS
 
+**THIS IS YOUR SOLO CHALLENGE FOR WEEK 1.** Please reference the [Phase 0 Handbook](https://github.com/Devbootcamp/phase_0_handbook/) for more details as to what this entails.
+
 ## Learning Competencies
 - Position HTML elements using CSS padding, borders, and
    margins.
 - Use HTML tags to present information on a website
 
 
-## Releases
-
-
-**THIS IS YOUR SOLO CHALLENGE FOR WEEK 1.** Please reference the [Phase 0 Handbook](https://github.com/Devbootcamp/phase_0_handbook/) for more details as to what this entails.
  
-Everything in this challenge is within the context of the `unit1_week` folder in your website repository.
+## Release 0: More HTML
 
-### 1. More HTML
+Everything in this challenge is within the context of the `unit1_projects` folder in your website repository.
+
 
 #### a. Learn
 
@@ -35,7 +34,7 @@ Add the following to `dbc2.html`
 * Add width and height to divs and give them ids
 
 
-### 2. More CSS
+## Release 1: More CSS
 
 #### a. Learn
 
@@ -61,12 +60,12 @@ Add the following to `dbc2.css`:
 * Float side bar and content area
 
 
-### 3. Reflect
+## Release 2: Reflect
 Go to your [reflection gist](https://gist.github.com) to write your reflection on `4_beginning_HTML_CSS.md`.
 
 <hr>
 
-### OPTIONAL
+## Optimize your learning
 Want to dig a bit deeper into CSS? Curious about the `:hover` you added
 to the CSS for links? 
 
