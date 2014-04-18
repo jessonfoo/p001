@@ -61,7 +61,7 @@ Add the following to `dbc2.css`:
 
 
 ## Release 2: Reflect
-Go to your [reflection gist](https://gist.github.com) to write your reflection on `4_beginning_HTML_CSS.md`.
+On your local repo, edit the [my_reflection.md](./my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
 
 <hr>
 
