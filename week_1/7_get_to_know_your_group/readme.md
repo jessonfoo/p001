@@ -12,18 +12,16 @@
 Despite popular belief, most software engineers work in teams and there is a strong developer community (on the web and locally) for many technologies, including HTML, CSS, JavaScript, and Ruby.  It's important to get used to sharing with each other.
 
 
-## Releases
+## Release 0: Intro Email
 
-### 1. Intro Email
-
-Once you know who is in your accountability group, send everyone in your group and email **and** copy it into your [reflection gist](../reflection.md) with your:
+Once you know who is in your accountability group, send everyone in your group and email **and** edit the [my_reflection.md](./my_reflection.md) file associated with this challenge in your local `phase_0_unit_1` repo,. Commit your changes and save them to GitHub. 
 
 * name
 * location
 * favorite websites
 * learning style
 
-### 2. Share your work
+## Release 1: Share your work
 Once you've completed the week's work, send them:
 * link to your reflection file
 * link to your [USERNAME].github.io site
