@@ -6,8 +6,6 @@
 - Summarize the popularity of JavaScript in Web Development
 
 ## Releases
-Remember your [USERNAME].github.io website? Now is your chance to use it for blogging! Create a new HTML file and call it `blog_template`. You will want to reuse the same blog template over again and create a CSS sheet to style it. 
-
 Create a new HTML file and use the date to name it `week3_technical.html`. 
 
 ## Topic
