@@ -137,7 +137,7 @@ Disagree 1 ----- 2 ----- 3 ----- 4 ----- 5 Agree
 What was the last topic that someone asked for your advice on?
 
 
-## Update and Share
+## Release 5: Update and Share
 Link to your blog on the index of your site and sync your changes. Then email the link to your accountability group.
 If you feel comfortable sharing with the group, share your blog on the google+ community under "Blog Posts."
 
