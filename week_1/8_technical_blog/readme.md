@@ -26,6 +26,7 @@ Ask yourself:
   * How do you feel after being on the site for a while? (i.e. "bored", "happy", "anxious or hyper", "like I wasted a lot of time" etc)
   * Does the site sell anything? If so, have you purchased any of it? Why or why not?
 
+
 ## Release 2: Blog it! 
 
 First, create a new HTML file in your [USERNAME].github.io website. Using the HTML skills you learned this week, create a blog template. What makes up a good blog form? Apply some CSS to make it pretty. 

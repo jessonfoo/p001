@@ -60,6 +60,7 @@ Before you can complete your reflection, you'll need to click the "Fork" button 
 
 This will make a copy of the unit 1 curriculum repository into your personal GitHub account. This will be where you add reflections and later solutions. After you click fork, you should be taken from the Devbootcamp.com/phase_0_unit_1 repo to [USERNAME]/phase_0_unit_1
 
+
 ![Forked Repo](../imgs/forked-repo.jpg)
 
 Reflect on your learning by editing the my_reflection.md file in the [1_get_started](./) folder (the folder you are in). You will be learning HTML this week, but these files have a `.md` extension. Do you know what that stands for? It stands for markdown, which is a text-to-HTML conversion tool.  If you would rather write in HTML, you can do that by changing the file extension from .md to .html. 
@@ -69,4 +70,5 @@ You can complete the first 2 challenge reflections on github.com. Click on the m
 ![Editing Reflection](../imgs/adding-reflection.jpg)
 
 After you learn how to edit files locally and sync your changes (in the third challenge), you'll want to edit all files on your local `phase_0_unit_1` repository--more on that later. 
+
 

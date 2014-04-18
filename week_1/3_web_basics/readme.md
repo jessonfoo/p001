@@ -79,4 +79,4 @@ If you are using the terminal, follow the [git clone](../git_clone.md) direction
 
 You should edit all code, reflections, etc. from your local text editor. It's bad practice to make changes from github.com. (So forget we told you to do that in the past two challenges)! 
 
-When you finish writing your reflection. Make sure you save it, then go to the directions in release 2 to save your work to GitHub. 
+Now you will want to practice what you've learned in this challenge. Go through the workflow again. This time, fork your repo (https://github.com/[USERNAME]/phase_0_unit_1) into your personal github account. You should see the blog post on your github.io website!
