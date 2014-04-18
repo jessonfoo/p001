@@ -57,5 +57,5 @@ image sharing site.
 * Add the image to your html page.
 
 ### 4. Reflection
-Go write your [reflection](../reflection.md) and answer the questions!
+On your local `phase_0_unit_1` repo, edit the [my_reflection.md](./my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
 

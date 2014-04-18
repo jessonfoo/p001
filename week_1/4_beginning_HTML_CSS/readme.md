@@ -68,4 +68,4 @@ Create a new css file in your repository called `dbc1.css` and save it to the `s
 
 
 ## Release 4: Reflect 
-On your local repo, edit the [my_reflection.md](./my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
+On your local `phase_0_unit_1` repo, edit the [my_reflection.md](./my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
