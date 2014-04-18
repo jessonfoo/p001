@@ -13,7 +13,7 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 1. [Code Combat](1_code_combat)
 2. [Javascript Variables and Objects](2_js_variables_objects)
 3. [Manipulating JavaScript Objects- SOLO CHALLENGE](3_manipulating_js_objects_solo_challenge)
-4. [Create Your Own Code Combat Mission](4_create_code_combat_mission)
+4. [Design Your Own Code Combat Mission](4_design_code_combat_mission)
 5. [Group Project](5_group_project)
 6. [Technical Blog](6_technical_blog.md)
 7. [Cultural Blog](7_cultural_blog.md)
