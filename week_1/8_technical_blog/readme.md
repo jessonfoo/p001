@@ -28,7 +28,11 @@ Ask yourself:
 
 ## Release 2: Blog it! 
 
-Create a new html page in the `unit1_projects` folder and write a blog post analyzing the 3 sites in terms of user experience and design.  Add a link to the `index.html` file for your new blog post!
+First, create a new HTML file in your [USERNAME].github.io website. Using the HTML skills you learned this week, create a blog template. What makes up a good blog form? Apply some CSS to make it pretty. 
+
+Copy the code from your blog template to a new HTML file called `week1_technical_blog.html` in the `unit1_projects` folder. 
+
+Write a blog post analyzing the 3 sites in terms of user experience and design.  Add a link to the `index.html` file for your new blog post! Don't forget to sync your changes to make them live on your github.io site!
 
 ## Release 3: Reflect
 On your local `phase_0_unit_1` repo, edit the [my_reflection.md](./my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
