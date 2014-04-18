@@ -33,7 +33,7 @@ var terah = {
 }
 ```
 
-You will find driver code in the `my_solution.js` file associated with this challenge. Run the code either
+You will find driver code in the [my_solution.js](./my_solution.js) file associated with this challenge. Run the code either
 from the command line using Node.js or by pasting the code of this
 entire file into your browser console.  All tests will log `true`
 in the console when they pass--`false`, otherwise.
@@ -81,10 +81,10 @@ After you run the file, write pseudocode for passing the first failing test in t
 Turn your pseudocode into code by translating each step into code until the test passes. Then move on to the next test.
 
 ###3. Commit and Sync your changes!
-Make sure to put everything (pseudocode, initial solution, refactored solution) in your `my_solution.js` file!  
+Make sure to put everything (pseudocode, initial solution, refactored solution) in your [my_solution.js](./my_solution.js) file!  
 
 
 ##Reflect
-In the reflection section of your 'my_solution.js` file, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
+In the reflection section of your [my_solution.js](./my_solution.js) file, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
 
