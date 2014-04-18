@@ -27,4 +27,4 @@ Once you've completed the week's work, send them:
 * link to your [USERNAME].github.io site
 * link to your wireframe html page
 
-Once you receive someone's reflection, take a look at it and write a comment. Make sure to take a look at your reflection gist to see other people's comments!
+Once you receive someone's reflection, take a look at it and write a comment as an issue on it. 
