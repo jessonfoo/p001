@@ -4,7 +4,7 @@ Welcome to Phase 0! Below you will find links to the curriculum for each week. E
 
 ### [Week 1: HTML/CSS](week_1)
 ### Week 2: More HTML/CSS - *not ready - will be updated by 4/27/2014*
-### Week 3: JavaScript - *not ready - will be updated by 4/27/2014*
+### Week 3: JavaScript - *not ready - will be updated by 5/4/2014*
 
 ## Unit Goals
 - Peer-Pair program at least 3 times with people in your accountability group
