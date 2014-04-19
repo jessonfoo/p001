@@ -1,6 +1,8 @@
 # Introduction to JavaScript
 
-JavaScript is known as the "language of the web." It is a powerful object-oriented language (Ruby is as well). It is light-weight and can communicate with the browser. This week, we will introduce you to basic JavaScript syntax. The goal is not to teach you JavaScript, rather, we want you to feel comfortable with simple variables and functions. 
+**Please do not do any of the challenges in Week 2 or 3. They are in the process of being updated.**
+
+<!-- JavaScript is known as the "language of the web." It is a powerful object-oriented language (Ruby is as well). It is light-weight and can communicate with the browser. This week, we will introduce you to basic JavaScript syntax. The goal is not to teach you JavaScript, rather, we want you to feel comfortable with simple variables and functions. 
 
 You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't worry if you feel like you will forget everything. You will have the chance to review in the last two weeks of Phase 0 and the weekend before you begin Phase 2. Moreover, professional programmers look up information and syntax all the time. They don't have everything memorized either, so think of this as an introduction. The more you use JavaScript the more you will remember. For our purposes here, we want you to learn basics so that you can easily re-learn them later. 
 
@@ -38,4 +40,4 @@ You need to submit your work through [this google form](https://docs.google.com/
 ## Resources
 - [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 - [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) *A JavaScript reference guide for those new to programming*
-- [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) *This resource is better for students with some familiarity with JavaScript who want to know more about style and syntax.*
+- [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) *This resource is better for students with some familiarity with JavaScript who want to know more about style and syntax.* -->

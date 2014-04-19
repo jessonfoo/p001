@@ -1,5 +1,7 @@
 # HTML and CSS cont. 
-This week you will go into more depth on HTML and CSS and get more practice. You will also get to play with Dev Tools and consider the implications of responsive Design. Overall, this week's curriculum should give you the opportunity to go into more depth with HTML and have fun solidifying your knowledge!
+
+**Please do not do any of the challenges in Week 2 or 3. They are in the process of being updated.**
+<!-- This week you will go into more depth on HTML and CSS and get more practice. You will also get to play with Dev Tools and consider the implications of responsive Design. Overall, this week's curriculum should give you the opportunity to go into more depth with HTML and have fun solidifying your knowledge!
 
 
 
@@ -35,4 +37,4 @@ You need to submit your work through [this google form](https://docs.google.com/
 ## Remember your Unit Goals!
 - Pair at least once this week with a member of your accountability group.  *You need to pair 3 times on your own this unit*
 - Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit*
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit* -->
