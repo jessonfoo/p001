@@ -7,8 +7,8 @@ Welcome to Phase 0! Below you will find links to the curriculum for each week. E
 ### Week 3: JavaScript - *not ready - will be updated by 5/4/2014*
 
 ## Unit Goals
-- Peer-Pair program at least 3 times with people in your accountability group
-- [Submit feedback](https://socrates.devbootcamp.com/feedback/new) for all pairing sessions. (You should submit at least 3 for peer sessions and 2 for GPS 1.1 and 1.2)
+- [Peer-Pair program](https://github.com/Devbootcamp/phase_0_handbook/blob/master/peer-pairing_sessions.md) at least 3 times with people in your accountability group. Read about [pairing](https://github.com/Devbootcamp/phase_0_handbook/blob/master/pairing_in_phase_0.md) before hand. 
+- [Submit feedback](https://socrates.devbootcamp.com/feedback/new) for all pairing sessions. (You should submit at least 3 for peer sessions and 2 for [GPS 1.1 and 1.2](https://github.com/Devbootcamp/phase_0_handbook/blob/master/guided_pairing_sessions.md))
 - [Rate Feedback](https://socrates.devbootcamp.com/feedback) at least 20 pieces of other people's feedback. 
 
 #### How to navigate this repository
