@@ -58,6 +58,6 @@ You added an MIT License to your repository.  Read these articles to explain why
 
 ## Release 3: Reflect
 
-Reflect on your learning by editing the my_reflection.md file in the [2_set_up_repo](./) folder (the folder you are in). Please refer to the [Reflection Guidelines](../reflection_guidelines.md). 
+Reflect on your learning by editing the my_reflection.md file in the [2_set_up_repo](./) folder (the folder you are in). Please answer to the questions in the file. 
 
 You can complete the first 2 challenge reflections on github.com. Click on the my_reflection.md file in this folder. There should be a button to edit at the top. Click it. You'll add your reflection in markdown and write a commit message under "Commit changes". Once you type something there, you will want to click the "commit changes" button. **NOTE: It will not let you commit changes without a commit message.**
