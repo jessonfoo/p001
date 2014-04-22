@@ -27,6 +27,14 @@ You need to submit your work through a form (to be released) by Sunday at 11:59p
 * Comparing websites and values blog posts
 * Links to comments you wrote on your groups reflection
 
+### Fetching changes from DBC's master repo
+Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community.
+
+- If you are doing this from the Github Desktop App, follow [these](http://stackoverflow.com/questions/11394349/upstream-pulls-with-the-github-desktop-client
+)
+directions. 
+- If you are doing it from the command line, follow [these](https://help.github.com/articles/syncing-a-fork) directions.
+
 ## Remember your Unit Goals!
 - Pair at least once this week with a member of your accountability group.  *You need to pair 3 times on your own this unit*
 - Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit*
