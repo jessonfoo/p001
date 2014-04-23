@@ -45,7 +45,7 @@ If you are working on Linux and/or want to challenge yourself further, skip to t
 
 This section is for Linux users or those who want to challenge themselves.  Later in DBC and in your life as a professional developer, you will use git and access GitHub using the command line (aka "terminal").
 
-Use [this tutorial](git_clone.md) to clone your repository on the command line.
+Use [this tutorial](../git_clone.md) to clone your repository on the command line.
 
 ## Release 2: Open Source
 
