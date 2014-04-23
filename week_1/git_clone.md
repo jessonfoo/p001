@@ -10,7 +10,7 @@ The SSH ("Secure Shell") url is what you will use to clone your repository with 
 
 You can find it at the bottom of the left sidebar on your repository page on Github.
 
-![Clone a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/1_Get_Started/imgs/github-command.jpg)
+![Clone a repo](https://raw.github.com/Devbootcamp/phase_0_unit_1/master/week_1/imgs/github-command.jpg)
 
 ### Clone it!
 
