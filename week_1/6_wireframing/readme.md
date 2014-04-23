@@ -39,7 +39,7 @@ for others it may not.  Either is OK.
 
 ## Release 2: Apply it
 For each of the websites you choose for your [comparing
-websites](../4_Comparing_Websites/) post, try to backwards engineer
+websites technical blog](../8_technical_blog/) post, try to backwards engineer
 their web design process.  You can choose one individual page for each
 site.
 
