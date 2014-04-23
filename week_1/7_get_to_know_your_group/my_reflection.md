@@ -1,6 +1,6 @@
 ## 7. [Getting to know your group](7_get_to_know_your_group/readme.md)
 
-1. Copy your response to <a href="https://github.com/Devbootcamp/phase_0_unit_1/tree/master/week_1/6_Get_to_know_your_group" target="_blank"> Get to know your group</a> in this file.
+1. Copy the email you sent to your group in this file.
 
 <!-- Insert your response here  -->
 
