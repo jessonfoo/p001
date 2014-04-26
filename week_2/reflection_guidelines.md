@@ -1,7 +1,4 @@
-# Reflection Guidelines
-
-
-## Your Reflection
+# Your Reflection
 When writing your reflection, write it for an audience. Tell a story of what you tried and what you learned. It will make it easier for you to go back and re-teach yourself or know what you were thinking. 
 
 Remember, your reflections aren't just for teachers, they are for your fellow cohort mates as well, so be generous! You could end up helping a fellow student learn something new.

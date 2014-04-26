@@ -18,27 +18,28 @@ In this challenge, you'll be diving into Chrome DevTools.  Inside the DevTools i
 
 We'll be focusing primarily on real-time HTML and CSS editing in this challenge and dip our toes into using the tools to identify page elements that slow down performance and page loading.
 
-## Releases
-
-1. Take [Code School's DevTools course](http://discover-devtools.codeschool.com/)  
+## Release 0: Take [Code School's DevTools course](http://discover-devtools.codeschool.com/)  
 
 Focus on chapters 1,2, and 5.  Follow along with the video, and take the quizzes at the end of each chapter (quiz 5.2 deals with JavaScript, so it is not mandatory).  You'll want to create an account with code school so you can accumulate badges and credits for the chapters you complete.  There are also questions in the quiz that will explore the concepts and tools introduced in those chapters.
 
 Take the time to skim the other chapters.  You'll be diving into JavaScript next week, and although the material covering JS (chapters 3 and 4) is a bit advanced, it provides great exposure to JavaScript in the context of the the DevTools console.
 
 
-2. Complete the [Dev Tools Quiz](dev_tools_quiz.md). Take a screenshot of your code school points (They appear on the right of your Code School profile page), upload it to a public image sharing site (like min.us), and include the image in the [dev_tools_quiz.md](dev_tools_quiz.md) file.  
+## Release 1: Complete the [Dev Tools Quiz](dev_tools_quiz.md) 
+Take a screenshot of your code school points (They appear on the right of your Code School profile page), upload it to a public image sharing site (like min.us), and include the image in the [dev_tools_quiz.md](dev_tools_quiz.md) file.  
 
 
-3. Experiment
+## Release 2: Experiment
 
 Play with changing the CSS of your github.io website using Chrome Web Tools.
 
 Then, visit any blog on [wordpress.com](http://www.wordpress.com) or create your own.  Use the Chrome Web Tools to take a peek into the site.  How does it differ from your github.io site's html and css?
 
 
-4. Reflect 
+## Release 3: Reflect 
 Go to your [Reflection file](my_reflection.md) to write your reflection - include answers to the questions in the file in addition to the [reflection guidelines](../reflection_guidelines.md).
+
+## Release 4: Sync and Submit!
 
 ###Resources
 - [Pagespeed Insights](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)

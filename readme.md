@@ -3,7 +3,7 @@
 Welcome to Phase 0! Below you will find links to the curriculum for each week. Each week will be released on Monday and will be due on the following Sunday at 11:59pm.
 
 ### [Week 1: HTML/CSS](week_1)
-### Week 2: More HTML/CSS - *not ready - will be updated by 4/27/2014*
+### [Week 2: More HTML/CSS](week_2)
 ### Week 3: JavaScript - *not ready - will be updated by 5/4/2014*
 
 ## Unit Goals
