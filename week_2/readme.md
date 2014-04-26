@@ -16,7 +16,7 @@ You have a [Cultural Assignment](7_cultural_assignment.md) this week you should 
 
 
 ## Sync DBC's Changes
-####It's time to sync changes from DevBootcamp's phase_0_unit 2 master repo.
+####It's time to sync changes from DevBootcamp's phase_0_unit 1 master repo.
 - If you are doing this from the Github Desktop App, follow [these](http://stackoverflow.com/questions/11394349/upstream-pulls-with-the-github-desktop-client
 )
 directions. 
