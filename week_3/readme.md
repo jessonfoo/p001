@@ -1,6 +1,6 @@
 # Introduction to JavaScript
 
-**Please do not do any of the challenges in Week 2 or 3. They are in the process of being updated.**
+**Please do not do any of the challenges in Week 3. They are in the process of being updated.**
 
 <!-- JavaScript is known as the "language of the web." It is a powerful object-oriented language (Ruby is as well). It is light-weight and can communicate with the browser. This week, we will introduce you to basic JavaScript syntax. The goal is not to teach you JavaScript, rather, we want you to feel comfortable with simple variables and functions. 
 
