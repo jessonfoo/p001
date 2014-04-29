@@ -7,7 +7,7 @@
 - Identify your biggest fear
 - Describe what you would tell your friend if they shared a fear with you. 
 
-## Release 0; Consider the question: 
+## Release 0: Consider the question: 
 **What scares you the most about being at DBC?**
 
 ## Release 1: Email your cohort
