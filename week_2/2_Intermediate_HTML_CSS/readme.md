@@ -3,7 +3,7 @@
 # U1.W2: Intermediate HTML & CSS
 
 ## Learning Competencies
-1. Identify and use web standards, semantic mark up, and HTML5
+- Identify and use web standards, semantic mark up, and HTML5
 
 
 ## Summary
