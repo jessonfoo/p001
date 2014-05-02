@@ -4,18 +4,17 @@
 
 
 ## Learning Competencies
-1. Manipulate an object using JavaScript
-2. Explain what `()` does in JavaScript
-3. Use error messages correct syntax mistakes
+- Manipulate an object using JavaScript
+- Explain what `()` does in JavaScript
+- Use error messages correct syntax mistakes
 
 
-## Releases
-Visit [Code Combat](http://codecombat.com/play) and complete each of the missions in the beginner campaign using the steps below. These directions might seem tedious for something so simple, but it's important to get in the habit of going through these steps.  
+## Release 0: Beginner Campaign
+Visit [Code Combat](http://codecombat.com/play) and complete each of the missions in the beginner campaign using the steps below. These directions might seem tedious for something so simple, but it's important to get in the habit of going through these steps every time you work through a challenge.  
 
-
-Write pseudocode and an initial solution for each mission in your [my_solution.js](./my_solution.js) file. Please write the title of each mission (as a comment) as you go. 
+## Release 1: Pseudocode
+Write the title of each mission (as a comment) in your [my_solution.js](./my_solution.js) file. 
  
-###1. Pseudocode 
 Write simple pseudocode for each challenge. For example, write something like:
 
 ```javascript
@@ -24,17 +23,19 @@ Write simple pseudocode for each challenge. For example, write something like:
 // ATTACK!
 ```  
 
-###2. Initial Solution
+## Release 2: Initial Solution
 Translate your pseudocode into code and see if it achieves the goals. If it doesn't quite work, modify it. Once you achieve each of the goals in each part, paste your successful code into your file. 
 
-###3. Answer the following:
-When you are finished with all of the levels, answer the following questions. You may want to look at some resources on JavaScript before answering.
+Repeat releases 1 and 2 for each mission.
+
+## Release 3: Answer the following questions
+When you are finished with all of the campaigns, answer the following questions. You may want to look at some resources on JavaScript before answering.
   - What is `this` referring to? Think programming-wise rather than in the terms of the game. 
   - What does the `()` do in JavaScript?
   - What is the point of the semicolons?
 
-## Reflect
-In the reflection section of your 'my_solution.js` file, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md).. ***NOTE: Reflections are mandatory!***
+## Release 4: Reflect
+In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](../reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
 
 

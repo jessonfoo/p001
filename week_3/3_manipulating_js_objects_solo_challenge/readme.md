@@ -5,19 +5,9 @@
 **This is a solo challenge. Refer to the [solo challenge](https://github.com/Devbootcamp/phase_0_handbook/blob/master/solo_challenges.md) guidelines in the [Phase 0 Handbook](https://github.com/Devbootcamp/phase_0_handbook/).**
 
 ## Learning Competencies
-1. Define local variables in JavaScript
-2. Create, add properties to, delete properties from, and access values from JavaScript Object literals
-3. Use pre-written tests to drive development
-
-
-## Releases
-This is the process you should go through every time you work on a challenge.
-
-1. Run the tests
-2. Write pseudocode
-3. Create a passing solution
-4. Refactor
-5. Reflect 
+- Define local variables in JavaScript
+- Create, add properties to, delete properties from, and access values from JavaScript Object literals
+- Use pre-written tests to drive development
 
 
 In this challenge you will work with the following JavaScript object that has been assigned to the variable terah.
@@ -33,18 +23,19 @@ var terah = {
 }
 ```
 
-You will find driver code in the [my_solution.js](./my_solution.js) file associated with this challenge. Run the code either
+## Release 0: Run the tests
+You will find driver test code in the [my_solution.js](./my_solution.js) file associated with this challenge. Run the code either
 from the command line using Node.js or by pasting the code of this
 entire file into your browser console.  All tests will log `true`
 in the console when they pass--`false`, otherwise.
 
-Follow the steps below to make the tests pass and complete the challenge.  
-The order of the steps corresponds to the order of the tests.  After completing 
-each step, run your code to be certain that the next test has passed.
+## Release 1: Pseudocode
+After you run the file, write pseudocode for passing the each failing test in the pseudocode section of the `my_solution.js` file. Write pseudocude using the tips on style in calpoly's [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html). Make sure your pseudocode is broken down to easily implementable steps.
 
-When all of the tests have passed, your final `terah` object will be logged to the console.
+## Release 2: Initial Solution
+Turn your pseudocode into code by translating each step into code until the test passes.
 
-
+You'll want to follow the outline below:
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
 
@@ -72,19 +63,14 @@ When all of the tests have passed, your final `terah` object will be logged to t
 
 11. Add a children property to adam and assign it the value of terah children.
 
+Follow the steps below to make the tests pass and complete the challenge.  
+The order of the steps corresponds to the order of the tests.  After completing 
+each step, run your code to be certain that the next test has passed.
 
+When all of the tests have passed, your final `terah` object will be logged to the console.
 
-###1. Pseudocode
-After you run the file, write pseudocode for passing the first failing test in the pseudocode section of the `my_solution.js` file. Write pseudocude using the tips on style in calpoly's [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html). Make sure your pseudocode is broken down to easily implementable steps.
+## Release 3: Reflect
+In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](../reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
-###2. Initial Solution
-Turn your pseudocode into code by translating each step into code until the test passes. Then move on to the next test.
-
-###3. Commit and Sync your changes!
-Make sure to put everything (pseudocode, initial solution, refactored solution) in your [my_solution.js](./my_solution.js) file!  
-
-
-##Reflect
-In the reflection section of your [my_solution.js](./my_solution.js) file, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
-
-
+## Release 4: Commit and Sync your changes!
+Make sure to put everything (pseudocode, initial solution, and reflection) in your [my_solution.js](./my_solution.js) file and sync your changes with your repo on github!  

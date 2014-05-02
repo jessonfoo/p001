@@ -68,3 +68,6 @@ create a way to display each of them with their respective properties, and make 
 Now that you're just as awesome at Javascript as you are in wrangling Hollywood talent,
 try adding something new to your system! Want to manage something new from your clientele?
 Or maybe a way to display/advertise your business? Get in there and Code with the Stars!
+
+## Release : Reflect
+In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](../reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
