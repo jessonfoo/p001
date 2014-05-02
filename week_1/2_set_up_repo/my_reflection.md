@@ -7,3 +7,4 @@
 * What concepts were solidified in the challenge? Did you have any "aha" moments? What did you struggle with?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
+<!-- Add your reflection here. Remove the comment markers -->
