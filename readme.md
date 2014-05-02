@@ -4,7 +4,7 @@ Welcome to Phase 0! Below you will find links to the curriculum for each week. E
 
 ### [Week 1: HTML/CSS](week_1)
 ### [Week 2: More HTML/CSS](week_2)
-### Week 3: JavaScript - *not ready - will be updated by 5/4/2014*
+### [Week 3: JavaScript](week_3))
 
 ## Unit Goals
 - [Peer-Pair program](https://github.com/Devbootcamp/phase_0_handbook/blob/master/peer-pairing_sessions.md) at least 3 times with people in your accountability group. Read about [pairing](https://github.com/Devbootcamp/phase_0_handbook/blob/master/pairing_in_phase_0.md) before hand. 
