@@ -10,12 +10,12 @@
 
 We think of the web and websites as mostly static. They look the way they look.  But it's really more complicated than that.  Web designers and developers spend a lot of time thinking about how to make web pages usable in all the possible formats (phones, tablets, web) while keeping them maintainable (i.e. not taking a billion years to make small changes). The WC3 makes changes to HTML and CSS every bunch of years, so they think about how the language itself makes things easier or harder. You should start thinking about these things too.
 
--*Everything in this challenge is within the context of the `unit1_projects` folder in your [USERNAME].github.io repository.**
+**Everything in this challenge is within the context of the `unit1_projects` folder in your [USERNAME].github.io repository.**
 
 
 ## Release 0: Research
 
-Do some research into standard practices of web design, reset css, and HTML5. Use the links below *and* look for resources on the web. If you find good ones, add them to your resources spreadsheet in the Google+ community!
+Do some research into standard practices of web design, reset css, and HTML5. Use the links below *and* look for resources on the web. If you find good ones, share them with your cohort in the Google+ community!
 
 * Slides: [Structure standards and HTML5](http://girldevelopit.com/assets/intermediate-html-css/class1.html#/17)
 * Read: [HTML5 and the document outlining algorithm](http://web.archive.org/web/20120627103207/http://coding.smashingmagazine.com/2011/08/16/html5-and-the-document-outlining-algorithm/)
