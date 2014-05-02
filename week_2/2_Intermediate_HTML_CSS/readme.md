@@ -37,7 +37,7 @@ Answer the questions in your [my_reflection.md](my_reflection.md) file.
 Make sure you can see all of your changes on your github.io site!
 
 
-## Optimize Your Learning!
+## Optimize Your Learning (Optional)
 #### Psuedo elements
 ##### a. Learn
 

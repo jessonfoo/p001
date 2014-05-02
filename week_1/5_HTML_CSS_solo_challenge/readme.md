@@ -65,7 +65,7 @@ On your local `phase_0_unit_1` repo, edit the [my_reflection.md](./my_reflection
 
 <hr>
 
-## Optimize your learning
+## Optimize your learning (Optional)
 Want to dig a bit deeper into CSS? Curious about the `:hover` you added
 to the CSS for links? 
 
