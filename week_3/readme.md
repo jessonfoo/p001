@@ -20,7 +20,7 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 6. [Group Project](6_group_project) **Check this out early!**
 7. [Technical Blog](7_technical_blog.md)
 8. [Cultural Blog](8_cultural_blog.md)
-9. [GPS 1.2](9_gps1_2): Your second Guided Pairing Session - DO NOT READ UNTIL YOUR FIRST GPS SESSION!
+9. [GPS 1.2](9_gps1_2): **DO NOT READ UNTIL YOUR FIRST GPS SESSION!**
 
 ## Submitting your work
 
