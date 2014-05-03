@@ -1,7 +1,5 @@
 [Week 3 Home](../)
 
-**Do NOT look at the tests if you are not person 1!**
-
 ## Learning Competencies
 - Write easily implementable pseudocode based on tests
 - Define local variables and functions in JavaScript
@@ -18,6 +16,8 @@ Most of this challenge will probably need to be done between Thursday and Sunday
 NOTE: If you are the first person and know you will be unable to get your part done by the middle of the week, email your group and explain your situation. The second person will then be defaulted to the first person role. Make sure to let them know in your email.
 
 See the graphics below for help knowing who you need to send your files to depending on the size of your accountability group. If you have trouble getting into contact with people in your group, please contact the Phase 0 Facilitator to let her know.
+
+**Do NOT look at the tests if you are not person 1!**
 
 ## Release 0: Person 1 
 ### Translate tests into user stories
@@ -76,9 +76,9 @@ In the reflection section of your formerly named 'my_solution.js` file, reflect 
 - What did you learn about writing user stories, pseudocoding, writing code, refactoring, etc.?
 
 
-![4_person.jpg](/week_3/imgs/4_person.jpg)<br>
-![5_person.jpg](/week_3/imgs/5_person.jpg)<br>
-![6_person.jpg](/week_3/imgs/6_person.jpg)<br>
+![4_person.jpg](/week_3/imgs/4_person.jpg)<br><br><br>
+![5_person.jpg](/week_3/imgs/5_person.jpg)<br><br><br>
+![6_person.jpg](/week_3/imgs/6_person.jpg)<br><br><br>
 
 ## Resources
 * JavaScript: [Object Syntax](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
