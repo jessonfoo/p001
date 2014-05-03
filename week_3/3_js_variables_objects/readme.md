@@ -36,13 +36,13 @@ This is your first introduction to Test-Driven Development (TDD). In this challe
 ## Release 0: Test-Driven Development
 First run your [my_solution.js](./my_solution.js) file in this directory and read the error message, then hypothesize about what you need to write to fix it.
 
-Release 1: Pseudocode
+## Release 1: Pseudocode
 Write specific and write step-by-step ideas to pass each test in code-like English. Each line should be something you can easily translate into code. For help with writing pseudocode, take a look at this [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) example. 
 
-Release 2: Initial Solution
+## Release 2: Initial Solution
 Turn your pseudocode into code by translating each step into code. If your pseudocode is not easy to implement, modify it, and re-attempt to code it. If you are missing a step, be sure to add it to your pseudocode and then try to implement it. When your code passes the test, move on to the next test. 
 
-Release 3: Refactor
+## Release 3: Refactor
 
 Your solution for this challenge is likely to be very simple, so there shouldn't be much to refactor. However, it's good practice to ask yourself the following questions after you write each solution. 
 
@@ -52,7 +52,7 @@ When all the error messages are passing, go back and check each solution. Ask yo
 
 If you can't think of a way to improve your code, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank.
 
-Release 4: Commit and sync
+## Release 4: Commit and sync
 Now that you've done all this work, don't forget to sync your changes using the github desktop application!
 
 Make sure to edit line 1 to reflect whether you worked on the challenge on your own or with a pair. If you worked with a pair, make sure to put his/her name!
