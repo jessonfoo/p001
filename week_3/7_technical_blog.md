@@ -5,19 +5,21 @@
 ## Learning Competencies
 - Summarize the popularity of JavaScript in Web Development
 
-## Releases
+## Release 0: Create your file
 Create a new HTML file and use the date to name it `week3_technical.html`. 
 
-## Topic
-Research the following question and write a blog post to answer it. There is no length requirement, but you should research enough so you feel like you can answer this question. 
+## Release 1: Research
+Research the following question:
 
 #### Why is JavaScript so popular in web development?
 
-HINT: Intend your blog for a non-technical audience. Imagine explaining to a non-technical friend, for instance. 
+## Release 2: Blog!
 
+Write about what you learned during your research. There is no length requirement, but you should write your blog for a non-technical audience that shows off your understanding of the material.
 
-## Submit
-Link to your blog on the index of your site and sync your changes. Email the link to your accountability group.
-Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.
+## Release 3: Submit
+Link to your blog on the index of your github.io site and sync your changes. 
+
+Share your blog on the google+ community under "Blog Posts!" Read others' posts and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.
 
 
