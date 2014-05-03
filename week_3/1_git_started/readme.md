@@ -1,4 +1,4 @@
-[Week 3 Home](./)
+[Week 3 Home](../)
 
 #U1.W3: "Git" Started
 
