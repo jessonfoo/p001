@@ -17,9 +17,10 @@ This is an open-ended challenge so there are a lot of things you can do with it 
 ## Release 0: Design your Mission
 
 Write an outline of your mission in comments in your [my_solution.js](./my_solution.js) file. Here are some things to think about:
+
 1. Think of some objects and things you would like those objects to do
 2. Create a couple objectives (refer to the code combat mission objectives to tailor these to your mission)
-3. Hover over the `this` in the code section of any mission. What is it referring to? An object? A function? What kinds of attributes do you want to add to your objects? Create your objects in JavaScript
+3. Hover over the `this` in the code section of any mission. What is it referring to? An object? A function? What kinds of attributes do you want to add to your objects? Create your objects in JavaScript.
 4. Think of the methods that are necessary to manipulate your objects and add them to your objects.  
 
 
