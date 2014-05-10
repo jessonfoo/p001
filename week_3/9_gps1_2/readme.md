@@ -76,4 +76,4 @@ try adding something new to your system! Want to manage something new from your 
 Or maybe a way to display/advertise your business? Get in there and Code with the Stars!
 
 ## Release 6: Reflect
-In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](../reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
+In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). ***NOTE: Reflections are mandatory!***

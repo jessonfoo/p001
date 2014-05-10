@@ -16,10 +16,11 @@ This is an open-ended challenge so there are a lot of things you can do with it 
 
 ## Release 0: Design your Mission
 
-Write an outline of your mission in comments in your [my_solution.js](./my_solution.js) file. Here are some things to think about:
+Write an outline of your mission in comments in your [my_solution.js](my_solution.js) file. Here are some things to think about:
+
 1. Think of some objects and things you would like those objects to do
 2. Create a couple objectives (refer to the code combat mission objectives to tailor these to your mission)
-3. Hover over the `this` in the code section of any mission. What is it referring to? An object? A function? What kinds of attributes do you want to add to your objects? Create your objects in JavaScript
+3. Hover over the `this` in the code section of any mission. What is it referring to? An object? A function? What kinds of attributes do you want to add to your objects? Create your objects in JavaScript.
 4. Think of the methods that are necessary to manipulate your objects and add them to your objects.  
 
 
@@ -40,10 +41,10 @@ When you get to the point that your objects and functions are working as well as
 If you think of a way to improve your code through refactoring, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank, you need to justify the omission of refactoring.
 
 ## Release 4: Reflect
-In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](../reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
+In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
 ## Release 5: Review other's solutions
-[Review others' solutions](../reviewing_solutions.md) by leaving an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
+[Review others' solutions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md) by leaving an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
 
 ## Optimize your Learning (Optional)
 Add your JavaScript objects to an HTML page. Use CSS to make it pretty. What about ascii art? Then look up how to manipulate objects on a page with JavaScript using your functions...

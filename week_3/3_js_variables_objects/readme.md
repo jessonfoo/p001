@@ -34,7 +34,7 @@ Hint: If you get an error message that says something like ...
 This is your first introduction to Test-Driven Development (TDD). In this challenge, you will be dependent upon the provided driver code to guide your coding. Read [The Newbie's Guide to Test-Driven Development](http://code.tutsplus.com/tutorials/the-newbies-guide-to-test-driven-development--net-13835) to learn more about TDD if you're interested. 
 
 ## Release 0: Test-Driven Development
-First run your [my_solution.js](./my_solution.js) file in this directory and read the error message, then hypothesize about what you need to write to fix it.
+First run your [my_solution.js](my_solution.js) file in this directory and read the error message, then hypothesize about what you need to write to fix it.
 
 ## Release 1: Pseudocode
 Write specific and write step-by-step ideas to pass each test in code-like English. Each line should be something you can easily translate into code. For help with writing pseudocode, take a look at this [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) example. 
@@ -58,10 +58,10 @@ Now that you've done all this work, don't forget to sync your changes using the 
 Make sure to edit line 1 to reflect whether you worked on the challenge on your own or with a pair. If you worked with a pair, make sure to put his/her name!
 
 ## Release 5: Reflect
-In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](../reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
+In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
 ## Release 6: Review others' Reflections/Solutions. 
-[Review others' solutions](../reviewing_solutions.md)
+[Review others' solutions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
 
 Leave an issue telling the student what they did well and can do better next time with regard to the pseudocode and reflection. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
 

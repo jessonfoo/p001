@@ -70,7 +70,7 @@ When the first person receives the refactored code from the last person, she/he 
 For everyone: When you receive the summary email, send your repo link to the other students in your accountability group. Look at the two people who followed you (go to the top if you're at the bottom) and comment on each. 
 
 ## Release 5: Reflect
-In the reflection section of your formerly named 'my_solution.js` file, reflect on your learning using the [reflection guidelines](../reflection_guidelines.md). Also answer the following:
+In the reflection section of your formerly named 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). Also answer the following:
 - What was this experience like? 
 - Was your group successful in passing the tests? 
 - What did you learn about writing user stories, pseudocoding, writing code, refactoring, etc.?

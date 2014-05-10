@@ -70,7 +70,7 @@ each step, run your code to be certain that the next test has passed.
 When all of the tests have passed, your final `terah` object will be logged to the console.
 
 ## Release 3: Reflect
-In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](../reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
+In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
 ## Release 4: Commit and Sync your changes!
 Make sure to put everything (pseudocode, initial solution, and reflection) in your [my_solution.js](./my_solution.js) file and sync your changes with your repo on github!  

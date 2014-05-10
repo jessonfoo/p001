@@ -1,5 +1,7 @@
 # HTML and CSS cont. 
 
+Please do not start week 2 until May 19. We will make changes to curriculum and update DBC's master repository. 
+
 This week you will go into more depth on HTML and CSS and get more practice. You will also get to play with Dev Tools and consider the implications of responsive Design. Overall, this week's curriculum should give you the opportunity to go into more depth with HTML and have fun solidifying your knowledge!
 
 You have a [Cultural Assignment](7_cultural_assignment.md) this week you should look at first. 
@@ -18,6 +20,7 @@ You have a [Cultural Assignment](7_cultural_assignment.md) this week you should 
 ## Sync DBC's Changes
 ####It's time to sync changes from DevBootcamp's phase_0_unit 1 master repo!
 Follow [these instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md)!
+
 ## Working through the challenges
 Once you have the entire local repository on your computer, you don't need to read the challenges on github anymore (although we admit, it's prettier). You can open the entire repository in sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us by posting on the community, but also try to figure out a fix. It will help your markdown skills!
 

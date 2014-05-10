@@ -37,7 +37,7 @@ Then, visit any blog on [wordpress.com](http://www.wordpress.com) or create your
 
 
 ## Release 3: Reflect 
-Go to your [Reflection file](my_reflection.md) to write your reflection - include answers to the questions in the file in addition to the [reflection guidelines](../reflection_guidelines.md).
+Go to your [Reflection file](my_reflection.md) to write your reflection - include answers to the questions in the file in addition to the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md).
 
 ## Release 4: Sync and Submit!
 

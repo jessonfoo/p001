@@ -1,6 +1,5 @@
 # U1.W1: Wireframing
 
-
 ## Learning Competencies
 - Explain wireframing
 - Identify the benefits of wireframing
@@ -19,7 +18,7 @@ is often to wireframe it. This process should also help you learn to separate di
 ## Release 0: Intro to Design Thinking
 
 While designers may be "creative" or "artistic", they are also, like
-software engineers problem solvers.  They just solve problems visually
+software engineers, problem solvers.  They just solve problems visually
 instead of with code.  For some of you, this may come really naturally;
 for others it may not.  Either is OK. 
  
@@ -54,5 +53,5 @@ image sharing site.
 * Add the image to your html page.
 
 ## Release 3: Reflection
-On your local `phase_0_unit_1` repo, edit the [my_reflection.md](./my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
+On your local `phase_0_unit_1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
 
