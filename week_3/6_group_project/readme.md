@@ -1,5 +1,7 @@
 [Week 3 Home](../)
 
+# U1.W3: Asynchronous Group Project
+
 ## Learning Competencies
 - Write easily implementable pseudocode based on tests
 - Define local variables and functions in JavaScript
