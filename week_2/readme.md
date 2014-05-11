@@ -17,7 +17,7 @@ You have a [Cultural Assignment](7_cultural_assignment.md) this week you should 
 8. [GPS 1.1](8_gps1_1) **DO NOT LOOK UNTIL YOUR FIRST GUIDED PAIRING SESSION!**
 
 
-## Sync DBC's Changes
+## Fetch DBC's Changes
 ####It's time to sync changes from DevBootcamp's phase_0_unit 1 master repo!
 Follow [these instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md)!
 

@@ -20,6 +20,6 @@ Talk about what came up for you and anything you want in addition to the questio
 
 
 ## Release 3: Submission
-Link to your blog on the index of your github.io site and sync your changes. 
+Link to your blog on the index of your github.io site and sync/push your changes. 
 
 Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 

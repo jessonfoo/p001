@@ -33,7 +33,7 @@ First, create a new HTML file in your [USERNAME].github.io website. Using the HT
 
 Copy the code from your blog template to a new HTML file called `week1_technical_blog.html` in the `unit1_projects` folder. 
 
-Write a blog post analyzing the 3 sites in terms of user experience and design.  Add a link to the `index.html` file for your new blog post! Don't forget to sync your changes to make them live on your github.io site!
+Write a blog post analyzing the 3 sites in terms of user experience and design.  Add a link to the `index.html` file for your new blog post! Don't forget to sync/push your changes to make them live on your github.io site!
 
 ## Release 3: Reflect
 On your local `phase_0_unit_1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 

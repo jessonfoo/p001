@@ -52,7 +52,7 @@ You can try using [QuirkTools](http://quirktools.com/screenfly) to see a site in
 ## Release 2: Reflect
 Reflect on your learning by answering the questions in the [reflection](my_reflection.md) file.
 
-## Release 3: Commit and Sync your changes!
+## Release 3: Commit and sync/push your changes!
 Make sure you can see all of your changes on your github.io site!
 
 

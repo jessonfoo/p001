@@ -28,7 +28,7 @@ Write a blog post that teaches others how and when to use each thing. There is n
 
 
 ## Release 3: Submit
-Link to your blog on the index of your site and sync your changes. Email the link to your accountability group.
+Link to your blog on the index of your site and sync/push your changes. Email the link to your accountability group.
 Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.
 
 

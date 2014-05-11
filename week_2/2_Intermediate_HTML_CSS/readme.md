@@ -33,7 +33,7 @@ Download the [practice files](http://girldevelopit.com/assets/intermediate-html-
 ## Release 2: Reflect
 Answer the questions in your [my_reflection.md](my_reflection.md) file.
 
-## Release 3: Commit and Sync your changes!
+## Release 3: Commit and sync/push your changes!
 Make sure you can see all of your changes on your github.io site!
 
 

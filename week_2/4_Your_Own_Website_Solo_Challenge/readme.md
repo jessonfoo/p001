@@ -73,6 +73,6 @@ Get creative. Have fun.  But be conscious of time.  This will be a work in progr
 ## Release 4: Reflect
 Go write your [reflection](my_reflection.md) and answer the questions!
 
-## Release 5: Commit and Sync your changes!
+## Release 5: Commit and sync/push your changes!
 Make sure you can see all of your changes on your github.io site!
 
