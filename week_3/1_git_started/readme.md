@@ -35,7 +35,7 @@ Give yourself a little cheatsheet (in order) of commands you'll need to:
 - Fetch changes
 - Commit locally
 
-## Release 5: Reflect
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
 ## Release 6: Review

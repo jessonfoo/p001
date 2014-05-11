@@ -36,13 +36,13 @@ This is your first introduction to Test-Driven Development (TDD). In this challe
 ## Release 0: Test-Driven Development
 First run your [my_solution.js](my_solution.js) file in this directory and read the error message, then hypothesize about what you need to write to fix it.
 
-## Release 1: Pseudocode
+## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
 Write specific and write step-by-step ideas to pass each test in code-like English. Each line should be something you can easily translate into code. For help with writing pseudocode, take a look at this [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) example. 
 
-## Release 2: Initial Solution
+## Release 2: [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
 Turn your pseudocode into code by translating each step into code. If your pseudocode is not easy to implement, modify it, and re-attempt to code it. If you are missing a step, be sure to add it to your pseudocode and then try to implement it. When your code passes the test, move on to the next test. 
 
-## Release 3: Refactor
+## Release 3: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
 
 Your solution for this challenge is likely to be very simple, so there shouldn't be much to refactor. However, it's good practice to ask yourself the following questions after you write each solution. 
 
@@ -53,15 +53,14 @@ When all the error messages are passing, go back and check each solution. Ask yo
 If you can't think of a way to improve your code, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank.
 
 ## Release 4: Commit and sync
-Now that you've done all this work, don't forget to sync your changes using the github desktop application!
+Now that you've done all this work, don't forget to push your changes using the github desktop application!
 
 Make sure to edit line 1 to reflect whether you worked on the challenge on your own or with a pair. If you worked with a pair, make sure to put his/her name!
 
-## Release 5: Reflect
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
-## Release 6: Review others' Reflections/Solutions. 
-[Review others' solutions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
+## Release 6: [Review others' Reflections/Solutions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
 
 Leave an issue telling the student what they did well and can do better next time with regard to the pseudocode and reflection. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
 

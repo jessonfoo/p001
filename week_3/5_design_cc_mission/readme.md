@@ -24,15 +24,15 @@ Write an outline of your mission in comments in your [my_solution.js](my_solutio
 4. Think of the methods that are necessary to manipulate your objects and add them to your objects.  
 
 
-## Release 1: Pseudocode
+## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md) 
 Turn your objectives and objects into pseudocode. Write these in plain english and save them as comments. 
 
 *NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
 
-## Release 2: Write your initial code
+## Release 2: Write your [initial code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
 Turn your pseudocode into code by translating each step into code. If your pseudocode is not easy to implement, modify it, and re-attempt to code it. Your functions don't have to work perfectly, but think about how to display something like movement using data structures. Again, your code doesn't have to be perfectly functional. Try writing your functions to the best of your ability. 
 
-## Release 3: Refactor
+## Release 3: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
 When you get to the point that your objects and functions are working as well as you want, ask yourself:
 - Are the variable names you've chosen clear?
 - Is the code concise (but readable)?
@@ -40,11 +40,11 @@ When you get to the point that your objects and functions are working as well as
 
 If you think of a way to improve your code through refactoring, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank, you need to justify the omission of refactoring.
 
-## Release 4: Reflect
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
-## Release 5: Review other's solutions
-[Review others' solutions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md) by leaving an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
+## Release 5: [Review other's solutions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
+Leave an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
 
 ## Optimize your Learning (Optional)
 Add your JavaScript objects to an HTML page. Use CSS to make it pretty. What about ascii art? Then look up how to manipulate objects on a page with JavaScript using your functions...

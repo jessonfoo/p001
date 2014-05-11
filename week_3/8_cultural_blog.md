@@ -22,7 +22,7 @@ Consider your experience in Phase 0 to this point. What has been the biggest str
 Address the questions above in your blog post. 
 
 ## Release 3: Publish
-Link to your blog on the index of your github.io site and sync your changes.
+Link to your blog on the index of your github.io site and push your changes.
 
 Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? What can you learn from others?
 

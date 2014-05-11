@@ -12,7 +12,7 @@
 ## Release 0: Beginner Campaign
 Visit [Code Combat](http://codecombat.com/play) and complete each of the missions in the beginner campaign using the steps below. These directions might seem tedious for something so simple, but it's important to get in the habit of going through these steps every time you work through a challenge.  
 
-## Release 1: Pseudocode
+## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
 Write the title of each mission (as a comment) in your [my_solution.js](./my_solution.js) file. 
  
 Write simple pseudocode for each challenge. For example, write something like:
@@ -23,7 +23,7 @@ Write simple pseudocode for each challenge. For example, write something like:
 // ATTACK!
 ```  
 
-## Release 2: Initial Solution
+## Release 2: Write your [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
 Translate your pseudocode into code and see if it achieves the goals. If it doesn't quite work, modify it. Once you achieve each of the goals in each part, paste your successful code into your file. 
 
 Repeat releases 1 and 2 for each mission.
@@ -34,7 +34,7 @@ When you are finished with all of the campaigns, answer the following questions.
   - What does the `()` do in JavaScript?
   - What is the point of the semicolons?
 
-## Release 4: Reflect
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
 
