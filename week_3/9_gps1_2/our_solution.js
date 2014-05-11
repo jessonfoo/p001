@@ -5,18 +5,18 @@
 //  2.
 
 
-// 1. "YOU SIGNED... WHO?!"
+// 0. "YOU SIGNED... WHO?!"
 
 
 
 
-// 2. "Here they Come!"
+// 1. "Here they Come!"
 
 
 
 
 
-// 3. "TIME IS MONEY!"
+// 2. "TIME IS MONEY!"
 
 //YOUR CODE HERE!
 
@@ -29,12 +29,17 @@ shooterMcGavin.quote === "Just stay out of my way... or you'll pay. Listen to wh
 
 
 
-// 4. "SHOW 'EM OFF!"
+// 3. "SHOW 'EM OFF!"
 
 
 
 
-// ** BONUS **
+
+// 4. "But wait, there's more!"
 
 
-//  Your Reflection:
+
+// 5.  ** BONUS **
+
+
+//  6.  Your Reflection:
