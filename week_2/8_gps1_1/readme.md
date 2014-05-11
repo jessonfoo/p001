@@ -1,6 +1,6 @@
 [Week 2 Home](../)
 
-##U1.W2: GPS 1.1: Your First Pairing Session! 
+#U1.W2: GPS 1.1: Your First Pairing Session! 
 
 **DO NOT LOOK AT THIS CHALLENGE UNTIL YOUR FIRST GUIDED PAIRING SESSION!!**
 
