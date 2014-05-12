@@ -7,7 +7,7 @@
 - Consider strategies for adapting your learning to your thinking style
 
 ## Release 0: Copy your Blog Template
-Copy your blog tempate into a new HTML file named `week9_cultural.html`. 
+Copy your blog tempate into a new HTML file named `week3_cultural.html`. 
 
 ## Release 1: Research
 
