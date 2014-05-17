@@ -26,7 +26,7 @@ Take the time to skim the other chapters.  You'll be diving into JavaScript next
 
 
 ## Release 1: Complete the [Dev Tools Quiz](dev_tools_quiz.md) 
-Take a screenshot of your code school points (They appear on the right of your Code School profile page), upload it to a public image sharing site (like min.us), and include the image in the [dev_tools_quiz.md](dev_tools_quiz.md) file.  
+Take a screenshot of your code school points (They appear on the right of your Code School profile page), add the file to your imgs directory in the `1_Chrome_Dev_Tools` directory, and include the image in the [dev_tools_quiz.md](dev_tools_quiz.md) file.  
 
 
 ## Release 2: Experiment

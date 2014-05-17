@@ -11,7 +11,7 @@
 **What scares you the most about being at DBC?**
 
 ## Release 1: Email your cohort
-Write an email to your cohort (using the cohort mailing list your welcome email was sent to) that answers this question. Use the subject "Cultural Assignment" if you are the first person. 
+Write an email to your cohort using your local cohort mailing list (available on your cohort page in Socrates under the name) that answers this question. Use the subject "Cultural Assignment" if you are the first person. Everyone should reply to the original thread. 
 If you are the second or later, be sure to **REPLY ALL** with your response. Be sure to do this by **Wednesday**. 
 
 ## Release 2: Reply to your cohort-mates

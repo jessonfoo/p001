@@ -62,7 +62,7 @@ image sharing service.
 ## Release 3: Code it up
 
 Use the plan and wireframe as a guide to make the [USERNAME].github.io
-`index.html` reflect you and your current skills. Make sure you commit
+`index.html` and corresponding css files reflect your current skills. Make sure you commit
 and push all your html changes to Github.  
 
 *Remember: you can open an html file in a browser to see changes as you
