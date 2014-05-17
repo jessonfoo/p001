@@ -22,8 +22,8 @@ Consider your experience in Phase 0 to this point. What has been the biggest str
 Address the questions above in your blog post. 
 
 ## Release 3: Publish
-Link to your blog on the index of your github.io site and push your changes.
+Link to your blog on the index of your github.io site and push your changes. Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
 
-Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? What can you learn from others?
+## Release 4: Share!
 
-## Release 4: Read at least 2 other students' blog posts. Try to find at least one who has the same thinking style(s) as you. Did they have similar ideas? What do you think it would be like to pair with them?
+Share your blog on the google+ community under "Blog Posts!" Read others' posts and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.

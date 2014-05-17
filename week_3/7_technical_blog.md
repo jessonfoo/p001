@@ -17,8 +17,10 @@ Research the following question:
 
 Write about what you learned during your research. There is no length requirement, but you should write your blog for a non-technical audience that shows off your understanding of the material.
 
-## Release 3: Submit
-Link to your blog on the index of your github.io site and push your changes. 
+## Release 3: Publish
+Link to your blog on the index of your github.io site and push your changes. Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
+
+## Release 4: Share!
 
 Share your blog on the google+ community under "Blog Posts!" Read others' posts and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.
 
