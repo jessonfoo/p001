@@ -14,19 +14,21 @@ If you would like to open tabs in a new window, please either right click or hol
 #### 5. [More HTML & CSS SOLO CHALLENGE](5_HTML_CSS_solo_challenge)
 #### 6. [Technical Blog](6_technical_blog)
 #### 7. [Cultural Blog](7_cultural_blog.md)
-#### 8. [Wireframing](8_wireframing/)
+#### 8. [Wireframing](8_wireframing)
 #### 9. [Get to know your group](9_get_to_know_your_group)
 
 ## Submitting your work
-You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 1 Form." Expect to submit your links for each of the following:
+You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 1 Form." There is also an extension request form. If you do not finish your work by the designated time, please complete the extension request. When you finish, you are expected to submit your work on the week submission form. 
 
-* Your new website
+Expect to submit your links for each of the following:
+
+* Your new website ([USERNAME].github.io)
 * Each html page created in `unit1_projects` folder
 * Your forked `phase_0_unit_1` repository link
-* Your technical and cultural blog posts
+* Your technical and cultural blog posts (on your github.io ste)
 * Your response to "getting to know your group" 
 
-NOTE: You will have two separate repositories in Github for Unit 1: Your Github.io site and your phase_0_unit_1 repository. 
+NOTE: You will have two separate repositories in Github for Unit 1: Your Github.io site and your phase_0_unit_1 repository. Most of your work will be on the [USERNAME].github.io repo, but the reflections will be submitted
 
 ## Fetching changes from DBC's master repo
 Sometimes we will make changes to the original (Devbootcamp) repository to clarify instructions or add new curriculum. You will need to "fetch" these changes from the master branch when we announce changes on the google+ community. Follow [these](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md) directions to do this. If you are using a windows or linux, you will need to use the command line instructions.
