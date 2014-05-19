@@ -42,7 +42,7 @@ Make sure you can see all of your changes on your github.io site!
 ##### a. Learn
 
 - [:before and :after psuedo
-elements](http://coding.smashingmagazine.com/2011/07/13/learning-to-use-the-before-and-after-pseudo-elements-in-css/)
+elements](https://web.archive.org/web/20140315100620/http://coding.smashingmagazine.com/2011/07/13/learning-to-use-the-before-and-after-pseudo-elements-in-css/)
 - [Amazing things psuedo elements can
 do](http://css-tricks.com/pseudo-element-roundup/)
 - [Icon Fonts are Awesome](https://css-tricks.com/examples/IconFont/)
