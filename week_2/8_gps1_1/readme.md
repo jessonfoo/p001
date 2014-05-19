@@ -24,7 +24,7 @@
 ## GPS-Specific Instructions
   - After you finish this exercise, copy and paste your collaborative code
     into a local HTML and CSS document and push this new page up to your
-    github.io website to publish it online - and link to it from the index of your site...Also add the code to the phase_0_unit_1 repo in the pre-made files. .
+    github.io website to publish it online - and link to it from the index of your site...Also add the code to the phase_0_unit_1 repo in the pre-made files.
   - You will be directed to Stypi.com, where your instructor
      will have a stypi file ready for you. Because we cannot actually link 
      a stylesheet to an HTML page in stypi, we will be placing CSS 
