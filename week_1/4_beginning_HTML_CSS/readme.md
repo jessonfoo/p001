@@ -58,6 +58,7 @@ Add the following to `dbc1.html` (Use this to introduce yourself!)
 * [Mozilla's CSS - Getting Started](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started) (sections 1-6 if you're unfamiliar with CSS, sections 3-5 if you're familiar with CSS)
 * [Hexidecimal color](http://skillcrush.com/2012/05/07/hexadecimal/)
 * [Classes vs IDs](http://skillcrush.com/2013/01/28/understanding-css-classes-vs-ids/)
+* [The Difference between IDs and Classes](http://css-tricks.com/the-difference-between-id-and-class/)
 
 
 #### b. Experiment
