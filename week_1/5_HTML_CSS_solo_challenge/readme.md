@@ -13,6 +13,7 @@
 
 Everything in this challenge is within the context of the `unit1_projects` folder in your website repository.
 
+Think about something you want to teach people about. You will be building a webpage about that topic, so everything in this challenge should be used to teach others about that. You can go above and beyond, adding pictures, fonts, etc. At least create a page that meets the HTML and CSS requirements described in releases 0 and 1.
 
 #### a. Learn
 
@@ -25,13 +26,10 @@ Everything in this challenge is within the context of the `unit1_projects` folde
 #### b. Experiment
 Create a new html page in your repository called `dbc2.html`
 
-Add the following to `dbc2.html`
+Add at least the following to `dbc2.html`
 
-* Header, content area, sidebar, and a footer using divs
+* Header, content area, sidebar, and a footer using divs 
 * Spans
-* Add padding, borders, and margins
-* Center your content area in the browser
-* Add width and height to divs and give them ids
 
 
 ## Release 1: More CSS
@@ -54,6 +52,10 @@ Link the `dbc2.css` file to your `dbc2.html` file
 
 Add the following to `dbc2.css`:
 
+* Format your header, content, sidebar, and footer
+* Add padding, borders, and margins
+* Center your content area in the browser
+* Add width and height to divs and give them ids
 * Psuedo-classes for links
 * Positioning
 * A div that contains an image and a caption, and position the caption absolutely overtop the image.
@@ -74,8 +76,7 @@ to the CSS for links?
 ##### a. Learn
 
 * [Psuedo selectors](http://css-tricks.com/pseudo-class-selectors/)
-* [CSS3 Psuedo
-selectors](http://coding.smashingmagazine.com/2011/03/30/how-to-use-css3-pseudo-classes/)
+* [CSS3 Pseudo selectors](http://coding.smashingmagazine.com/2011/03/30/how-to-use-css3-pseudo-classes/)
 
 ##### b. Experiment
 Add an unordered list (`ul`) to your `dbc2.html` file and add at least 3
