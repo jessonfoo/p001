@@ -30,4 +30,4 @@ Once you've completed the week's work, send them:
 * link to your [USERNAME].github.io site
 * link to your wireframe html page
 
-Once you receive someone's work, take a moment to [review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md) it and leave comments as issues on their repositories. 
+Once you receive someone's repository link, take a moment to review your accountability member's reflections in their various challenges. Then leave feedback for them using the instructions on ["How to Create an Issue"](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md).
