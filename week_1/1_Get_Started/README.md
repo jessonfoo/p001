@@ -37,24 +37,24 @@ Download the GitHub desktop application.
 
 Go through the following resources to learn more about git and GitHub.
 
-* Read: [Version Control](http://skillcrush.com/2013/02/11/version-control/)
-* Slides: [Intro to Git and GitHub from GirlDevelopIt](http://girldevelopit.com/assets/github/index.html#/).  Use your arrow keys to navigate the slides.
-* Read Skillcrush's Git Series: [Git](http://skillcrush.com/2013/02/18/git/), [Getting Started with Git](http://skillcrush.com/2013/02/20/get-started-working-with-git/)
-* Video: [Git 3 Minute Primer](http://www.youtube.com/watch?v=_Jmkvv_nKTE)
+- Read: [Version Control](http://skillcrush.com/2013/02/11/version-control/)
+- Do: [Try Git](https://try.github.io/) and/or [Git Immersion](http://gitimmersion.com/)
+- Read Skillcrush's Git Series: [Git](http://skillcrush.com/2013/02/18/git/), [Getting Started with Git](http://skillcrush.com/2013/02/20/get-started-working-with-git/)
+- Video: [Git 3 Minute Primer](http://www.youtube.com/watch?v=_Jmkvv_nKTE)
 
 #### Git vs. GitHub
 
 Confused about the difference between git and GitHub? Try one of these articles:
 
-* [Git vs. GitHub for Dummies](http://stephaniehoh.github.io/blog/2013/10/07/git-vs-github-for-dummies/)
-* [Is Git the same as GitHub?](http://www.jahya.net/blog/?2013-05-git-vs-github)
+- [Git vs. GitHub for Dummies](http://stephaniehoh.github.io/blog/2013/10/07/git-vs-github-for-dummies/)
+- [Is Git the same as GitHub?](http://www.jahya.net/blog/?2013-05-git-vs-github)
 
 ### Release 2: Reflection
 Reflecting is essential for solidifying your learning. You will be expected to complete a reflection for each challenge in Phase 0. It will help you learn how you learn, give opportunities for sharing resources, and help your instructors gauge your progress. Reflections are for you, but they will also be read by others, so make sure to write for an audience. 
 
 **Writing reflections for each challenge is mandatory.**
 
-Before you can complete your reflection, you'll need to click the "Fork" button at the top right of this page. 
+Before you can complete your reflection, you'll need to click the "Fork" button at the top right of this page. You will write all of your reflections, and most of your challenges (after weeks 1 and 2) in your unit-specific repositories. DO NOT move your reflections into your [USERNAME].github.io repository. These are separate. 
 
 ![Repo to Fork](../imgs/repo-to-fork.jpg)
 
