@@ -47,4 +47,9 @@ Define the following commands and describe how they work/what they do.
 - Fetch changes
 - Commit locally
 
-## Release 5: Reflection
+## Release 5: Errors you encountered
+1. Error
+2. Solution
+3. Cause (explain the error)
+
+## Release 6: Reflection

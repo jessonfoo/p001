@@ -35,9 +35,13 @@ Give yourself a little cheatsheet (in order) of commands you'll need to:
 - Fetch changes
 - Commit locally
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
+## Release 5: Git errors
+If you encountered any errors or things that were confusing in the terminal, copy the error and do some research on it. See if you can fix it. If not, ask for help understanding it on the community. 
+Once it's fixed, see if you can explain what the issue was.
+
+## Release 6: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
-## Release 6: Review
+## Release 7: Review
 [Review others' solutions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md) by leaving an issue. Compare their definitions and workflow to yours. Did you have trouble understanding Git or Github? Did they have trouble? Provide actionable, specific, and kind feedback. (You are expected to leave at least two comments for this challenge).
 
