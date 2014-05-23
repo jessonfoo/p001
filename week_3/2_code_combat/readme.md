@@ -24,7 +24,7 @@ Write simple pseudocode for each challenge. For example, write something like:
 ```  
 
 ## Release 2: Write your [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
-Translate your pseudocode into code and see if it achieves the goals. If it doesn't quite work, modify it. Once you achieve each of the goals in each part, paste your successful code into your file. 
+Translate your pseudocode into code and see if it achieves your goals. If it doesn't quite work, modify it. Once you achieve each of the goals in each part, paste your successful code into your file. 
 
 Repeat releases 1 and 2 for each mission.
 
