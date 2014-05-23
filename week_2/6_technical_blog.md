@@ -10,8 +10,8 @@
 ## Summary:
 Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community. 
 
-## Release 0: Create your blog file
-In your [USERNAME].github.io site, create a new HTML file and use the date to name it `week2_technical.html`. Copy the code from your `blog_template.html`.
+## Release 0: Copy your blog template
+Create a new HTML file and use the date to name it `week2_technical.html`. Copy the code from your `blog_template.html`.
 
 ## Release 1: Select a Topic
 Research one of the following topics:
@@ -28,7 +28,7 @@ Write a blog post that teaches others how and when to use each thing. There is n
 
 
 ## Release 3: Publish
-Link to your blog on the index of your site and sync/push your changes. 
+Link to your post from `index.html` so people can navigate to your page from your site's index. 
 
 Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
 
