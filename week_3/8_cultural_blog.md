@@ -5,6 +5,7 @@
 ## Learning Competencies
 - Research your thinking style
 - Consider strategies for adapting your learning to your thinking style
+- formulate ways to expand the ways you learn and think
 
 ## Release 0: Copy your Blog Template
 Copy your blog tempate into a new HTML file named `week3_cultural.html`. 
@@ -13,9 +14,11 @@ Copy your blog tempate into a new HTML file named `week3_cultural.html`.
 
 Remember your [Gregorc Thinking Style](http://web.cortland.edu/andersmd/learning/gregorc.htm) from your pre-Phase 0 work? If you can't remember what you are, retake the [personal thinking style](http://www.thelearningweb.net/personalthink.html) quiz. 
 
-Now research your thinking style and consider how you can use your understanding of your thinking style to your advantage at DBC.
+Research your thinking style and consider how you can use your understanding of your thinking style to your advantage at DBC to help you learn.
 
-Consider your experience in Phase 0 to this point. What has been the biggest struggle for you? Is it related to the way you think and learn or is it related to something else. If it's related to your learning style, start thinking of strategies to help you. Put some plans of action in place. 
+Consider your experience in Phase 0 to this point. What has been the biggest struggle for you? Is it related to the way you think and learn or is it related to something else? If it's related to your learning style, start thinking of strategies to help you. Put some plans of action in place. 
+
+Now, consider the idea of [growth vs. fixed mindset](http://www.brainpickings.org/index.php/2014/01/29/carol-dweck-mindset/). Part of knowing about your thinking styles is to know what you need to learn effectively, but we also want to encourage you to broaden the ways you learn and think. Our learning and thinking styles can morph and change as we exercise our brains. So think of some ways you can work to expand the ways you learn and think. The more well-rounded you are, the easier it will be to learn quickly and effectively.
 
 
 ## Release 2: Write your Blog!
