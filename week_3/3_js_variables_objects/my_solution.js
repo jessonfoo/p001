@@ -1,26 +1,10 @@
 // I paired [by myself, with:] on this challenge.
 
-
-
-
-// Pseudocode
-// 
-// 
-// 
-// 
-
-
 // __________________________________________
 // Write your code below.
 
 
 
-
-
-
-
-// __________________________________________
-// Refactored Code: Include a refactored version (or justification of your original code) here. 
 
 
 
@@ -37,7 +21,7 @@
 
 
 // __________________________________________
-// Driver Test Code:  Do not alter code below this line.
+// Test Code:  Do not alter code below this line.
 
 function assert(test, message, test_number) {
   if (!test) {
