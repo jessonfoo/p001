@@ -17,6 +17,11 @@ If you would like to open tabs in a new window, please either right click or hol
 #### 8. [Wireframing](8_wireframing)
 #### 9. [Get to know your group](9_get_to_know_your_group)
 
+## Remember your Unit Goals!
+- Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit*
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*
+- Make sure you've signed up for GPS 1.1 and 1.2 (These must be done in a session with guide. They may not be done any other way, so make sure you sign up early!)
+
 ## Submitting your work
 You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 1 Form." There is also an extension request form. If you do not finish your work by the designated time, please complete the extension request. When you finish, you are expected to submit your work on the week submission form. 
 
@@ -33,9 +38,4 @@ NOTE: You will have two separate repositories in Github for Unit 1: Your Github.
 ## Fetching changes from DBC's master repo
 Sometimes we will make changes to the original (Devbootcamp) repository to clarify instructions or add new curriculum. You will need to "fetch" these changes from the master branch when we announce changes on the google+ community. Follow [these](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md) directions to do this. If you are using a windows or linux, you will need to use the command line instructions.
 
-
-## Remember your Unit Goals!
-- Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit*
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*
-- Make sure you've signed up for GPS 1.1 and 1.2 (These must be done in a session with guide. They may not be done any other way, so make sure you sign up early!)
 
