@@ -17,7 +17,7 @@ If you would like to open tabs in a new window, please either right click or hol
 #### 8. [Wireframing](8_wireframing)
 #### 9. [Get to know your group](9_get_to_know_your_group)
 
-## Remember your Unit Goals!
+## Remember your Expectations for the Unit!
 - Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit*
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*
 - Make sure you've signed up for GPS 1.1 and 1.2 (These must be done in a session with guide. They may not be done any other way, so make sure you sign up early!)
