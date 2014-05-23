@@ -17,7 +17,7 @@ Think about something you want to teach people about. You will be building a web
 
 #### a. Learn
 
-* Slides: [More HTML](http://girldevelopit.com/assets/html-css/class3.html)
+* Slides: [More HTML](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class3.html#/)
 
 **Optional resources**
 
@@ -36,8 +36,7 @@ Add at least the following to `dbc2.html`
 
 #### a. Learn
 
-* Slides: [More
-CSS](http://girldevelopit.com/assets/html-css/class4.html)
+* Slides: [More CSS](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class4.html#/)
 
 **Optional resources**
 

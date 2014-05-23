@@ -22,7 +22,7 @@ From this point forward, all work will happen within the `unit1_projects` folder
 
 #### a. Learn
 
-* Slides: [Intro to HTML](http://girldevelopit.com/assets/html-css/class1.html)
+* Slides: [Intro to HTML](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.html#/)
 
 **Optional resources**
 
@@ -50,7 +50,7 @@ Add the following to `dbc1.html` (Use this to introduce yourself!)
 
 #### a. Learn
 
-* Slides: [Intro to CSS](http://girldevelopit.com/assets/html-css/class2.html)
+* Slides: [Intro to CSS](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.html#/)
 
 **Optional resources**
 
