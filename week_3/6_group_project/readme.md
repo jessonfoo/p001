@@ -11,29 +11,25 @@
 - Collaborate with others to solve a problem
 
 ## Summary
-You will be required to work with others in your career as a developer, but you will not always know the large-goals or be responsible for implementing each aspect of the code. In this challenge, you are going to work with your accountability groups to solve small challenges. Each person will have a specific role and you are not allowed to pass along any information outside of your particular responsibility. The roles are determined by the order in your accountability group spreadsheet. The first person will have the first role, second person the second, etc. 
+You will be required to work with others in your career as a developer, but you will not always know the large-goals or be responsible for implementing every part of the code. In this challenge, you are going to work with your accountability group to solve small challenges. Each person will have a specific role and you are not allowed to pass along any information outside of your particular responsibility. The roles are determined by the order in your accountability group spreadsheet. The first person will have the first role, second person the second, etc. 
 
 Most of this challenge will probably need to be done between Thursday and Sunday (so you feel comfortable with JavaScript before hand). Email your group to decide on a potential schedule. 
 
-NOTE: If you are the first person and know you will be unable to get your part done by the middle of the week, email your group and explain your situation. The second person will then be defaulted to the first person role. Make sure to let them know in your email.
-
-See the graphics below for help knowing who you need to send your files to depending on the size of your accountability group. If you have trouble getting into contact with people in your group, please contact the Phase 0 Facilitator to let her know.
-
-**Do NOT look at the tests if you are not person 1!**
+***Notes on this challenge**
+If you are the first person, reach out to your accountability group to let them know when they should expect your solution. If you can't complete it by the middle of the week (Wed), the second person should be defaulted to the first person role, unless you are all in agreement to do it on a delayed schedule (as long as it's all in by Sunday). If you have trouble getting into contact with people in your group, please contact the Phase 0 Facilitator to let her know. It's really important that you have the participation of each person. See the graphics below for help knowing who you need to send your files to depending on the size of your accountability group. **Do NOT look at the tests if you are not person 1!**
 
 ## Release 0: Person 1 
 ### Translate tests into user stories
 
 Look at the `tests.js` file in this directory. 
 
-** Rename your [my_solution.js](./my_solution.js) file to `gc1_user_stories.js`.**
+**Rename your [my_solution.js](./my_solution.js) file to `gc1_user_stories.js`.**
 
 **Based on the tests, write user stories that describe what the code needs to do in very specific terms.** User stories take the following format:
 
 As a user, I want to...
 
 Because you aren't working with users, you can omit the "As a user" part of the story, but make sure you are specific on the "I want to..."part. The user stories should be easily translated into pseudocode by the next person in your group.  However, a user story is *NOT* psuedocode -- it should describe the experience of someone *using* the function.  Words like `array` or `loop` or any word not known to a non-technical person should not be used.  In this case, you can specify the function name.
-
 
 **Email your `gc1_user_stories.js` URL (from your forked phase_0_unit_1 repo) to the next person in your group.**
 
@@ -54,7 +50,7 @@ When you finish your coding, make sure the code runs without any syntax errors. 
 
 When you are finished, send your solution to the next person in your group (again based on the graphics below). 
 
-** Person 4 will also do this in a five and six person group.
+** Person 4 will also do this in a five and six person group.**
 
 ## Release 3: Person 4 
 ### [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md) and translate
@@ -80,8 +76,8 @@ In the reflection section of your formerly named 'my_solution.js` file, reflect 
 
 ![4_person.jpg](/week_3/imgs/4_person.jpg)<br><br><br>
 ![5_person.jpg](/week_3/imgs/5_person.jpg)<br><br><br>
-![6_person.jpg](/week_3/imgs/6_person.jpg)<br><br><br>
+<!-- ![6_person.jpg](/week_3/imgs/6_person.jpg)<br><br><br> -->
 
 ## Resources
-* JavaScript: [Object Syntax](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
-* Socrates JavaScript Labs: [Looping](https://socrates.devbootcamp.com/labs/javascript/loops/looping-basics)
+- JavaScript: [Object Syntax](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
+- Socrates JavaScript Labs: [Looping](https://socrates.devbootcamp.com/labs/javascript/loops/looping-basics)
